@@ -35,11 +35,11 @@ ADSENSE_CLIENT = ""
 # Ad unit slot IDs (AdSense > Ads > By ad unit > Display ads). Create one unit per
 # spot so AdSense can report which spot earns most. Leave a spot empty to skip it.
 ADSENSE_SLOTS = {
-    "project_content": "",   # project page, after "What's going on?"   (best performer)
+    "project_content": "on",   # project page, after "What's going on?"   (best performer)
     "project_side":    "off",   # project page, right column under the video (desktop)
-    "project_bottom":  "",   # project page, above "More ... projects"
-    "home":            "",   # home page, between "Classics" and "Done in 15 minutes"
-    "browse":          "",   # All projects page, below the results
+    "project_bottom":  "off",   # project page, above "More ... projects"
+    "home":            "off",   # home page, between "Classics" and "Done in 15 minutes"
+    "browse":          "off",   # All projects page, below the results
 }
 # True = draw dashed "Ad space" boxes where ads will go, so you can preview the layout
 # before AdSense approves you. Set back to False before publishing.
