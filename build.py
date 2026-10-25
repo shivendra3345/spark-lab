@@ -36,7 +36,7 @@ ADSENSE_CLIENT = ""
 # spot so AdSense can report which spot earns most. Leave a spot empty to skip it.
 ADSENSE_SLOTS = {
     "project_content": "",   # project page, after "What's going on?"   (best performer)
-    "project_side":    "",   # project page, right column under the video (desktop)
+    "project_side":    "off",   # project page, right column under the video (desktop)
     "project_bottom":  "",   # project page, above "More ... projects"
     "home":            "",   # home page, between "Classics" and "Done in 15 minutes"
     "browse":          "",   # All projects page, below the results
