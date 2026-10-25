@@ -1,0 +1,433 @@
+# Rainbow in a Glass of Water
+e=🌈 a=4-10 d=Easy t=15 min
+m: clear glass of water; sunny window or flashlight; white paper
+- Fill a glass to the top with water.
+- Put it on a sunny windowsill.
+- Hold white paper on the floor and move it until a rainbow appears.
+- Try with a flashlight in a dark room.
+w: White light is made of all colors. When light bends through water, each color bends a different amount, so they spread out into a rainbow.
+x: Use a mirror in a tray of water to make an even brighter rainbow.
+
+# CD Spectroscope
+e=💿 a=8-13 d=Medium t=30 min
+m: old CD; cereal box; scissors; tape; foil
+- Cut a thin slit in the top of the box at one end.
+- Cut a viewing hole at the other end, angled down.
+- Tape a piece of CD inside at an angle under the viewing hole.
+- Point the slit at a light and look through the hole.
+- Compare sunlight, LED lights and old bulbs.
+w: The tiny grooves on a CD split light into its colors. Different lights have different color patterns, called spectra.
+x: Look at a candle flame, a neon sign and a phone screen.
+s: Never look directly at the sun.
+
+# Pinhole Camera
+e=📷 a=8-13 d=Medium t=40 min
+m: shoebox or tube; foil; pin; wax paper; tape; black paper; scissors
+- Cut a small square in one end of the box and tape foil over it.
+- Poke a tiny pinhole in the foil.
+- Cut out the other end and tape wax paper over it as a screen.
+- Wrap black paper around to block extra light.
+- Point the pinhole at a bright scene and look at the wax paper.
+w: Light travels in straight lines. Rays from the top of an object cross through the pinhole and hit the bottom of the screen, so the image appears upside down.
+x: Make the hole bigger. What happens to the brightness and sharpness?
+
+# Milk Carton Periscope
+e=🔭 a=7-12 d=Medium t=45 min
+m: 2 clean milk cartons; 2 small mirrors; tape; scissors; ruler
+- Cut the tops off two cartons and tape them together into one long tube.
+- Cut a window near the top on one side and near the bottom on the other side.
+- Tape a mirror at a 45 degree angle behind each window, facing each other.
+- Look into the bottom window to see over walls.
+w: Mirrors reflect light. The top mirror sends light down the tube, and the bottom mirror sends it into your eye.
+x: Make your periscope longer and peek over a fence.
+
+# Kaleidoscope
+e=🔮 a=7-12 d=Medium t=45 min
+m: cardboard tube; 3 strips of mirror card; tape; clear plastic circles; beads and sequins; wax paper
+- Tape 3 mirror strips into a triangle that fits inside the tube.
+- Slide the triangle into the tube.
+- Make a small chamber at the end with clear plastic and beads.
+- Cover with wax paper and look through the other end while turning.
+w: The mirrors reflect the beads again and again, creating repeating symmetrical patterns.
+x: Try a square of 4 mirrors and compare the patterns.
+
+# Arrow Flip Refraction
+e=➡️ a=6-12 d=Easy t=10 min
+m: clear glass; water; paper; marker
+- Draw two arrows pointing the same way on paper.
+- Stand the paper behind an empty glass.
+- Pour water into the glass slowly.
+- Watch the arrows flip direction as the water covers them.
+w: The round glass of water acts like a lens. Light rays cross over as they bend through it, flipping the image.
+x: Move the paper closer and farther away.
+
+# Disappearing Coin
+e=🪙 a=6-11 d=Easy t=10 min
+m: coin; opaque cup; water
+- Put a coin in the bottom of the cup.
+- Move back until the edge just hides the coin.
+- Keep your head still while a friend slowly pours water in.
+- The coin appears!
+w: Light bends when it moves from water into air. This bending, called refraction, lets light from the coin reach your eye.
+x: Put a coin under a glass of water and look from the side. It vanishes!
+
+# Glowing Tonic Water
+e=✨ a=7-13 d=Easy t=15 min
+m: tonic water; plain water; clear glasses; UV black light; dark room
+- Pour tonic water into one glass and plain water into another.
+- Turn off the lights.
+- Shine a black light on both glasses.
+- Watch the tonic water glow blue.
+w: Tonic water contains quinine, which absorbs invisible ultraviolet light and gives off visible blue light. This is called fluorescence.
+x: Freeze tonic water into ice cubes and drop them into a drink under black light.
+s: Do not look directly into UV lights.
+
+# Newton's Color Wheel
+e=🎡 a=6-12 d=Easy t=30 min
+m: white card circle; markers in rainbow colors; pencil or string
+- Divide the circle into 7 equal slices.
+- Color them red, orange, yellow, green, blue, indigo and violet.
+- Push a pencil through the center.
+- Spin it very fast and watch the colors blur.
+w: When the wheel spins fast, your eyes blend all the colors together and the wheel looks whitish.
+x: Make a wheel with only blue and yellow. What color do you see?
+
+# Shadow Puppet Theater
+e=🎭 a=4-10 d=Easy t=1 hour
+m: cardboard box; white sheet or baking paper; black card; sticks; tape; flashlight
+- Cut a window in the box and cover it with white paper.
+- Cut puppet shapes from black card and tape them to sticks.
+- Shine a flashlight from behind the screen.
+- Move puppets close and far from the light.
+- Perform a story!
+w: Shadows form when an object blocks light. Puppets close to the light make big, fuzzy shadows. Close to the screen, they are small and sharp.
+x: Use colored cellophane in your puppets for colored shadows.
+
+# Hologram Pyramid for a Phone
+e=📱 a=9-13 d=Medium t=40 min
+m: clear plastic from packaging or a CD case; graph paper; ruler; scissors; tape; phone
+- Draw a trapezoid template (6 cm bottom, 1 cm top, 3.5 cm tall) on paper.
+- Cut 4 trapezoids from clear plastic.
+- Tape them into a pyramid shape.
+- Place it upside down on a phone playing a "hologram pyramid video".
+- Dim the lights and look at the floating image.
+w: Each side of the pyramid reflects a picture from the screen. Together they make an image that seems to float in the middle. This is a version of an old trick called Pepper's Ghost.
+x: Make a bigger pyramid for a tablet.
+
+# Light Follows Water
+e=💦 a=9-13 d=Medium t=20 min
+m: clear plastic bottle; nail (adult); bright flashlight or laser pointer (adult only); tray; dark room
+- An adult pokes a hole near the bottom of the bottle.
+- Cover the hole and fill the bottle with water.
+- Shine the flashlight through the bottle from the other side, aimed at the hole.
+- Uncover the hole and watch the stream glow.
+w: Light bounces along inside the stream instead of escaping, called total internal reflection. Fiber optic cables carry internet signals this way.
+x: Add a drop of milk to the water to see the light path better.
+s: Never point lasers at eyes.
+
+# Mixing Colors of Light
+e=🔴 a=7-12 d=Easy t=20 min
+m: 3 flashlights; red, green and blue cellophane; rubber bands; white wall
+- Cover each flashlight with a different color.
+- Shine red and green onto the wall where they overlap.
+- Try green and blue, then red and blue.
+- Shine all three together.
+w: Colored light mixes differently from paint. Red and green light make yellow, and all three make white. This is how screens make colors.
+x: Look at a screen with a magnifier and see the tiny red, green and blue dots.
+
+# Why Is the Sky Blue?
+e=🌅 a=7-12 d=Easy t=15 min
+m: clear glass of water; milk; flashlight; dark room
+- Fill the glass with water and add a few drops of milk.
+- Shine a flashlight through the side.
+- Look at the glass from the side. It looks bluish.
+- Look through the glass at the flashlight. It looks orange.
+w: Tiny particles scatter blue light more than red light. In the sky, air scatters blue light everywhere. At sunset, light travels through more air, so mostly reds and oranges reach us.
+x: Add more milk and see the sunset color get deeper.
+
+# Polarized Light Plastic Art
+e=🌀 a=10-14 d=Medium t=20 min
+m: 2 pairs of polarized sunglasses or polarizing sheets; clear plastic cups, forks or tape; phone or laptop screen
+- Set the screen to a plain white page.
+- Hold clear plastic in front of it.
+- Look through polarized sunglasses and slowly rotate them.
+- Watch rainbow colors appear in the plastic.
+w: Screens give off polarized light. Stress in clear plastic twists the light differently for each color, and the sunglasses reveal those twists as colors.
+x: Layer clear tape in patterns on glass to make stained-glass art.
+
+# Bubble Colors
+e=🫧 a=4-10 d=Easy t=20 min
+m: bubble solution; wand; dark background; flashlight
+- Blow a bubble and catch it on a wet surface.
+- Look at the swirling colors in the light.
+- Watch the colors change as the bubble gets thinner.
+- Notice a black spot just before it pops.
+w: Light reflects from both the outside and the inside of the bubble film. These reflections interfere and make colors that change with thickness.
+x: Make your own bubble solution with dish soap, water and glycerin.
+
+# Simple Telescope
+e=🔭 a=11-14 d=Hard t=1.5 hours
+m: 2 magnifying lenses of different strengths; 2 cardboard tubes that slide inside each other; tape; ruler
+- Tape the weaker lens to the end of the wider tube.
+- Tape the stronger lens to one end of the narrower tube.
+- Slide the tubes together.
+- Look at a distant object and slide the tubes to focus.
+w: The big lens collects light and makes an image. The small lens magnifies that image for your eye.
+x: Look at the Moon at night and draw the craters.
+s: Never look at the sun through any lens.
+
+# Mirror Writing Lab
+e=🪞 a=6-11 d=Easy t=20 min
+m: small mirror; paper; pencil
+- Write your name and look at it in a mirror.
+- Try writing so the words read correctly in the mirror.
+- Find capital letters that look the same in the mirror.
+- Write a secret message only readable with a mirror.
+w: Mirrors reverse front to back, so writing appears flipped left to right. Letters like A, H, M, O, T, U, V, W, X and Y are symmetrical.
+x: Write a word made only of symmetrical letters.
+
+# Hinged Mirror Reflections
+e=🪞 a=6-12 d=Easy t=15 min
+m: 2 small mirrors; tape; small toy; protractor
+- Tape two mirrors along one edge so they open like a book.
+- Place a toy between them.
+- Start at 90 degrees and count the toys you see.
+- Close to 60, 45 and 30 degrees and count again.
+w: Light bounces back and forth between the mirrors, making many images. The number of images is about 360 divided by the angle, minus one.
+x: Find the angle that shows 5 toys.
+
+# Afterimage Illusion
+e=👁️ a=6-12 d=Easy t=10 min
+m: drawing with bright colors (a red heart or a flag); white paper; timer
+- Stare at a dot in the middle of the colored picture for 30 seconds without moving your eyes.
+- Quickly look at a white paper.
+- Watch the picture appear in opposite colors.
+- Try with different colors.
+w: Color sensors in your eyes get tired after staring at one color. When you look at white, the tired sensors respond less, so you see the opposite color.
+x: Draw a green, black and yellow flag that shows a red, white and blue afterimage.
+
+# Thaumatrope Spinner
+e=🐦 a=5-10 d=Easy t=20 min
+m: card circle; markers; string or a pencil; tape
+- Draw a bird on one side of a card circle.
+- On the other side, upside down, draw a cage.
+- Tape the card to a pencil or attach strings on each side.
+- Spin it quickly and watch the bird appear in the cage.
+w: Your eyes hold an image for a split second. When the pictures flip fast, your brain combines them into one.
+x: Try a fish and a bowl, or a face and a hat.
+
+# Flip Book Animation
+e=📖 a=7-13 d=Easy t=1 hour
+m: small sticky notes or paper pad; pencil; markers
+- Draw a simple picture on the last page.
+- On the next page, draw it again with a tiny change.
+- Keep going for 20 pages.
+- Flip quickly from back to front.
+w: Showing pictures quickly one after another makes your brain see smooth movement. Cartoons and movies work this way.
+x: Make a bouncing ball that squashes when it hits the ground.
+
+# Paper Zoetrope
+e=🎠 a=9-13 d=Medium t=1 hour
+m: paper plate; card strip; scissors; pencil; push pin; markers
+- Cut 12 evenly spaced slits around a card strip.
+- Draw 12 pictures in a sequence on a paper strip inside.
+- Tape the strip into a circle on a plate.
+- Spin it on a pencil with a pin and look through the slits.
+w: The slits let you see each picture for an instant, so the drawings blend into a moving animation.
+x: Draw a running horse, just like the early animators.
+
+# UV Bead Sunscreen Test
+e=🧴 a=7-12 d=Easy t=30 min
+m: UV color-changing beads; sunscreen; clear zip bags; sunlight
+- Put a few beads in each bag.
+- Rub sunscreen on the outside of some bags. Leave one plain.
+- Take them into the sun.
+- Compare how much the beads change color.
+w: UV beads change color in ultraviolet light. Sunscreen blocks UV, so those beads stay paler.
+x: Test different SPF numbers and sunglasses.
+
+# Which Color Heats Fastest?
+e=🌡️ a=7-12 d=Easy t=1 hour
+m: same-sized cups; papers of black, white, red and blue; thermometer; water; sunny spot
+- Wrap each cup in a different colored paper.
+- Fill with the same amount of cool water.
+- Place them in the sun.
+- Measure the temperature every 15 minutes.
+w: Dark colors absorb more light and turn it into heat. White reflects most light, so it stays cooler.
+x: Which color T-shirt should you wear on a hot day?
+
+# Highlighter Glow Jar
+e=🖍️ a=6-12 d=Easy t=15 min
+m: yellow highlighter; jar of water; UV black light; dark room
+- An adult pulls the ink tube out of a highlighter.
+- Squeeze the ink into a jar of water.
+- Turn off the lights and shine a black light on the jar.
+- Watch it glow.
+w: Highlighter ink is fluorescent. It soaks up invisible UV light and gives off bright visible light.
+x: Paint secret glowing messages with highlighter on paper.
+s: Do not drink. Do not stare into UV lights.
+
+# Garden Hose Rainbow
+e=🌈 a=4-10 d=Easy t=15 min
+m: garden hose with mist nozzle; sunny day
+- Stand with the sun behind you.
+- Spray a fine mist in front of you.
+- Look for a rainbow in the mist.
+- Move around and see how the rainbow moves too.
+w: Each water drop bends sunlight and reflects it back, splitting it into colors. You only see a rainbow when the sun is behind you.
+x: Look for a second, fainter rainbow above the first.
+
+# Benham's Spinning Disc
+e=⚫ a=8-13 d=Easy t=20 min
+m: printed Benham's disc pattern (black and white); card; pencil; glue
+- Glue the black and white pattern on a card circle.
+- Push a pencil through the middle.
+- Spin it under bright light.
+- Look for faint colors appearing.
+w: Even though the disc is only black and white, your eye's color sensors respond at different speeds to the flickering, making you see colors.
+x: Spin it the other way. Do the colors change order?
+
+# Flashlight Mirror Maze
+e=🔦 a=7-12 d=Medium t=45 min
+m: flashlight; 4-6 small mirrors; modeling clay; paper target; dark room; cardboard walls
+- Set the flashlight on one side of a table and the target on the other side behind a wall.
+- Stand mirrors up with clay.
+- Arrange them so the light bounces around the wall and hits the target.
+- Add more walls to make it harder.
+w: Light reflects off mirrors at the same angle it hits them. Angling each mirror carefully steers the beam.
+x: Hit the target with as many bounces as possible.
+
+# Transparent, Translucent, Opaque
+e=🪟 a=4-9 d=Easy t=20 min
+m: flashlight; plastic wrap; wax paper; tissue; cardboard; foil; clear glass; fabric; sorting chart
+- Shine a flashlight at each material.
+- See if light passes clearly, partly or not at all.
+- Sort each into transparent, translucent or opaque.
+- Find more examples around the house.
+w: Transparent materials let light through clearly. Translucent ones let some light through but scatter it. Opaque ones block light completely.
+x: Design a lampshade using the best material.
+
+# Tissue Paper Stained Glass
+e=🎨 a=4-10 d=Easy t=40 min
+m: contact paper; colored tissue paper; black card frame; sunny window
+- Cut a frame from black card.
+- Stick it to sticky contact paper.
+- Fill the space with pieces of tissue paper.
+- Cover with another sheet of contact paper.
+- Hang it in a sunny window.
+w: Colored tissue works like a filter. It lets its own color of light through and absorbs the rest.
+x: Overlap colors. What new colors do you get?
+
+# Colored Shadows
+e=🎨 a=7-12 d=Easy t=20 min
+m: red, green and blue flashlights (or covered with cellophane); white wall; your hand
+- Shine all three lights on the same spot of wall so it looks white.
+- Put your hand in front.
+- Look at the colored shadows.
+- Move the lights to change the colors.
+w: Each shadow blocks one color, so you see the mix of the other two. For example, blocking red leaves green plus blue, which looks cyan.
+x: Predict the shadow colors before you test them.
+
+# Speed of Light with Chocolate
+e=🍫 a=11-14 d=Medium t=20 min
+m: chocolate bar; microwave with the turntable removed; plate; ruler; calculator
+- An adult removes the turntable and puts the chocolate on a plate.
+- Microwave on low for 15 to 20 seconds until spots melt.
+- Measure the distance between melted spots.
+- Double it, then multiply by the frequency on the microwave label (usually 2,450,000,000).
+w: Microwaves make standing waves with hot spots half a wavelength apart. Wavelength times frequency equals the speed of light, about 300,000 km per second.
+x: How close did you get to the real speed of light?
+s: Adult supervision. Do not run the microwave empty or too long.
+
+# Pepper's Ghost Illusion
+e=👻 a=9-13 d=Medium t=45 min
+m: shoebox; clear plastic sheet; small toy; flashlight; black paper
+- Line the inside of the box with black paper.
+- Place a clear plastic sheet at a 45 degree angle inside.
+- Put a toy off to the side, hidden from the viewing hole.
+- Shine a light on the toy and look through the hole.
+- A ghostly image floats in the box.
+w: The clear plastic reflects some light from the hidden toy while letting you see through it, so the toy appears to float in empty space.
+x: Make the ghost appear and disappear by turning the light on and off.
+
+# Black Light Glow Hunt
+e=🔦 a=6-12 d=Easy t=30 min
+m: UV black light; white paper; tonic water; banana; laundry detergent; money; vitamins; dark room
+- Turn off the lights.
+- Shine the black light on each object.
+- Record which ones glow and what color.
+- Look for hidden security marks on money.
+w: Many things contain chemicals that fluoresce under UV light. Laundry brighteners, some vitamins and bank note marks all glow.
+x: Check the spots on a ripe banana peel.
+s: Do not look directly into UV lights.
+
+# Gelatin Lenses
+e=🔍 a=9-13 d=Medium t=1 hour
+m: clear gelatin; water; spoons and round cups for molds; flashlight; comb; paper
+- Make gelatin with less water so it sets firm.
+- Pour into spoons and cups to make curved lens shapes.
+- Once set, pop them out.
+- Shine light through a comb so you get several beams, and watch how the lenses bend them.
+w: Curved clear materials bend light. Lenses that bulge out bring light together, and lenses that curve in spread it apart.
+x: Find the focus point of each lens.
+
+# Sun Print Photograms
+e=🌞 a=5-11 d=Easy t=30 min
+m: sun print paper (cyanotype); leaves, keys and shapes; clear plastic sheet; water; sunny day
+- Place objects on the blue paper.
+- Cover with a clear sheet to hold them flat.
+- Put it in sunlight for 2 to 5 minutes.
+- Rinse the paper in water.
+- Watch white shapes appear on blue.
+w: Sun print paper has chemicals that react to UV light. Covered parts stay unchanged and wash out white.
+x: Make a nature print book with leaves from your garden.
+
+# Red Filter Secret Messages
+e=🕵️ a=6-11 d=Easy t=20 min
+m: red cellophane; red, orange and light blue markers; white paper
+- Write a message in light blue marker.
+- Scribble over it with red and orange marker.
+- Look at the paper through red cellophane.
+- The message appears.
+w: The red filter only lets red light through. Red scribbles blend into the background, but blue writing looks dark and stands out.
+x: Make 3D glasses with red and blue cellophane.
+
+# Shoebox Phone Projector
+e=📽️ a=9-13 d=Medium t=1 hour
+m: shoebox; magnifying glass; tape; black paper; phone; book to prop phone
+- Cut a hole in one end of the box and tape the magnifying glass over it.
+- Line the inside with black paper.
+- Turn the phone brightness up and lock screen rotation, then place the phone upside down inside.
+- Slide the phone back and forth until the image is sharp on a wall.
+w: The lens bends light from the screen to make a bigger image on the wall. It flips the picture, which is why the phone goes upside down.
+x: Measure how big the picture gets as you move farther from the wall.
+
+# Shadow Tracing Through the Day
+e=🌤️ a=5-10 d=Easy t=all day
+m: chalk; sunny driveway or playground; a friend or a toy figure; clock
+- In the morning, stand on a marked spot and have a friend trace your shadow with chalk.
+- Write the time next to it.
+- Come back to the same spot every 2 hours and trace again.
+- Compare the length and direction of each shadow.
+w: As Earth turns, the sun seems to move across the sky. When the sun is low, shadows are long. At midday, when it is high, shadows are short.
+x: Predict where the 4 pm shadow will be before you trace it.
+
+# Water Drop Magnifier
+e=💧 a=5-10 d=Easy t=15 min
+m: clear plastic sheet or wrap; eyedropper; water; newspaper; small objects
+- Lay plastic wrap over a page of newspaper.
+- Put one drop of water on the plastic.
+- Look at the letters through the drop.
+- Try bigger and smaller drops.
+w: The curved surface of a water drop bends light like a lens, making things look bigger.
+x: Which drop size magnifies the most?
+
+# Optical Illusion Brain Tricks
+e=🌀 a=6-13 d=Easy t=20 min
+m: printed optical illusions (lines with arrows, rotating snakes, impossible shapes); ruler; friends; tally sheet
+- Show friends a pair of lines that look different lengths.
+- Ask which is longer, then measure with a ruler.
+- Test 5 illusions and record how many people are fooled.
+- Discuss why each one works.
+w: Your brain uses shortcuts to understand what you see quickly. Illusions trick those shortcuts, so you see something that's not really there.
+x: Design your own illusion.

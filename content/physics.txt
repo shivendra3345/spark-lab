@@ -1,0 +1,445 @@
+# Balloon Rocket on a String
+e=🎈 a=5-11 d=Easy t=20 min
+m: long balloon; string (3-5 m); drinking straw; tape; two chairs
+- Thread the string through the straw and tie each end to a chair, pulling it tight.
+- Blow up the balloon and pinch the end. Do not tie it.
+- Tape the balloon to the straw.
+- Pull the balloon to one end, then let go.
+- Measure how far it travels.
+w: Air rushing out the back pushes the balloon forward. This is Newton's third law: every action has an equal and opposite reaction.
+x: Make the string slope upward and see if the rocket can climb.
+
+# Egg Drop Challenge
+e=🥚 a=7-13 d=Medium t=1 hour
+m: raw eggs; straws; tape; paper; cotton balls; plastic bags; string; recycled boxes
+- Design a container that will protect an egg from a fall.
+- Build it using only the materials provided.
+- Place the egg inside.
+- Drop it from a safe height chosen by an adult, like a step stool or a low balcony.
+- Check the egg and improve your design.
+w: A falling egg breaks because it stops too suddenly. Padding, parachutes and crumple zones make the stop take longer, which reduces the force on the egg.
+x: Drop from higher and higher. What is the record for your design?
+s: Adults choose the drop spot. Clean up raw egg well.
+
+# Paper Airplane Distance Lab
+e=✈️ a=6-12 d=Easy t=40 min
+m: printer paper; tape measure; paper clips; scissors
+- Fold three different paper airplane designs.
+- Throw each one 3 times from the same spot and measure distance.
+- Average the three throws for each plane.
+- Add a paper clip to the nose of your best plane and test again.
+w: Planes fly because of four forces: lift, weight, thrust and drag. Wing shape and weight balance change how long a plane stays in the air.
+x: Bend small flaps on the back of the wings to make your plane loop.
+
+# Marble Roller Coaster
+e=🎢 a=7-13 d=Medium t=1 hour
+m: foam pipe insulation (cut in half lengthwise) or paper strips; tape; marbles; cup; chairs and books
+- Tape one end of the foam track high up on a chair.
+- Make a hill, a curve and a loop with the track.
+- Release a marble from the top and see if it makes it to the cup at the end.
+- Adjust the heights until the marble completes the loop.
+w: The marble stores energy at the top of the hill (potential energy) and turns it into motion energy (kinetic energy) as it rolls down. A loop needs enough speed to keep the marble pressed to the track.
+x: Find the lowest starting height that still makes it through the loop.
+
+# Homemade Pendulum Timer
+e=⏱️ a=8-13 d=Easy t=30 min
+m: string; washers or a small weight; tape; pencil; table edge; stopwatch
+- Tape a pencil to a table edge so it sticks out.
+- Tie a washer to a string and hang it from the pencil.
+- Pull it to the side and let go. Count swings in 30 seconds.
+- Shorten the string and count again.
+- Add more washers and count again.
+w: A pendulum's swing time depends mostly on its length, not its weight. Longer pendulums swing slower. Old clocks used this to keep time.
+x: Find the string length that swings exactly once per second.
+
+# Pendulum Painting
+e=🎨 a=5-12 d=Medium t=45 min
+m: paper cup; string; washable paint thinned with water; large paper; broom handle; two chairs; pin
+- Rest a broom handle across two chairs.
+- Poke a small hole in the bottom of a cup and hang it from the handle with string.
+- Lay big paper underneath.
+- Cover the hole, fill the cup with paint, then swing it in a circle and uncover the hole.
+- Watch the swirling patterns form.
+w: The pendulum slowly loses energy to air and friction, so its swings get smaller and make spiral patterns.
+x: Swing it back and forth in two directions at once to make figure-eight designs.
+
+# Coin and Card Inertia Trick
+e=🃏 a=5-10 d=Easy t=10 min
+m: playing card or index card; coin; cup
+- Place the card on top of the cup.
+- Put the coin in the center of the card.
+- Flick the card sideways quickly with your finger.
+- Watch the coin drop into the cup.
+w: Objects at rest want to stay at rest. This is called inertia. The card moves so fast that friction does not have time to pull the coin along.
+x: Try stacking several coins. Does it still work?
+
+# Inertia Egg Drop Trick
+e=🍳 a=8-13 d=Medium t=15 min
+m: hard-boiled egg; glass of water; pie pan; toilet paper tube
+- Place the pan on top of the glass of water.
+- Stand the tube on the pan right above the water.
+- Balance the egg on top of the tube.
+- Hit the edge of the pan sharply so it flies straight out.
+- The egg drops into the water.
+w: The pan is pushed away, but inertia keeps the egg in place until gravity pulls it straight down into the glass.
+x: Line up 2 or 3 sets and try them all at once.
+s: Practice with a hard-boiled egg. Keep the area clear.
+
+# Toy Car Friction Test
+e=🚗 a=5-11 d=Easy t=30 min
+m: toy car; wide board for a ramp; books; tape measure; towel; foil; sandpaper; carpet sample
+- Make a ramp by resting a board on books.
+- Let the car roll down onto the floor and measure the distance.
+- Cover the floor at the bottom with a towel and test again.
+- Repeat with foil, sandpaper and carpet.
+- Make a chart showing which surface stopped the car fastest.
+w: Friction is a force that slows things down when surfaces rub together. Rough surfaces create more friction than smooth ones.
+x: Change the ramp height and see how it changes the distance.
+
+# Seesaw Lever Balance
+e=⚖️ a=5-10 d=Easy t=20 min
+m: ruler; pencil; coins or blocks
+- Lay a pencil under the middle of a ruler to make a seesaw.
+- Put 2 coins on one end and 1 coin on the other.
+- Slide the single coin farther out until it balances.
+- Move the pencil (the pivot) and try again.
+w: A lever lets a small force balance a bigger one if it is farther from the pivot. This is why a small child far out on a seesaw can balance a bigger child close in.
+x: Find out how to lift 5 coins with only 1 coin.
+
+# Popsicle Stick Catapult
+e=🏹 a=7-13 d=Easy t=30 min
+m: 7 craft sticks; rubber bands; plastic spoon; mini marshmallows or pom-poms; tape measure
+- Stack 5 sticks and wrap rubber bands tightly around both ends.
+- Rubber-band 2 more sticks together at one end only.
+- Slide the stack between the two sticks to make a V.
+- Attach a spoon to the top stick with a rubber band.
+- Load a pom-pom, press down and release. Measure the launch.
+w: Pressing the stick stores energy in the bent wood. When you let go, it turns into motion energy and flings the pom-pom.
+x: Move the stack closer to the end and see how it changes distance and height.
+s: Aim at targets, never at people.
+
+# Balancing Butterfly
+e=🦋 a=5-11 d=Easy t=25 min
+m: card stock; butterfly template or your own drawing; 2 coins; tape; markers
+- Cut out a butterfly shape from card stock and decorate it.
+- Tape a coin to the underside of each wing tip.
+- Balance the butterfly's head on your fingertip.
+- Try balancing it on a pencil point.
+w: Every object has a center of gravity, the point where its weight is balanced. The coins move the center of gravity down to the butterfly's head, so it balances easily.
+x: Move the coins around and see where the balance point goes.
+
+# Balancing Forks Trick
+e=🍴 a=8-13 d=Medium t=15 min
+m: 2 metal forks; toothpick; glass
+- Interlock the prongs of two forks so they form a V.
+- Push a toothpick between the middle prongs.
+- Balance the end of the toothpick on the rim of a glass.
+- Adjust until the forks hang steadily in the air.
+w: The heavy forks hang below the rim, putting the center of gravity right under the balance point. That makes it surprisingly stable.
+x: How few millimeters of toothpick can rest on the glass?
+
+# Pepper Scatter
+e=🧂 a=4-10 d=Easy t=5 min
+m: plate; water; ground pepper; dish soap; toothpick
+- Pour water onto a plate.
+- Sprinkle pepper over the surface.
+- Dip a toothpick in dish soap.
+- Touch the center of the water and watch the pepper race away.
+w: Water has a stretchy skin called surface tension. Soap breaks the tension in the middle, and the stronger pull at the edges drags the pepper outward.
+x: Try glitter or cinnamon instead of pepper.
+
+# Soap-Powered Boat
+e=⛵ a=5-11 d=Easy t=15 min
+m: foam tray or index card; scissors; baking dish; water; dish soap; toothpick
+- Cut a small boat shape about 5 cm long with a notch in the back.
+- Fill the dish with water and float the boat.
+- Dip a toothpick in soap.
+- Touch the soap to the water in the notch.
+- Watch the boat zoom forward.
+w: Soap lowers the surface tension behind the boat. The higher tension in front pulls the boat forward.
+x: Race two boats with different shapes.
+
+# Floating Paper Clip
+e=📎 a=6-11 d=Easy t=10 min
+m: bowl of water; paper clips; small piece of tissue paper; pencil; dish soap
+- Lay a tiny piece of tissue paper on the water.
+- Place a paper clip gently on the tissue.
+- Push the tissue down with the pencil so it sinks away.
+- The paper clip floats!
+- Add a drop of soap and watch it sink.
+w: Surface tension makes water act like a thin elastic skin strong enough to hold up a light paper clip. Soap breaks that skin.
+x: How many paper clips can you float at once?
+
+# Bottle Flip Physics
+e=🍾 a=8-13 d=Easy t=20 min
+m: plastic water bottle with lid; water; measuring cup; tally sheet
+- Fill the bottle one quarter full and try 20 flips. Record how many land upright.
+- Repeat with one third full, half full and three quarters full.
+- Try an empty bottle.
+- Graph the success rate for each amount.
+w: As the bottle spins, the water sloshes and shifts its weight toward the bottom, which slows the spin so it lands upright. Too much or too little water ruins the effect.
+x: Test different bottle shapes.
+
+# Hovering Ping Pong Ball
+e=🏓 a=6-12 d=Easy t=10 min
+m: hair dryer; ping pong ball; bendy straw (optional)
+- Turn the hair dryer on cool and point it straight up.
+- Place the ball in the stream of air and let go.
+- Slowly tilt the dryer to the side. The ball stays.
+- Try with a balloon too.
+w: Fast air has lower pressure than still air. The ball stays in the middle of the fast airstream because the slower air around it pushes it back in. This is Bernoulli's principle.
+x: Use a bendy straw and blow to float a small foam ball.
+
+# Upside-Down Water Glass
+e=🥤 a=6-12 d=Easy t=10 min
+m: plastic cup; water; index card; sink or tub
+- Fill a cup to the very top with water.
+- Place an index card on top.
+- Hold the card in place and flip the cup over over a sink.
+- Slowly take your hand away. The water stays in!
+w: Air pressure pushing up on the card is stronger than the weight of the water pushing down.
+x: Try with a cup half full. Does it still work?
+
+# Can Crush with Air Pressure
+e=🥫 a=10-14 d=Medium t=15 min
+m: empty soda can; tablespoon of water; tongs; stove; bowl of ice water; safety goggles
+- Put goggles on. Add a tablespoon of water to the can.
+- An adult heats the can on the stove until steam comes out.
+- An adult uses tongs to quickly flip the can upside down into ice water.
+- The can crushes instantly with a pop.
+w: Steam pushes air out of the can. When it is cooled fast, the steam turns back into a tiny bit of water, leaving low pressure inside. Outside air pressure crushes the can.
+x: Compare cans with less or more water inside.
+s: Adults only at the stove. The can is very hot.
+
+# Cartesian Diver
+e=🤿 a=7-13 d=Easy t=20 min
+m: plastic bottle with lid; bendy straw; paper clip; modeling clay; water
+- Fold a straw in half and clip the ends with a paper clip.
+- Add a bit of clay so the straw barely floats in a cup of water.
+- Fill the bottle to the top with water and put the diver in.
+- Screw the lid on.
+- Squeeze the bottle and watch the diver sink. Let go and it rises.
+w: Squeezing pushes water into the straw, squashing the air bubble. With less air, the diver gets denser and sinks.
+x: Make several divers that sink at different squeezes.
+
+# Sink or Float Prediction Lab
+e=🛟 a=3-8 d=Easy t=20 min
+m: large tub of water; household objects (apple, coin, toy, crayon, leaf, sponge, key, cork); chart paper
+- Gather 10 objects and predict if each will sink or float.
+- Test them one at a time.
+- Record the results on a chart.
+- Talk about which predictions were surprising.
+w: Objects float if they are less dense than water. Size alone does not decide it. A large apple floats but a small coin sinks.
+x: Can you make a sinking object float, like by shaping clay into a boat?
+
+# Aluminum Foil Boat Challenge
+e=🚤 a=6-13 d=Easy t=30 min
+m: aluminum foil squares (15x15 cm); tub of water; pennies or marbles
+- Shape a piece of foil into a boat.
+- Float it in water.
+- Add pennies one at a time.
+- Count how many it holds before sinking.
+- Redesign and try to beat your record.
+w: Boats float because they push aside water. A wide boat pushes aside more water and so gets more upward push (buoyancy).
+x: Spread pennies out vs piling them in the middle.
+
+# CD Hovercraft
+e=🛸 a=6-12 d=Easy t=20 min
+m: old CD; pop-up sports bottle cap; hot glue (adult); balloon
+- An adult glues the bottle cap over the CD's center hole.
+- Make sure the cap is closed.
+- Blow up a balloon and stretch it over the cap.
+- Set the hovercraft on a smooth table and pop open the cap.
+- Give it a little push and watch it glide.
+w: Air from the balloon makes a thin cushion under the CD, which reduces friction almost to zero, so it glides easily.
+x: Race it on different surfaces like wood, tile and carpet.
+
+# Spinning Top Design
+e=🌀 a=6-12 d=Easy t=30 min
+m: card stock; compass or round objects to trace; short pencils or toothpicks; markers; stopwatch
+- Cut out circles of different sizes.
+- Decorate them with spirals or rings.
+- Push a pencil through the center.
+- Spin each top and time how long it spins.
+w: A spinning top stays upright because of angular momentum. Wider, heavier rims usually spin longer.
+x: Add coins to the rim and see if it spins longer.
+
+# Paper Helicopter
+e=🚁 a=5-11 d=Easy t=15 min
+m: paper strip (5x20 cm); scissors; paper clip
+- Cut halfway down the middle of the strip from the top.
+- Fold the two flaps in opposite directions to make blades.
+- Fold the bottom up and add a paper clip.
+- Drop it from up high and watch it spin.
+w: Air pushes up against the slanted blades as it falls, making it spin and slowing the fall.
+x: Make longer and shorter blades. Which falls slowest?
+
+# Parachute Drop Test
+e=🪂 a=6-12 d=Easy t=40 min
+m: plastic bags; tissue paper; fabric; string; small toy figure; stopwatch; scissors
+- Cut squares of each material the same size.
+- Tie 4 strings to the corners and attach a toy.
+- Drop each from the same height.
+- Time the fall and record results.
+w: Parachutes catch air, which creates drag that slows the fall. Bigger, lighter canopies make more drag.
+x: Cut a small hole in the top. Does it fall straighter?
+
+# Rubber Band Car
+e=🏎️ a=8-13 d=Medium t=1 hour
+m: cardboard; 4 bottle caps; 2 wooden skewers; 2 straws; rubber bands; tape; hot glue (adult)
+- Tape two straws across a cardboard rectangle to hold the axles.
+- Push skewers through the straws and glue caps on the ends as wheels.
+- Hook a rubber band to the front of the car and loop it around the back axle.
+- Wind the back wheels backward to twist the rubber band.
+- Set the car down and let go.
+w: Twisting the rubber band stores elastic energy. When released, it unwinds and turns the axle, making the car move.
+x: Use bigger wheels on the back. Does it go farther?
+
+# Mousetrap Car
+e=🪤 a=11-14 d=Hard t=2 hours
+m: mousetrap; CDs; wooden dowels; string; straws; cardboard; tape; zip ties
+- Attach the mousetrap to a cardboard or wood base.
+- Mount front and back axles with straws as bearings and CDs as wheels.
+- Tie a long string to the trap's arm, extended with a dowel.
+- Wind the string around the back axle, setting the trap.
+- Release and watch the car roll.
+w: The spring stores energy. The long arm pulls the string slowly, turning the axle. A longer arm pulls more string for a longer trip.
+x: Try different arm lengths and wheel sizes for distance vs speed.
+s: Mousetraps can pinch. An adult should help set it.
+
+# Straw Rocket Launcher
+e=🚀 a=5-11 d=Easy t=20 min
+m: paper; tape; drinking straws; pencil; scissors
+- Wrap a strip of paper around a pencil and tape it to make a tube.
+- Fold over one end and tape it closed to make the nose.
+- Add paper fins at the back.
+- Slide the rocket onto a straw and blow hard.
+- Measure the distance.
+w: Your breath pushes air into the closed rocket, creating force that launches it.
+x: Change the launch angle and find the angle for the longest flight.
+s: Never aim at people.
+
+# Stomp Rocket
+e=👟 a=6-12 d=Medium t=40 min
+m: empty plastic bottle; 1 m of flexible tubing or a garden hose piece; PVC pipe; duct tape; paper; tape
+- Tape one end of the tube tightly to the bottle opening.
+- Tape the PVC pipe to the other end as a launch tube.
+- Roll paper rockets that slide over the PVC pipe and tape the nose closed.
+- Place the rocket on the pipe, point it up and stomp on the bottle.
+w: Stomping squashes the air in the bottle, forcing it through the tube to blast the rocket off.
+x: Reinflate the bottle by blowing into the tube and compare small stomps with big stomps.
+s: Launch outdoors away from people.
+
+# Water Bottle Rocket
+e=🌊 a=10-14 d=Hard t=1.5 hours
+m: 2-liter soda bottle; cork that fits the bottle; bike pump with needle; card stock fins; tape; water; open field; safety goggles
+- Tape fins to the bottle and a cone of card on the bottom (this becomes the nose).
+- Push the pump needle through the cork.
+- Fill the bottle one third with water and push the cork in tightly.
+- Set it upside-down on a stand, step back and pump.
+- When pressure builds, the rocket blasts off.
+w: Pumping air builds pressure. When the cork pops, water shoots out downward and pushes the rocket up hard, showing Newton's third law.
+x: Test different amounts of water to find the highest flight.
+s: Goggles and adult supervision. Stand back and never lean over the rocket.
+
+# Marble Collisions
+e=🔵 a=7-12 d=Easy t=20 min
+m: ruler with a center groove; marbles of different sizes; book
+- Line up 5 marbles in the groove.
+- Roll one marble into the line.
+- Watch what happens at the other end.
+- Try rolling two marbles in.
+- Try a big marble hitting small ones.
+w: Momentum moves through the line from marble to marble, so one marble goes out at the end. This is the same idea as a Newton's cradle.
+x: Build a Newton's cradle with beads and string.
+
+# Spool Pulley System
+e=🏗️ a=8-13 d=Medium t=40 min
+m: empty thread spools; pencils or dowels; string; small bucket or cup; coins; tape
+- Push a pencil through a spool and tape the pencil between two chairs.
+- Run a string over the spool and tie a cup on one end.
+- Load the cup with coins and pull the other end to lift it.
+- Add a second spool to make a moving pulley and compare how hard you pull.
+w: Pulleys change the direction of a force. Using more than one pulley shares the load, so you need less force to lift something heavy.
+x: Use a spring scale or rubber band stretch to measure the pulling force.
+
+# Ramp Angle Speed Test
+e=📐 a=8-12 d=Easy t=30 min
+m: board; books; toy car; stopwatch; protractor
+- Make a ramp with 1 book under the board.
+- Time the car rolling down.
+- Add another book and time again.
+- Repeat up to 5 books and graph the results.
+w: A steeper ramp lets more of gravity's pull act along the slope, so the car speeds up faster.
+x: Measure each ramp angle with a protractor.
+
+# Spinning Penny in a Balloon
+e=🎈 a=7-13 d=Easy t=10 min
+m: clear balloon; penny or hex nut
+- Push the penny inside the balloon.
+- Blow up the balloon and tie it.
+- Hold the balloon and swirl it in a circle.
+- Watch and listen as the penny spins around the inside.
+w: The balloon's wall keeps pushing the penny inward while it tries to go straight. This inward push is called centripetal force.
+x: A hex nut makes a spooky humming sound. Compare it with a penny.
+
+# Water Bucket Swing
+e=🪣 a=8-13 d=Easy t=10 min
+m: small bucket with handle; water; outdoor space
+- Fill the bucket halfway with water.
+- Stand outside with plenty of space.
+- Swing the bucket in a big, fast vertical circle over your head.
+- Keep it moving. The water stays in!
+w: As the bucket swings in a circle, the water is pushed toward the bottom of the bucket by inertia and centripetal force, even upside down.
+x: Swing slower. At what speed does it start to spill?
+
+# Unpullable Phone Books
+e=📚 a=8-13 d=Easy t=15 min
+m: two thick paperback books or notebooks
+- Lay the books facing each other.
+- Interleave the pages one by one, overlapping them.
+- Try to pull the books apart by the spines.
+- Ask a friend to help pull.
+w: Each page adds a tiny bit of friction. With hundreds of pages pressing together, the total friction becomes huge.
+x: Test how few pages you can interleave before they slide apart easily.
+
+# Galileo's Gravity Drop
+e=🍎 a=7-12 d=Easy t=15 min
+m: two balls of different weights (tennis ball and baseball); sheet of paper; book; chair
+- Stand on a chair (with an adult) and hold both balls at the same height.
+- Drop them at the same time and listen for them to land.
+- Now drop a flat sheet of paper and a book.
+- Lay the paper on top of the book and drop them together.
+w: Without air resistance, everything falls at the same rate. Heavy and light balls land together. The paper only falls slowly because air pushes against it.
+x: Crumple the paper into a ball and drop it again.
+
+# Homemade Spring Scale
+e=⚖️ a=8-13 d=Medium t=30 min
+m: rubber band or spring; paper cup; string; ruler; tape; coins
+- Tape a ruler to the side of a shelf.
+- Hang a rubber band from the top and tie a cup underneath.
+- Mark where the cup sits empty.
+- Add coins one at a time and mark the stretch.
+- Use your scale to weigh small objects.
+w: The more weight you add, the more the rubber band stretches. Springs stretch evenly, which makes them great for measuring force.
+x: Compare thin and thick rubber bands.
+
+# Domino Chain Reaction
+e=🁢 a=5-12 d=Easy t=45 min
+m: dominoes or wooden blocks; books; ramps; toy car
+- Set dominoes in a long line, about a domino's height apart.
+- Add curves, splits and a ramp.
+- Push the first domino and watch the chain.
+- Time it and count how many fell.
+w: Each domino stores energy when it stands up. A small push releases that energy, which knocks over the next one.
+x: Can a domino knock over one that is twice its size?
+
+# Zip Line Toy Delivery
+e=🧗 a=6-12 d=Medium t=45 min
+m: string; small basket or cup; paper clips; tape; toy figure; chairs at different heights
+- Tie a string from a high point to a low point.
+- Hang a basket from the string with paper clips or a hanger hook.
+- Put a toy inside and let it zip down.
+- Change the slope and test the speed.
+w: Gravity pulls the basket down the slope. A steeper line makes it faster, while friction on the string slows it.
+x: Add a brake to stop the toy gently at the end.

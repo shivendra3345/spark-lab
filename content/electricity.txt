@@ -1,0 +1,446 @@
+# Lemon Battery
+e=🍋 a=8-13 d=Medium t=40 min
+m: 4 lemons; 4 galvanized (zinc-coated) nails; 4 copper coins or copper strips; alligator clip wires; small red LED
+- Roll each lemon on the table to loosen the juice inside.
+- Push a nail and a copper coin into each lemon, about 2 cm apart.
+- Connect the copper of one lemon to the nail of the next with a wire.
+- Connect the free copper and free nail to the two LED legs.
+- If the LED does not light, flip it around.
+w: Lemon juice is an acid that lets electrons flow between two different metals. Each lemon makes a little less than 1 volt. Linking them adds the voltages together.
+x: Try potatoes, oranges and pickles. Which fruit makes the most power?
+s: Do not eat the lemons afterwards.
+
+# Potato Power Clock
+e=🥔 a=8-13 d=Medium t=40 min
+m: 2 potatoes; 2 zinc nails; 2 copper strips; 3 alligator wires; low-power LCD clock (battery removed)
+- Push one nail and one copper strip into each potato.
+- Connect copper from potato 1 to the nail of potato 2.
+- Connect the free nail to the clock's minus side and the free copper to the plus side.
+- Watch the clock start.
+w: Chemical reactions between the metals and the potato's juices push electrons through the wire, making a weak current that can run a clock.
+x: Boil one potato first. Does cooked potato work better?
+
+# Balloon Static Hair
+e=🎈 a=4-10 d=Easy t=10 min
+m: balloon; wool sweater or your hair; small paper bits; mirror
+- Blow up and tie a balloon.
+- Rub it on your hair for 20 seconds.
+- Lift it slowly and watch your hair rise.
+- Hold it over tiny paper bits and see them jump.
+- Stick the balloon to a wall.
+w: Rubbing moves tiny charged particles called electrons from your hair to the balloon. Opposite charges attract, so your hair reaches for the balloon.
+x: Does it work better on a dry day or a humid day?
+
+# Bending Water with Static
+e=🚰 a=6-12 d=Easy t=10 min
+m: plastic comb or balloon; faucet; dry hair
+- Turn on a faucet so a thin, steady stream flows.
+- Rub the comb through dry hair 10 times.
+- Bring the comb close to the water without touching.
+- Watch the stream bend toward the comb.
+w: The charged comb pulls on the water molecules, which have slightly charged ends. The stream bends toward the comb.
+x: Find out how close the comb needs to be to bend the water.
+
+# Static Tissue Ghosts
+e=👻 a=4-9 d=Easy t=15 min
+m: tissue paper; scissors; black marker; balloon; tape; card stock
+- Cut small ghost shapes about 5 cm tall from tissue paper.
+- Draw spooky faces on them.
+- Tape just the bottom of each ghost to a piece of card.
+- Rub a balloon on your hair for 20 seconds.
+- Hold it above the ghosts and watch them rise up and wiggle.
+w: Rubbing gives the balloon an electric charge. The charged balloon attracts the light tissue, making the ghosts stand up.
+x: Try ghosts made of printer paper. Are they too heavy?
+
+# Homemade Electromagnet
+e=🧲 a=9-13 d=Medium t=30 min
+m: large iron nail; 1 m of thin insulated copper wire; D battery; electrical tape; paper clips
+- Leave 15 cm of wire loose and wrap the rest tightly around the nail.
+- Strip the plastic off both wire ends (adult help).
+- Tape the wire ends to the two ends of the battery.
+- Touch the nail to paper clips and count how many it picks up.
+- Disconnect the battery and watch the clips drop.
+w: Electricity flowing through a coil makes a magnetic field. The iron nail makes it stronger. When the current stops, the magnetism goes away.
+x: Wrap 20, 40 and 60 turns. Which picks up the most clips?
+s: The wire can get warm. Disconnect after a few seconds of use.
+
+# First Simple Circuit
+e=💡 a=7-12 d=Easy t=20 min
+m: AA battery; battery holder; small bulb with holder or LED; 2 alligator wires
+- Clip one wire from the battery's plus end to one side of the bulb.
+- Clip the second wire from the other side of the bulb to the minus end.
+- Watch the bulb light.
+- Unclip one wire and see it go out.
+w: Electricity needs a complete loop, called a circuit, to flow. Breaking the loop stops the flow.
+x: Draw your circuit using circuit symbols.
+
+# Squishy Circuits
+e=🫓 a=6-12 d=Easy t=45 min
+m: conductive dough (flour, salt, water, cream of tartar, oil); sugar dough (flour, sugar, oil, water); 4xAA battery pack; LEDs
+- Make salty conductive dough (like play dough) and sugary insulating dough.
+- Shape two balls of salty dough and press the battery pack wires into them.
+- Push LED legs into each ball, keeping them apart.
+- Watch the LED light.
+- Put sugar dough between the salty dough and build creatures.
+w: Salty dough lets electricity flow because salt makes charged particles in the water. Sugar dough does not, so it blocks the flow.
+x: Build a monster with glowing LED eyes.
+
+# Conductor or Insulator?
+e=🔌 a=6-12 d=Easy t=30 min
+m: battery; bulb or LED; 3 wires; spoon; coin; eraser; foil; pencil lead; plastic; wood; key
+- Make a circuit with a gap between two wire ends.
+- Touch both ends to an object.
+- If the bulb lights, it is a conductor. If not, it is an insulator.
+- Test 10 objects and sort them.
+w: Metals let electrons move freely, so they conduct electricity. Plastic, wood and rubber hold electrons tightly, so they are insulators.
+x: Test water, salt water and sugar water.
+
+# Homopolar Motor
+e=🌀 a=10-14 d=Medium t=20 min
+m: AA battery; strong round neodymium magnet; 20 cm copper wire (bare)
+- Stand the battery on top of the magnet.
+- Bend the copper wire into a heart or spiral shape.
+- Rest the top of the wire on the battery's bump.
+- Make the bottom ends lightly touch the magnet's sides.
+- Watch the wire spin.
+w: Current flows through the wire and the magnet's field pushes on it, making it spin. This is the simplest type of electric motor.
+x: Try different shapes and see which spins fastest.
+s: Strong magnets pinch and must be kept away from small children. The wire gets warm.
+
+# Needle Compass
+e=🧭 a=7-12 d=Easy t=20 min
+m: sewing needle; magnet; cork slice or leaf; bowl of water
+- Stroke the needle with a magnet 30 times in one direction only.
+- Place the needle on a cork floating in water.
+- Watch it turn and settle.
+- Check which way it points with a real compass or phone.
+w: Stroking the needle lines up its tiny magnetic regions. The needle becomes a magnet and lines up with Earth's magnetic field, pointing north-south.
+x: Bring a magnet near your compass and see what happens.
+
+# Magnet Maze Game
+e=🧩 a=5-10 d=Easy t=30 min
+m: paper plate; markers; paper clip; magnet; tape; small paper figure
+- Draw a maze on a paper plate.
+- Tape a paper clip to the bottom of a small paper figure.
+- Place the figure on the plate.
+- Hold a magnet under the plate and guide the figure through.
+w: Magnetic force works through paper and cardboard, so the magnet pulls the clip from underneath.
+x: Test how thick the cardboard can be before the magnet stops working.
+
+# Magnetic Slime
+e=🧲 a=9-13 d=Medium t=30 min
+m: slime ingredients; 2 tbsp iron oxide powder; strong neodymium magnet; gloves
+- Make slime from glue and saline solution.
+- Wearing gloves, knead in iron oxide powder until the slime is dark gray.
+- Hold the magnet near the slime and watch it stretch and creep.
+- Leave the magnet on top and watch the slime slowly swallow it.
+w: The tiny iron particles mixed into the slime are attracted to the magnet, pulling the whole slime with them.
+x: Make the slime move across the table without touching it.
+s: Adults handle iron powder. Keep strong magnets away from mouths.
+
+# Seeing a Magnetic Field
+e=🔍 a=7-12 d=Easy t=20 min
+m: iron filings in a sealed clear bag or bottle; bar magnet; horseshoe magnet; paper
+- Lay a sheet of paper over the magnet.
+- Gently sprinkle filings on top, or lay the sealed bag of filings over it.
+- Tap the paper lightly.
+- Draw the pattern you see.
+- Try two magnets with poles facing each other.
+w: The filings line up along invisible lines of magnetic force, revealing the magnetic field around the magnet.
+x: Compare the patterns of attracting and repelling poles.
+s: Keep filings sealed so they do not get in eyes.
+
+# Levitating Paper Clip
+e=📎 a=6-11 d=Easy t=15 min
+m: thread; paper clip; tape; strong magnet; ruler; small objects like paper, foil, a coin
+- Tie a paper clip to a thread and tape the thread to a table.
+- Hold the magnet above the clip so it floats without touching.
+- Slide different materials between the clip and the magnet.
+- See which ones make the clip fall.
+w: The magnetic field passes through many materials. Iron objects can block it by taking the magnetism into themselves.
+x: How far can the magnet be and still hold the clip up?
+
+# Magnet Sorting Hunt
+e=🧲 a=3-8 d=Easy t=20 min
+m: magnet; tray of objects like spoons, coins, keys, toys, foil, nails, paper clips; two bowls
+- Predict which objects will stick to the magnet.
+- Test each one.
+- Sort them into "sticks" and "does not stick".
+- Notice that not all metal sticks.
+w: Magnets attract iron, nickel and cobalt. Many metals like aluminum, copper and gold are not magnetic.
+x: Take your magnet on a hunt around the house (away from screens and cards).
+
+# Magnet Strength Chain
+e=⛓️ a=6-11 d=Easy t=20 min
+m: different magnets; box of paper clips; chart paper
+- Hang one paper clip from a magnet.
+- Add clips one at a time to make a chain.
+- Count how many hang before it drops.
+- Repeat with each magnet and graph the results.
+w: Each clip becomes a temporary magnet that holds the next one. Stronger magnets can make longer chains.
+x: Does the chain get longer if you use two magnets together?
+
+# Magnetic Fishing Game
+e=🎣 a=3-8 d=Easy t=30 min
+m: colored paper; scissors; paper clips; wooden spoon or stick; string; magnet; tape; blue paper for the pond
+- Cut out paper fish and write numbers or letters on them.
+- Slide a paper clip onto each fish's nose.
+- Tie a magnet to a string on a stick.
+- Spread the fish on the pond.
+- Catch fish and add up your points.
+w: Magnets attract iron and steel, like the paper clips. Magnetic force works without touching.
+x: Add some fish with aluminum foil clips. Can you catch them?
+
+# Iron in Breakfast Cereal
+e=🥣 a=9-13 d=Medium t=40 min
+m: iron-fortified cereal; zip bag; water; strong magnet; white paper towel
+- Crush a cup of cereal into fine powder in a bag.
+- Add warm water and let it get mushy.
+- Pour into a bowl and stir slowly with a strong magnet for 10 minutes.
+- Wipe the magnet on a white paper towel.
+- Look for tiny black specks.
+w: Some cereals have real iron metal added for nutrition. The magnet pulls out the tiny iron particles.
+x: Compare different cereal brands.
+
+# Pencil Drawing Circuit
+e=✏️ a=8-13 d=Medium t=30 min
+m: very soft pencil (6B or 8B); paper; 9V battery; LED; tape
+- Draw a thick, dark line with the pencil, going over it many times.
+- Tape one LED leg to one end of the line.
+- Touch the battery to the LED and the other end of the line.
+- Watch the LED glow.
+- Make the line longer and see the light dim.
+w: Pencil lead is graphite, a form of carbon that conducts electricity. Longer lines have more resistance, so less current gets through.
+x: Draw a picture whose lines are a working circuit.
+
+# Light-Up Greeting Card
+e=💌 a=9-13 d=Medium t=1 hour
+m: card stock; copper tape; 3V coin battery; LED sticker or LED; binder clip; tape
+- Draw where your light will go on the front of the card.
+- Lay copper tape on the inside in two paths, one for plus and one for minus.
+- Place the LED across the paths at the light spot.
+- Place the coin battery in a fold so closing the card presses it.
+- Close the card and watch it light up.
+w: The copper tape acts like wires. Pressing the battery onto the tape completes the circuit.
+x: Make a birthday cake card with several candle lights.
+s: Coin batteries are dangerous if swallowed. Keep away from small children.
+
+# Steady Hand Buzz Game
+e=〰️ a=9-13 d=Medium t=1 hour
+m: thick bare wire; thin wire loop; buzzer; AA battery pack; wires; clay or cardboard base
+- Bend thick wire into a wiggly path and stick its ends into a base.
+- Make a small loop from thin wire on a handle, around the path.
+- Connect the battery, buzzer, path and loop in a circuit.
+- Move the loop along without touching. If you touch, it buzzes!
+w: When the loop touches the wire path, the circuit completes and current runs through the buzzer.
+x: Add an LED that lights when you reach the end.
+
+# Paper Clip Switch
+e=🔘 a=7-12 d=Easy t=20 min
+m: cardboard; 2 brass fasteners; paper clip; battery; bulb; wires
+- Push two fasteners through cardboard a few centimeters apart.
+- Hook a paper clip around one fastener.
+- Wire the switch into a battery and bulb circuit.
+- Swing the clip to touch the other fastener. The bulb turns on.
+w: A switch opens and closes a circuit. When the clip touches both fasteners, current can flow.
+x: Make a two-way switch that turns on two different lights.
+
+# Salt Water Conductivity
+e=🧂 a=8-13 d=Medium t=30 min
+m: battery; LED; wires; cups of distilled water; tap water; salt water; sugar water
+- Make a circuit with a gap in it.
+- Dip both loose wire ends into a cup, not touching.
+- Watch how bright the LED glows.
+- Test each cup and rank them.
+w: Pure water is a poor conductor. Salt breaks into charged particles called ions that carry electricity. Sugar does not make ions.
+x: Add salt one spoon at a time. Does the LED keep getting brighter?
+
+# Coin Battery Stack
+e=🪙 a=9-13 d=Medium t=30 min
+m: 5 copper coins; aluminum foil; cardboard; vinegar with salt; LED; tape
+- Cut small circles of foil and cardboard the size of a coin.
+- Soak the cardboard in salty vinegar.
+- Stack: coin, cardboard, foil, coin, cardboard, foil.
+- Touch the LED legs to the top and bottom.
+w: This is a voltaic pile, the first battery ever made. Each coin-cardboard-foil layer makes a little voltage, and stacking them adds them up.
+x: How many layers does it take to light the LED?
+
+# Simple Coil Motor
+e=⚙️ a=11-14 d=Hard t=1 hour
+m: enameled copper wire; D battery; 2 large paper clips; strong magnet; sandpaper; rubber band; tape
+- Wrap wire around a marker 10 times to make a coil, leaving straight ends.
+- Sand the enamel off one side of each end only.
+- Bend paper clips into stands and fix them to the battery with a rubber band.
+- Put the magnet on top of the battery.
+- Rest the coil in the stands and give it a little spin.
+w: When current flows, the coil becomes a magnet that is pushed by the fixed magnet. Half-sanded ends switch the current off and on, keeping it spinning.
+x: Add more coil turns and compare speed.
+s: Wire gets warm. Disconnect when not in use.
+
+# Jar Electroscope
+e=🫙 a=9-13 d=Medium t=30 min
+m: glass jar; cardboard lid; copper wire; foil; balloon
+- Push a wire through the lid and bend the bottom end into a hook.
+- Hang two thin foil strips on the hook so they touch.
+- Put the lid on the jar.
+- Rub a balloon on your hair and bring it near the top of the wire.
+- Watch the foil strips spread apart.
+w: Charge flows down the wire to both foil strips. They get the same charge and push away from each other.
+x: Make a small foil ball on top to collect more charge.
+
+# Magnetic Car Race
+e=🏁 a=5-10 d=Easy t=20 min
+m: toy cars; small magnets; tape; bar magnets
+- Tape a small magnet on top of each toy car.
+- Use a bar magnet to push or pull the car without touching.
+- Race a friend down a track.
+- Find which pole pushes and which pulls.
+w: Like poles repel and opposite poles attract. You can push the car by bringing the same pole close.
+x: Build a magnet-powered racetrack obstacle course.
+
+# Morse Code Telegraph
+e=📡 a=10-14 d=Medium t=1 hour
+m: battery; buzzer or LED; 2 long wires; switch made from paper clip; Morse code chart
+- Build a simple circuit with a buzzer and a paper clip switch.
+- Make the wires long so the switch is in one room and the buzzer in another.
+- Tap short and long signals.
+- Send messages using Morse code.
+w: The telegraph sent messages over wires by turning an electric current on and off. It was the first instant long-distance communication.
+x: Use two LEDs and agree on your own secret code.
+
+# Burglar Alarm Circuit
+e=🚨 a=9-13 d=Medium t=45 min
+m: battery; buzzer; wires; clothespin; foil; plastic tab; string
+- Wrap foil around both jaws of a clothespin and connect each to the circuit.
+- Slide a plastic tab between the jaws so the circuit is open.
+- Tie a string from the tab to a door.
+- When the door opens, the tab pulls out and the buzzer sounds.
+w: The plastic insulator keeps the circuit open. Removing it lets the foil touch, completing the circuit.
+x: Put your alarm on a cookie jar.
+
+# Series vs Parallel Circuits
+e=🔀 a=10-14 d=Medium t=40 min
+m: battery pack; 3 small bulbs or LEDs; wires
+- Connect 3 bulbs in a row, one after another (series).
+- Notice how bright they are, then unscrew one.
+- Now connect each bulb on its own branch (parallel).
+- Compare brightness and unscrew one again.
+w: In series, current must go through every bulb, so they share the power and all go out if one breaks. In parallel each bulb has its own path.
+x: Look at holiday lights and figure out which type they use.
+
+# Shake Generator
+e=🔦 a=11-14 d=Hard t=1.5 hours
+m: clear plastic tube; strong cylindrical magnets; 200 m of thin enameled wire; LED; sandpaper; tape
+- Wrap hundreds of turns of wire around the middle of the tube.
+- Sand the wire ends and connect them to an LED.
+- Put the magnets in the tube and cap both ends.
+- Shake the tube hard and watch the LED flicker.
+w: Moving a magnet through a coil of wire creates electricity. Power stations use the same idea with giant spinning magnets.
+x: Try adding more turns of wire and compare.
+s: Keep strong magnets away from small children.
+
+# Solar Cell Power Test
+e=☀️ a=9-13 d=Medium t=45 min
+m: small solar panel; small motor with fan blade; flashlight; colored cellophane
+- Connect the motor to the solar panel.
+- Hold the panel in sunlight and watch the fan spin.
+- Shade half the panel and compare.
+- Cover it with colored cellophane and test each color.
+w: Solar cells turn light into electricity. More light means more power. Some colors let through more usable light than others.
+x: Measure the angle that gives the fastest spin.
+
+# Salt and Pepper Separator
+e=🧂 a=6-11 d=Easy t=10 min
+m: salt; pepper; plate; plastic spoon or balloon; wool cloth
+- Mix salt and pepper on a plate.
+- Rub the spoon with wool.
+- Hold the spoon a few centimeters above the mix.
+- Watch the pepper jump up first.
+w: The charged spoon attracts both, but pepper is lighter so it jumps up first.
+x: Lower the spoon slowly. When does the salt jump?
+
+# Levitating Pencil
+e=✏️ a=10-14 d=Hard t=1 hour
+m: 6 ring magnets; pencil; clay; cardboard; small block
+- Slide two ring magnets onto the pencil, one near each end.
+- Fix four ring magnets into a cardboard base so they repel the pencil magnets.
+- Rest the pencil above the base, with its tip against a block.
+- Spin it gently while it floats.
+w: Like poles push away, so the pencil floats above the base magnets. The block stops it sliding off.
+x: Draw what each magnet's poles must face for it to work.
+s: Ring magnets can snap together and pinch.
+
+# Mini Leyden Jar
+e=⚡ a=11-14 d=Hard t=40 min
+m: plastic cup; aluminum foil; second cup; balloon or PVC pipe; wool
+- Wrap foil around the outside of two cups.
+- Nest them and push a foil strip between them sticking out the top.
+- Charge a balloon on wool and rub it on the foil strip.
+- Repeat 10 times.
+- Hold the outside foil and bring a finger near the strip to feel a small spark.
+w: The jar stores static charge, like a simple capacitor. When you touch it, the stored charge jumps as a tiny spark.
+x: Try it on a dry day vs a humid day.
+s: Small static sparks only. Never use wall outlets.
+
+# Magnetic Painting
+e=🖼️ a=4-9 d=Easy t=20 min
+m: paper plate or shallow box; paper; paint; metal washers or paper clips; magnet wand
+- Place paper in a box lid.
+- Add a few drops of paint and a few metal objects.
+- Move a magnet under the box.
+- Watch the metal pieces paint trails.
+w: The magnet's force goes through the box, pulling the metal objects through the paint.
+x: Try washers, bolts and paper clips. Which make the coolest lines?
+
+# Fruit Conductivity Showdown
+e=🍊 a=9-13 d=Medium t=40 min
+m: lemon; orange; apple; tomato; potato; zinc nails; copper strips; voltmeter or multimeter
+- Push a nail and copper strip into each fruit.
+- Measure the voltage with the meter.
+- Write down each result.
+- Rank fruits from strongest to weakest.
+w: Different fruits have different amounts of acid and juice, which changes how easily charged particles move between the metals.
+x: Squeeze the fruit first. Does the voltage go up?
+
+# Magnet Through Materials
+e=🧱 a=6-11 d=Easy t=20 min
+m: magnet; paper clip; paper; cardboard; plastic lid; glass; cloth; foil; steel lid
+- Put a paper clip on top of a material.
+- Move a magnet underneath.
+- Record whether the clip moves.
+- Stack layers to find the thickness limit.
+w: Magnetism passes through most materials that are not magnetic, but weakens with distance.
+x: Find a material that blocks magnetism completely.
+
+# Static Can Race
+e=🥫 a=6-12 d=Easy t=15 min
+m: empty soda cans; balloons; masking tape for start and finish lines; smooth floor
+- Mark start and finish lines 1 m apart.
+- Lay cans on their sides at the start.
+- Rub a balloon on your hair.
+- Hold it close to the can without touching and watch it roll toward you.
+- Race to the finish!
+w: The charged balloon pulls on the can by static attraction. The can is light and round, so it rolls easily.
+x: Can you push the can with static? Why or why not?
+
+# Ferrofluid Spikes
+e=🖤 a=10-14 d=Medium t=20 min
+m: small bottle of ferrofluid (from a science store); petri dish or small plate; strong magnet; gloves
+- Wearing gloves, put a few drops of ferrofluid on a plate.
+- Slowly bring a magnet up underneath.
+- Watch spikes rise out of the liquid.
+- Move the magnet and the spikes follow.
+w: Ferrofluid has tiny magnetic particles floating in oil. They line up along the magnetic field lines and form spikes.
+x: Try two magnets to make patterns.
+s: Ferrofluid stains. Keep it in a sealed container and away from skin.
+
+# Flashlight from a Tube
+e=🔦 a=8-12 d=Medium t=40 min
+m: cardboard tube; 2 AA batteries; small bulb or LED; foil; tape; brass fastener for switch
+- Stack two batteries end to end and tape them together.
+- Tape a foil strip from the bottom battery up the side.
+- Attach the bulb at the top so one leg touches the battery.
+- Use a fastener and foil to make a switch connecting to the bulb's other leg.
+- Slide it in a decorated tube.
+w: The batteries, foil and bulb form a complete circuit. The switch opens and closes it.
+x: Add a foil-lined cup as a reflector to make the beam brighter.

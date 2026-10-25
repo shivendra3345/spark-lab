@@ -1,0 +1,431 @@
+# String Telephone
+e=📞 a=4-10 d=Easy t=20 min
+m: 2 paper or plastic cups; 5-10 m of string; sharp pencil; paper clips
+- Poke a small hole in the bottom of each cup.
+- Thread the string through each hole and tie a paper clip inside to hold it.
+- Walk apart until the string is tight.
+- Talk into one cup while a friend listens with the other.
+w: Your voice makes the cup bottom vibrate. The tight string carries the vibrations to the other cup, which turns them back into sound.
+x: Try fishing line, yarn and wire. Which sounds clearest?
+
+# Straw Pan Pipes
+e=🎶 a=5-11 d=Easy t=20 min
+m: 8 drinking straws; scissors; tape; ruler
+- Cut straws to different lengths, each a little shorter than the one before.
+- Line them up from longest to shortest with tops even.
+- Tape them together.
+- Blow across the tops to play notes.
+w: Blowing makes the air inside vibrate. Shorter tubes have less air, which vibrates faster and makes higher notes.
+x: Try to play a simple song like "Mary Had a Little Lamb".
+
+# Water Glass Xylophone
+e=🎵 a=4-10 d=Easy t=20 min
+m: 6-8 identical glasses or jars; water; food coloring; metal spoon
+- Line up the glasses.
+- Fill each with a different amount of water.
+- Add a different color to each.
+- Gently tap each glass with a spoon.
+- Arrange them from lowest to highest note.
+w: Tapping makes the glass and water vibrate. More water makes the vibrations slower, so the note is lower.
+x: Blow across bottles with water instead. Does the pattern flip?
+
+# Rubber Band Guitar
+e=🎸 a=5-11 d=Easy t=30 min
+m: shoebox or tissue box; rubber bands of different thicknesses; 2 pencils; scissors
+- Cut a round hole in the lid of the box.
+- Stretch rubber bands around the box over the hole.
+- Slide a pencil under the bands at each end of the hole.
+- Pluck each band and listen.
+w: Plucking makes the bands vibrate. Thicker and looser bands vibrate more slowly and sound lower. The box makes the sound louder.
+x: Make the box deeper or shallower. Does the sound change?
+
+# Dancing Rice Drum
+e=🥁 a=4-10 d=Easy t=15 min
+m: bowl; plastic wrap; rubber band; uncooked rice; metal pot; wooden spoon
+- Stretch plastic wrap tightly over the bowl and secure it.
+- Sprinkle rice on top.
+- Bang a pot near the bowl with a spoon.
+- Watch the rice jump.
+- Try humming loudly close to the bowl.
+w: Sound travels through the air as vibrations. The vibrations shake the plastic wrap, making the rice bounce.
+x: Does the rice jump more with loud or quiet sounds? High or low?
+
+# Comb Kazoo
+e=🎺 a=5-10 d=Easy t=10 min
+m: comb; tissue paper or wax paper
+- Fold tissue paper over the teeth of a comb.
+- Hold it lightly against your lips.
+- Hum a tune.
+- Feel the buzzing on your lips.
+w: Humming makes the paper vibrate quickly against the comb, creating a buzzing kazoo sound.
+x: Make a kazoo with a toilet roll tube and wax paper.
+
+# Megaphone Cone Test
+e=📢 a=6-11 d=Easy t=20 min
+m: poster paper; tape; sound level meter app on a phone
+- Measure your voice at 3 m away with a phone app.
+- Roll paper into a cone and tape it.
+- Speak through the narrow end at the same loudness.
+- Measure again and compare.
+w: A cone directs sound waves forward instead of letting them spread out in all directions, so more sound reaches the listener.
+x: Hold the cone the other way to your ear to hear quieter sounds.
+
+# Slinky Waves
+e=〰️ a=6-12 d=Easy t=15 min
+m: metal spring toy; long smooth floor; friend
+- Stretch the spring along the floor between you and a friend.
+- Push one end forward quickly and watch a squeeze travel along.
+- Shake one end side to side and watch a wave travel.
+- Send waves from both ends at once and watch them meet.
+w: Sound travels as push-pull waves, like the squeeze. Light and water waves are more like side-to-side waves. When waves meet, they can add up or pass through each other.
+x: Stretch the spring tighter. Do waves travel faster?
+
+# Singing Glass
+e=🍷 a=8-13 d=Medium t=15 min
+m: thin glass with a stem; water; vinegar
+- Hold the glass base firmly on the table.
+- Wet your finger with water and a drop of vinegar.
+- Rub your finger slowly around the rim.
+- Keep going until the glass sings.
+w: Your finger sticks and slips on the rim, making the glass vibrate at its natural frequency, called resonance.
+x: Add water to the glass. How does the note change?
+s: Use a sturdy glass and press gently.
+
+# Recycled Drum Kit
+e=🥁 a=4-10 d=Easy t=45 min
+m: empty containers (oatmeal tubs, cans, buckets, boxes); balloons; tape; chopsticks or wooden spoons
+- Stretch cut balloons over the tops of containers.
+- Tape them tightly in place.
+- Arrange the drums and play them with chopsticks.
+- Compare sounds from big and small drums.
+w: Bigger drums vibrate more slowly and sound lower. Tight drum skins vibrate faster and sound higher.
+x: Add rice inside one drum to make a rattle drum.
+
+# Feel the Vibrations Balloon
+e=🎈 a=4-9 d=Easy t=10 min
+m: balloon; your voice; music speaker
+- Blow up a balloon.
+- Hold it gently against your ear or fingertips.
+- Have a friend talk on the other side.
+- Hold it near a speaker playing music.
+w: Sound is vibration. The air inside the balloon passes vibrations along, so you can feel the sound.
+x: Fill a balloon with water. Does sound carry better?
+
+# Spoon Bell
+e=🔔 a=6-11 d=Easy t=10 min
+m: metal spoon; 1 m of string
+- Tie the spoon to the middle of the string.
+- Wrap the string ends around your index fingers.
+- Put your fingers in your ears.
+- Swing the spoon against a table and listen.
+w: Sound travels better through solid string than through air, so you hear a loud ringing bell.
+x: Try a fork, a coat hanger and a large ladle.
+
+# Bottle Organ
+e=🍾 a=5-11 d=Easy t=20 min
+m: 6 glass bottles; water; funnel; food coloring
+- Pour different amounts of water into the bottles.
+- Blow across the top of each one.
+- Put them in order from lowest to highest note.
+- Tap each bottle with a spoon and compare the notes.
+w: Blowing makes the air vibrate, so more air means a lower note. Tapping makes the glass and water vibrate, so more water means a lower note. That's why they're opposite.
+x: Tune the bottles to play a song.
+
+# Seeing Sound with a Mirror
+e=🪞 a=9-13 d=Medium t=30 min
+m: tin can open at both ends; balloon; rubber band; small mirror piece; glue; flashlight
+- Stretch a balloon over one end of the can.
+- Glue a small mirror slightly off center on the balloon.
+- Shine a flashlight on the mirror so a spot appears on the wall.
+- Talk or sing into the open end.
+- Watch the light spot dance.
+w: Your voice makes the balloon vibrate. The mirror wiggles with it, and the light spot shows the shape of the sound.
+x: Try high and low notes and compare the patterns.
+
+# Sound Through Solids
+e=🛋️ a=5-10 d=Easy t=10 min
+m: long table; pencil; friend; metal railing (optional)
+- Press your ear flat on one end of the table.
+- Have a friend gently scratch the other end with a pencil.
+- Lift your head and listen again.
+- Try on a metal railing or fence.
+w: Sound travels faster and clearer through solids because the particles are packed close together and pass vibrations easily.
+x: Rank wood, metal and plastic for carrying sound.
+
+# Echo Measurement
+e=🗣️ a=10-14 d=Medium t=30 min
+m: large outdoor wall; two wooden blocks; tape measure; stopwatch
+- Stand about 50 m from a large wall.
+- Clap blocks together and listen for the echo.
+- Clap in a rhythm so each clap matches the echo.
+- Time 20 claps and work out the time for one.
+- Divide the distance there and back (100 m) by that time.
+w: Echoes are sound bouncing back. Timing them lets you calculate the speed of sound, about 343 meters per second.
+x: Compare your result with the real speed of sound.
+
+# Soundproof Box Challenge
+e=📦 a=7-12 d=Medium t=45 min
+m: shoebox; alarm or phone; materials like foam, cotton, newspaper, fabric, egg cartons; sound meter app
+- Measure the alarm's loudness with no box.
+- Put it in the empty box and measure.
+- Line the box with one material and measure again.
+- Try each material and find the best.
+w: Soft and bumpy materials soak up sound vibrations instead of bouncing them back, so less sound escapes.
+x: Design a quiet room model.
+
+# Paper Popper
+e=💥 a=6-11 d=Easy t=10 min
+m: sheet of paper
+- Fold the paper in half lengthwise and open it.
+- Fold the corners to the center line.
+- Fold in half along the crease, then in half again into a triangle.
+- Hold the corners and snap it down hard.
+w: The paper flap swings out quickly and pushes air so fast it makes a loud pop.
+x: Try newspaper and printer paper. Which is louder?
+
+# Buzzing Button Spinner
+e=🔘 a=6-11 d=Easy t=15 min
+m: large button; 1 m of string
+- Thread the string through two holes of the button and tie the ends.
+- Center the button and wind it by spinning in circles.
+- Pull the string tight and relax, again and again.
+- Listen to it buzz and hum.
+w: The fast-spinning button makes the air vibrate, creating a buzzing sound. Faster spins sound higher.
+x: Cut a jagged card disc and compare the sound.
+
+# Rain Stick
+e=🌧️ a=4-10 d=Easy t=45 min
+m: long cardboard tube; aluminum foil; rice or beans; tape; paper for caps; markers
+- Cover one end of the tube with paper and tape.
+- Twist foil into a long spiral and push it into the tube.
+- Pour in a handful of rice.
+- Seal the other end.
+- Tip it slowly and listen to the rain.
+w: Rice bounces off the foil spiral, making many tiny sounds that blend together like rainfall.
+x: Compare rice, beans and beads.
+
+# Shaker Sound Matching
+e=🎲 a=3-7 d=Easy t=20 min
+m: 8 identical small containers; rice; beans; coins; sand; tape
+- Fill pairs of containers with the same material.
+- Seal and mix them up.
+- Shake each one and find its matching pair.
+- Open to check.
+w: Different materials make different sounds when they hit the container walls. Your ears can tell them apart.
+x: Play with eyes closed.
+
+# Doppler Swing
+e=📲 a=10-14 d=Medium t=15 min
+m: phone with tone generator app or small buzzer; sock; string; open space
+- Play a steady tone and put the phone in a sock.
+- Tie the sock to a string.
+- An adult swings it in a circle above their head.
+- Listen to the pitch go up and down.
+w: As the sound source moves toward you, the waves get squeezed and the pitch goes up. As it moves away, the pitch drops. This is the Doppler effect.
+x: Listen for it when an ambulance passes.
+s: Swing in a clear area away from people.
+
+# Animal Ears Hearing Test
+e=🐰 a=5-10 d=Easy t=20 min
+m: card stock; tape; quiet ticking clock or phone sound
+- Make big ear cones from card stock.
+- Listen to a quiet sound without the cones.
+- Hold the cones behind your ears and listen again.
+- Turn them to face different directions.
+w: Big ears collect more sound waves and funnel them in. Animals like rabbits and foxes can turn their ears to find sounds.
+x: Find out which animals have the best hearing.
+
+# Eardrum Model
+e=👂 a=8-12 d=Easy t=20 min
+m: plastic cup or tube; plastic wrap; rubber band; sugar or salt crystals; pan and spoon
+- Stretch plastic wrap over the cup like an eardrum.
+- Sprinkle a few sugar crystals on top.
+- Bang a pan nearby.
+- Watch the crystals bounce.
+w: Your eardrum is a thin skin that vibrates when sound hits it. The vibrations travel to your inner ear and then to your brain.
+x: Draw and label the parts of the ear.
+
+# Tuning Fork Splash
+e=💧 a=8-13 d=Easy t=10 min
+m: tuning fork (or large metal fork); bowl of water; rubber shoe sole
+- Strike the tuning fork on a rubber sole.
+- Listen to its hum.
+- Strike again and touch the tips to the water.
+- Watch it splash.
+w: The fork vibrates so fast you can't see it, but the splashing shows the fast vibrations.
+x: Touch a vibrating fork to a ping pong ball on a string.
+
+# Chladni Sand Patterns
+e=🔊 a=10-14 d=Medium t=40 min
+m: thin metal tray or cookie sheet; speaker; salt or fine sand; tone generator app; tape
+- Place the speaker face up and lay the tray over it.
+- Sprinkle a thin layer of salt.
+- Play a tone and slowly change the pitch.
+- Watch patterns appear at certain notes.
+w: At special frequencies, parts of the plate vibrate a lot while lines stay still. Salt bounces off moving parts and collects on the still lines.
+x: Photograph a pattern for each note.
+s: Keep the volume reasonable to protect hearing.
+
+# Ocean Waves in a Bottle
+e=🌊 a=4-10 d=Easy t=15 min
+m: clear bottle with lid; water; blue food coloring; vegetable oil; glitter
+- Fill the bottle one-third with blue water.
+- Fill the rest with oil, leaving a little space.
+- Add glitter and screw the lid on tight.
+- Tip it gently to make waves.
+w: Waves move energy through water. Oil and water don't mix, so you can see the wave move along the boundary.
+x: Tip faster and slower to make big and small waves.
+
+# Ripple Tank in a Tray
+e=〰️ a=8-13 d=Medium t=20 min
+m: clear baking dish; water; flashlight; white paper; pencil
+- Put a dish of water on white paper under a flashlight.
+- Tap the water with a pencil.
+- Watch the ripples spread on the paper.
+- Put a block in the water and see how waves bend around it.
+w: Waves spread out in circles and bounce off walls. When they meet, they can add up or cancel out.
+x: Tap with two pencils at once and see the waves meet.
+
+# Table Resonance Music Box
+e=🎶 a=7-12 d=Easy t=10 min
+m: small music box or phone; table; cardboard box; glass bowl
+- Play the music box in the air.
+- Place it on a table and listen.
+- Place it on a box and a bowl.
+- Compare which sounds loudest.
+w: Hard surfaces vibrate along with the music, making the sound bigger. This is called resonance.
+x: Find the best surface in your house.
+
+# Craft Stick Harmonica
+e=🎼 a=7-12 d=Easy t=20 min
+m: 2 wide craft sticks; a wide rubber band; 2 small rubber bands; paper strips; straw pieces
+- Stretch a wide rubber band along one craft stick.
+- Place a short straw piece under the band at each end.
+- Put the second stick on top and tie the ends with small rubber bands.
+- Blow through the gap.
+w: Air rushing past the band makes it vibrate. Moving the straws closer together makes a higher note.
+x: Slide the straws to change the pitch while you blow.
+
+# Cup Chicken
+e=🐔 a=5-10 d=Easy t=20 min
+m: plastic cup; string; paper clip; damp sponge or paper towel; craft feathers
+- Poke a hole in the bottom of the cup.
+- Thread string through and tie a paper clip inside.
+- Decorate the cup like a chicken.
+- Pinch the string with a damp paper towel and pull downward in short jerks.
+w: The towel grips and slips on the string, making vibrations. The cup amplifies them into a clucking sound.
+x: Try different cup sizes for different animal sounds.
+
+# Recycled Wind Chimes
+e=🎐 a=5-11 d=Easy t=45 min
+m: stick or hanger; string; old keys, spoons, cans, shells; drill or nail (adult)
+- Tie objects to strings of different lengths.
+- Hang them from a stick so they can bump each other.
+- Hang outside in the breeze.
+- Listen to the different sounds.
+w: Each object vibrates at its own frequency when hit. Metal objects ring longer than wood.
+x: Compare metal and bamboo chimes.
+
+# Thunder Tube
+e=⛈️ a=7-12 d=Medium t=30 min
+m: cardboard tube or can; long metal spring (like a door spring or slinky); hot glue (adult); paper
+- Cover one end of the tube with stretched paper.
+- An adult glues the spring to the center of the paper.
+- Hold the tube and let the spring dangle.
+- Shake gently and listen to thunder.
+w: Shaking makes the spring vibrate. The paper drum and tube amplify the sound into a rumbling boom.
+x: Use a longer spring. How does the sound change?
+
+# Balloon Voice Box
+e=🗣️ a=7-12 d=Easy t=10 min
+m: balloon
+- Blow up a balloon.
+- Stretch the neck tightly with your fingers.
+- Let the air out slowly.
+- Change how tight you stretch it.
+w: Your vocal cords work the same way: air passes through, making them vibrate. Tighter cords make higher sounds.
+x: Gently touch your throat while humming high and low.
+
+# Paper Plate Tambourine
+e=🪘 a=3-8 d=Easy t=30 min
+m: 2 paper plates; dried beans; stapler; ribbons; markers
+- Decorate the bottoms of two paper plates.
+- Put beans between them.
+- Staple the plates together around the edge.
+- Tie ribbons and shake or tap out rhythms.
+w: Beans bouncing against the plates make sound vibrations. Shaking harder makes louder sounds.
+x: Clap a rhythm and have a friend copy it.
+
+# Hearing Range Test
+e=📲 a=9-14 d=Easy t=20 min
+m: tone generator app; headphones; volunteers of different ages; notebook
+- Set the volume low.
+- Play tones starting low and going higher.
+- Each volunteer raises a hand when they stop hearing.
+- Record the highest note each person can hear.
+w: Young people can usually hear higher notes than adults. Our ears lose high-pitch hearing over time.
+x: Compare kids, parents and grandparents.
+s: Keep volume low to protect hearing.
+
+# Sound Map Walk
+e=🗺️ a=5-10 d=Easy t=30 min
+m: paper; clipboard; pencil; outdoor area
+- Sit quietly outside for 5 minutes.
+- Draw yourself in the middle of the page.
+- Mark each sound you hear and the direction it came from.
+- Note if it was loud or soft, natural or human-made.
+w: Your two ears work together to find where sounds come from. Sounds reach the closer ear a split second sooner.
+x: Repeat at a different time of day and compare.
+
+# Magnet and Coil Speaker
+e=🔈 a=11-14 d=Hard t=1.5 hours
+m: paper plate; magnet wire; strong magnet; card; tape; audio cable with exposed wires; sandpaper
+- Wind 50 turns of wire into a small coil.
+- Tape the coil to the center of the paper plate.
+- Glue a strong magnet on a card under the coil.
+- Sand the wire ends and connect them to the audio cable.
+- Play music quietly and listen.
+w: Music signals make the current in the coil change quickly. The coil is pushed and pulled by the magnet, vibrating the plate to make sound.
+x: Use a bigger plate. Is it louder?
+s: Use a phone, not a powerful amplifier.
+
+# Whirly Sound Tube
+e=🌀 a=6-12 d=Easy t=15 min
+m: corrugated plastic tube (whirly tube toy or flexible drain hose); open space
+- Hold one end of the tube.
+- Swing it in a circle over your head slowly.
+- Speed up and listen as the notes change.
+- Try different lengths.
+w: Air flows through the tube and bumps over the ridges, making the air inside vibrate. Faster swinging makes the air vibrate faster and the note higher.
+x: How many different notes can you make?
+s: Swing in an open area away from people.
+
+# Underwater Sounds
+e=🫧 a=6-11 d=Easy t=15 min
+m: zip bag full of water; 2 metal spoons; bathtub or pool
+- Click two spoons together in the air and listen.
+- Hold the water bag against your ear and click the spoons on the other side.
+- In a pool or tub, put your ears under the water while a friend clicks.
+- Compare how loud and clear each version sounded and rank them.
+w: Sound travels about four times faster in water than in air. Whales and dolphins use sound to communicate over long distances.
+x: Find out how dolphins use sound to find food.
+
+# Cardboard Didgeridoo
+e=🎺 a=7-12 d=Easy t=30 min
+m: long cardboard tube (wrapping paper roll); paint; tape; beeswax or tape for mouthpiece
+- Decorate a long tube.
+- Smooth one end with tape for your lips.
+- Relax your lips and blow, making a "brrr" sound.
+- Experiment until it hums.
+w: Your vibrating lips make the air column inside the tube vibrate, creating a deep drone. Longer tubes make deeper sounds.
+x: Hum while you blow to add new sounds.
+
+# See Your Voice with a Spectrogram
+e=📊 a=9-14 d=Easy t=20 min
+m: free spectrogram or sound visualizer app; phone or tablet
+- Open a spectrogram app.
+- Whistle, hum and talk into the microphone.
+- Notice how high notes appear higher on the screen.
+- Compare a dog bark, a bird and a flute.
+w: Sound is made of vibrations at different frequencies. A spectrogram shows which frequencies are present and how loud they are over time.
+x: Sing a vowel sound and see the different stripes called harmonics.

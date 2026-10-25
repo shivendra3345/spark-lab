@@ -1,0 +1,440 @@
+# Cloud in a Jar
+e=☁️ a=6-12 d=Easy t=15 min
+m: glass jar with lid; hot water; ice cubes; hairspray or a lit match blown out (adult); flashlight
+- An adult pours 2-3 cm of hot water into the jar and swirls it.
+- Turn the lid upside down, fill it with ice and set it on the jar.
+- After 30 seconds, lift the lid and an adult adds a quick spray of hairspray.
+- Replace the lid and watch a cloud form.
+- Lift the lid and watch the cloud escape.
+w: Warm moist air rises and cools under the ice. Water vapor condenses on tiny particles from the hairspray, forming a cloud of droplets.
+x: Shine a flashlight through the jar to see the cloud swirl.
+s: Adults handle hot water and spray.
+
+# Shaving Cream Rain Cloud
+e=🌧️ a=3-8 d=Easy t=15 min
+m: clear glass; water; shaving cream; blue food coloring mixed with water; dropper
+- Fill a glass with water.
+- Spray shaving cream on top to make a cloud.
+- Drop blue water onto the cloud.
+- Watch it "rain" when the cloud gets full.
+w: Clouds hold water droplets. When they get too heavy, they fall as rain.
+x: Count how many drops it takes to make it rain.
+
+# Tornado in a Bottle
+e=🌪️ a=6-12 d=Easy t=15 min
+m: 2 plastic bottles; water; duct tape or tornado tube connector; glitter
+- Fill one bottle two-thirds with water and add glitter.
+- Connect the second bottle on top with tape or a connector.
+- Flip it so the water is on top.
+- Swirl it in circles quickly.
+- Watch a tornado form.
+w: Swirling creates a vortex. Water spins in a funnel shape around a central hole, like a tornado.
+x: Add a drop of dish soap to make it more visible.
+
+# Homemade Rain Gauge
+e=🌂 a=5-11 d=Easy t=20 min + weeks
+m: clear plastic bottle; scissors; ruler; pebbles; tape; marker
+- Cut the top off a bottle.
+- Put pebbles in the bottom and add water to cover them.
+- Mark a zero line and add ruler marks.
+- Flip the top upside down as a funnel.
+- Place it outside and check after each rain.
+w: Rain gauges measure how much rain falls. Meteorologists use this information to track weather.
+x: Keep a rain log for a month.
+
+# Cup Anemometer
+e=🌬️ a=8-13 d=Medium t=45 min
+m: 5 paper cups; 2 straws; pencil with eraser; pin; stapler; marker
+- Staple 4 cups to the ends of two crossed straws.
+- Mark one cup.
+- Pin the straws to the pencil eraser.
+- Hold it in the wind.
+- Count spins in 1 minute.
+w: An anemometer measures wind speed. Faster wind spins the cups more.
+x: Measure the wind every day for a week.
+
+# Wind Vane
+e=🧭 a=6-11 d=Easy t=30 min
+m: pencil with eraser; drinking straw; straight pin; card stock; paper cup; modeling clay; marker; compass app
+- Cut a triangle arrow tip and a larger square tail from card stock.
+- Cut small slits in each end of the straw and slide in the tip and tail.
+- Push the pin through the middle of the straw into the pencil eraser so it spins freely.
+- Stand the pencil in a clay-filled cup and mark N, E, S and W on the cup.
+- Take it outside, line N up with north using a compass, and watch where the arrow points.
+w: The bigger tail catches more wind, so it swings away and the arrow points into the wind. Wind is named for where it comes from, so a north wind blows from the north.
+x: Record the wind direction and the weather for a week. Is there a pattern?
+
+# Jar Barometer
+e=🌡️ a=8-13 d=Medium t=30 min
+m: glass jar; balloon; rubber band; straw; tape; card
+- Stretch a cut balloon tightly over the jar.
+- Tape one end of a straw to the center of the balloon.
+- Place a card behind the straw.
+- Mark where the straw points every day.
+w: When air pressure rises, it pushes the balloon down and the straw up. Low pressure often means stormy weather.
+x: Compare readings with weather forecasts.
+
+# Frost on a Can
+e=🥶 a=6-12 d=Easy t=15 min
+m: metal can; crushed ice; salt; spoon
+- Fill the can with crushed ice.
+- Add salt and stir.
+- Wait 10 minutes.
+- Look at the outside of the can.
+w: Salt makes the ice extra cold. Water vapor from the air freezes directly onto the can as frost.
+x: Compare with ice without salt.
+
+# Water Cycle in a Bag
+e=💧 a=5-11 d=Easy t=1 day
+m: zip bag; water; blue food coloring; marker; tape
+- Draw a sun, clouds and sea on the bag.
+- Add a little blue water.
+- Seal and tape it to a sunny window.
+- Watch drops form and run down.
+w: Sun heats water, which evaporates, condenses into droplets and falls as "rain".
+x: Track it at different times of day.
+
+# Greenhouse Effect Jars
+e=🏡 a=8-13 d=Easy t=1 hour
+m: 2 jars; 2 thermometers; plastic wrap; sunny spot
+- Place a thermometer in each jar.
+- Cover one jar with plastic wrap.
+- Set both in the sun.
+- Record temperatures every 10 minutes.
+w: The wrapped jar traps heat, like gases in Earth's atmosphere trap heat. This is the greenhouse effect.
+x: Compare jars with dark and light paper inside.
+
+# Melting Ice and Sea Level
+e=🧊 a=8-13 d=Easy t=1 hour
+m: 2 containers; clay or rocks; ice cubes; water; marker
+- In one container, put ice in water (sea ice).
+- In the other, put ice on rock above water (land ice).
+- Mark both water levels.
+- Wait for the ice to melt and compare.
+w: Melting sea ice barely changes sea level, but melting land ice adds water to the ocean and raises sea level.
+x: Measure how much the land ice raised the level.
+
+# Hair Hygrometer
+e=💇 a=10-14 d=Medium t=1 hour
+m: long human hair; cardboard; tape; straw; pin; coin
+- Tape a hair to the top of a cardboard.
+- Tie the other end to a straw pointer.
+- Pin the straw to the board.
+- Watch it move as humidity changes.
+w: Hair stretches when wet and shrinks when dry, so it can measure humidity.
+x: Test in a steamy bathroom.
+
+# Bottle Thermometer
+e=🌡️ a=8-12 d=Medium t=30 min
+m: small clear bottle; water; rubbing alcohol (adult); clear straw; modeling clay; food coloring; bowls of hot and cold water
+- Fill the bottle one quarter with equal parts water and rubbing alcohol.
+- Add a few drops of food coloring.
+- Put the straw in without touching the bottom and seal around it with clay.
+- Hold the bottle with both hands and watch the liquid climb.
+- Place it in hot water, then cold water, and mark the levels.
+w: Liquids expand when warmed and contract when cooled. The narrow straw makes the small change easy to see, just like a real thermometer.
+x: Calibrate it by marking levels next to a real thermometer.
+s: Adults handle rubbing alcohol. Do not drink.
+
+# Snowflake Catcher
+e=❄️ a=5-12 d=Easy t=20 min
+m: black paper or cloth; magnifier; freezer; snowy day
+- Chill black paper in the freezer.
+- Catch snowflakes on it outside.
+- Look at them with a magnifier.
+- Draw the shapes you see.
+w: Snowflakes form as water vapor freezes into ice crystals. They almost always have six sides.
+x: Compare flakes at different temperatures.
+
+# Thunderstorm Distance Counting
+e=⛈️ a=7-12 d=Easy t=15 min
+m: stopwatch or counting; notebook; a safe indoor window during a storm
+- When you see a lightning flash, start counting seconds.
+- Stop when you hear the thunder.
+- Divide the seconds by 3 for kilometers or by 5 for miles.
+- Repeat for several flashes and write the distances.
+- Decide if the storm is coming closer or moving away.
+w: Light reaches you almost instantly, but sound travels about 1 km in 3 seconds. The gap tells you how far away the lightning was.
+x: Make a graph of distance vs time during one storm.
+s: Stay indoors during thunderstorms. If you can hear thunder, you are close enough to be struck.
+
+# Hurricane in a Bowl
+e=🌀 a=6-11 d=Easy t=15 min
+m: large clear bowl; water; food coloring; spoon; small floating paper bits
+- Fill a bowl with water.
+- Stir quickly in a circle for 20 seconds, then pull the spoon out.
+- Drop food coloring into the center.
+- Watch the color spiral, and drop paper bits near the edge to see them swirl in.
+w: Hurricanes are huge spinning storms. Air spirals in toward a calm center called the eye, with the strongest winds in the wall around it.
+x: Look at a satellite photo of a hurricane and compare the spiral shape.
+
+# Ocean Currents
+e=🌊 a=8-12 d=Easy t=20 min
+m: clear container; cold blue water (ice cubes); hot red water
+- Fill a container with room-temperature water.
+- Add blue ice cubes at one end.
+- Add drops of hot red water at the other end.
+- Watch the colors move.
+w: Cold water sinks and warm water rises, creating currents that move heat around the ocean.
+x: Add salt to the cold water.
+
+# Convection Currents
+e=♨️ a=7-12 d=Easy t=20 min
+m: clear glass dish; hot water in a mug; cold water; food coloring
+- Fill a dish with cold water.
+- Place it on top of a mug of hot water.
+- Add a drop of food coloring in the center.
+- Watch it rise and swirl.
+w: Warm water rises and cool water sinks, making convection currents. The same happens in air.
+x: Use different colors in different spots.
+
+# Weather Station Journal
+e=📓 a=6-12 d=Easy t=2 weeks
+m: thermometer; homemade rain gauge; wind vane; cloud chart; notebook; colored pencils
+- Pick the same time each day to take readings.
+- Record temperature, rain, wind direction and cloud type.
+- Add a weather symbol for each day.
+- After two weeks, graph the temperature and rain.
+- Look for patterns, like clouds before rain.
+w: Meteorologists collect data at the same times every day around the world. Patterns in the data help them predict the weather.
+x: Compare your notes with the TV forecast.
+
+# Fog in a Jar
+e=🌫️ a=6-11 d=Easy t=15 min
+m: glass jar; hot tap water; small kitchen strainer; ice cubes; dark paper
+- An adult fills the jar with hot water for one minute, then pours out all but 3 cm.
+- Set a strainer full of ice on top of the jar.
+- Hold dark paper behind the jar.
+- Watch fog swirl inside.
+w: Fog is a cloud touching the ground. It forms when warm, moist air is cooled quickly and the water vapor condenses into tiny droplets.
+x: Try with cold water in the jar. Does fog still form?
+s: Adults handle hot water.
+
+# Instant Snow Polymer
+e=☃️ a=5-11 d=Easy t=10 min
+m: instant snow powder (sodium polyacrylate, from a science or craft store); water; clear cup; spoon; salt
+- Put one teaspoon of powder in a cup.
+- Add half a cup of water all at once.
+- Watch it puff up and spill over like snow.
+- Feel how cool it is.
+- Sprinkle salt on it and watch it turn back to liquid.
+w: This polymer can soak up hundreds of times its weight in water. It's used in diapers. Salt pulls the water back out.
+x: Measure how much water one spoon of powder can hold.
+s: Do not eat or breathe the powder. Supervise young children.
+
+# Air Has Weight
+e=⚖️ a=7-12 d=Easy t=15 min
+m: 2 balloons the same size; meter stick or long ruler; string; tape; pin
+- Blow up two balloons to the same size.
+- Tape one to each end of the stick.
+- Hang the stick from its middle with string and slide it until it balances.
+- Carefully pop one balloon with a pin.
+- Watch which side goes down.
+w: Air is made of particles and has weight. The full balloon holds squeezed air, which is heavier than the air around it.
+x: Use a kitchen scale to weigh an empty and a full ball.
+
+# Albedo Ice Melt
+e=⬜ a=8-12 d=Easy t=1 hour
+m: 4 equal ice cubes; black paper; white paper; foil; blue paper; sunny spot; timer
+- Place an ice cube on each paper.
+- Set them side by side in the sun.
+- Check every 5 minutes.
+- Record which melts first and last.
+w: Light colors reflect sunlight and dark colors absorb it. When polar ice melts, dark ocean is exposed, which absorbs more heat and speeds warming.
+x: Shade one cube and compare.
+
+# Acid Rain and Chalk
+e=🧪 a=8-12 d=Easy t=1 day
+m: chalk pieces; 3 cups; vinegar; lemon juice; water; magnifier
+- Put a piece of chalk in each cup.
+- Cover one with water, one with vinegar and one with lemon juice.
+- Watch for bubbles.
+- After a day, compare the chalk pieces with a magnifier.
+w: Chalk is limestone. Acids dissolve it. Rain made acidic by air pollution slowly damages limestone and marble buildings and statues.
+x: Look for worn stone on old gravestones or buildings.
+
+# Wind Sock
+e=🎏 a=4-9 d=Easy t=30 min
+m: paper or old T-shirt sleeve; crepe paper streamers; tape; hole punch; string; stick
+- Roll paper into a tube or use a sleeve.
+- Tape streamers along one end.
+- Punch holes at the other end and tie strings to hang it.
+- Hang it from a stick outside.
+- Check how full and which way it blows during the day.
+w: Wind socks show wind direction and strength. A full, straight wind sock means strong wind. Airports use them to help pilots land safely.
+x: Make a scale: limp, half-full, full.
+
+# Cloud Viewer
+e=🌥️ a=6-11 d=Easy t=30 min
+m: card stock; cloud chart with pictures; scissors; glue
+- Cut a square window in the middle of the card.
+- Glue cloud pictures and names around the window.
+- Hold it up to the sky and match the clouds.
+- Record the cloud type and the weather that follows.
+w: Cloud shapes tell us about the weather. Puffy cumulus mean fair weather, flat stratus bring drizzle, and tall cumulonimbus bring thunderstorms.
+x: Keep a cloud diary for a week.
+
+# Dew Point Test
+e=🥛 a=10-14 d=Medium t=20 min
+m: metal can; water; ice; thermometer
+- Fill a can with water.
+- Add ice slowly while stirring.
+- Watch for water drops on the outside.
+- Record the temperature.
+w: The dew point is the temperature when air can't hold more water vapor, so it condenses.
+x: Test on humid and dry days.
+
+# Sea Breeze Model
+e=🏝️ a=9-13 d=Medium t=1 hour
+m: 2 cups; sand; water; 2 thermometers; lamp
+- Fill one cup with sand and one with water.
+- Put both under a lamp.
+- Record temperatures every 5 minutes.
+- Turn off the lamp and record again.
+w: Land heats and cools faster than water, causing breezes by the sea.
+x: Draw how air moves on the beach during the day and night.
+
+# Snow Insulation Test
+e=🏔️ a=7-12 d=Easy t=1 hour
+m: 2 thermometers; deep snow or a bucket of crushed ice; notebook
+- Read both thermometers indoors.
+- Place one on top of the snow.
+- Bury the other 20 cm deep.
+- Wait 30 minutes and read both.
+w: Snow traps air between flakes, which slows heat flow. Animals burrow into snow, and people build igloos, because it's warmer inside.
+x: Bury a thermometer at different depths.
+
+# Ocean Acidification Shells
+e=🐚 a=9-13 d=Easy t=2 days
+m: small seashells or chalk; cups; water; soda water; vinegar; magnifier
+- Put a shell in each cup.
+- Cover with water, soda water and vinegar.
+- Observe bubbles.
+- After two days, compare surfaces.
+w: Oceans absorb carbon dioxide from the air, making the water more acidic. Acid makes it harder for animals like corals and clams to build shells.
+x: Weigh the shells before and after.
+
+# Sunlight Angle and Seasons
+e=🔦 a=9-13 d=Easy t=20 min
+m: flashlight; graph paper; protractor
+- Shine a flashlight straight down on graph paper.
+- Trace the light circle.
+- Tilt it to an angle and trace again.
+- Count squares inside each.
+w: Light at an angle spreads over a bigger area, so it's weaker. That's why winter is colder.
+x: Repeat with a globe.
+
+# Egg in a Bottle
+e=🥚 a=10-14 d=Medium t=15 min
+m: glass bottle with an opening slightly smaller than an egg; peeled hard-boiled egg; strip of paper; matches (adult); vegetable oil
+- Rub a little oil on the bottle rim.
+- An adult lights a paper strip and drops it in the bottle.
+- Quickly set the egg on the opening.
+- Watch the egg wiggle and get pushed into the bottle.
+w: Fire heats the air, making it expand and escape. When the flame goes out, the air cools and the pressure inside drops. The higher pressure outside pushes the egg in.
+x: Get the egg out by tilting the bottle and blowing into it.
+s: Adults only for matches.
+
+# Raindrop Size Pan
+e=💧 a=7-12 d=Easy t=20 min
+m: shallow pan of flour; sieve; ruler; rainy day
+- Spread flour 2 cm deep in a pan.
+- Hold it out in the rain for 3 seconds.
+- Bring it inside and let it sit for 10 minutes.
+- Sift the flour to collect little dough balls.
+- Measure and sort them by size.
+w: Each raindrop makes a ball of dough the size of the drop. Gentle rain has small drops, and storms have big drops.
+x: Compare drizzle with a heavy shower.
+
+# Pinwheel Wind Power
+e=🎡 a=5-10 d=Easy t=30 min
+m: paper square; pencil with eraser; pin; scissors
+- Cut from corners toward the center.
+- Fold every other point to the middle.
+- Pin to the eraser.
+- Blow and test in wind.
+w: Wind pushes against the blades, spinning them. This is how wind turbines work.
+x: Try different paper sizes.
+
+# Evaporation Race
+e=☀️ a=6-11 d=Easy t=2 days
+m: 4 identical cups; water; measuring cup; marker; wide shallow dish
+- Pour the same amount of water into three cups and the dish.
+- Place cups in sun, shade and fridge, and the dish in the sun.
+- Mark the water level each morning.
+- Record which loses water fastest.
+w: Heat gives water molecules energy to escape into the air. A wide surface lets more escape at once, so a shallow dish dries fastest.
+x: Add a fan and compare.
+
+# Weather Forecast Video
+e=🎥 a=8-14 d=Easy t=1 hour
+m: phone or tablet camera; poster map; weather symbols; your weather data
+- Collect weather data for 3 days.
+- Draw a map with sun, cloud and rain symbols.
+- Write a short script with today's weather and tomorrow's forecast.
+- Record yourself presenting it.
+- Check tomorrow to see if your forecast was right.
+w: Forecasters use patterns in temperature, pressure, wind and clouds to predict weather.
+x: Track your accuracy for a week.
+
+# Temperature Graph Challenge
+e=📈 a=7-12 d=Easy t=1 week
+m: outdoor thermometer in the shade; graph paper; colored pencils
+- Read the temperature at 8 am and 3 pm every day.
+- Plot morning in blue and afternoon in red on the graph.
+- Connect the dots.
+- Find the warmest and coolest days.
+w: Graphs show patterns. Afternoons are usually warmest because the sun has heated the ground all day.
+x: Add a third reading at 8 pm.
+
+# Mini Lightning Spark
+e=⚡ a=9-13 d=Medium t=15 min
+m: balloon; metal fork or spoon; wool sweater; very dark room
+- Rub the balloon hard on wool for 30 seconds.
+- In the dark, slowly bring the fork toward the balloon.
+- Watch and listen for a tiny spark.
+- Try on a dry day.
+w: Lightning is a giant static spark. Charge builds up in storm clouds and jumps to the ground or another cloud.
+x: Compare sparks on a dry and a humid day.
+
+# Flood Barrier Challenge
+e=🌊 a=8-13 d=Medium t=45 min
+m: long tray; sand; small toy houses; clay; sticks; sponges; pitcher of water
+- Build a town on one end of the tray, with a river bed.
+- Design barriers using clay walls, sponge wetlands or stick dams.
+- Pour water down the river slowly.
+- Check which houses stay dry.
+- Improve your design and test again.
+w: Levees, dams and wetlands protect towns from floods. Wetlands act like sponges, soaking up extra water.
+x: Compare a wall barrier and a sponge wetland.
+
+# Ice Core Layers
+e=🧊 a=9-13 d=Medium t=4 days
+m: tall plastic cup; water; sand; food coloring; glitter; freezer
+- Freeze 2 cm of plain water.
+- Add a thin layer of sand or colored water each day and freeze again.
+- After 4 days, pop out the ice.
+- Read the layers like a scientist.
+w: Scientists drill deep ice cores from glaciers. Each layer holds bubbles of old air and dust that tell us about Earth's climate thousands of years ago.
+x: Make a "volcano year" layer with dark sand.
+
+# Air Pollution Catcher
+e=🏭 a=8-12 d=Easy t=1 week
+m: index cards; petroleum jelly; string; hole punch; magnifier
+- Smear jelly on one side of several cards.
+- Hang them in different places: near a road, in a garden and indoors.
+- After a week, collect them.
+- Look at the particles with a magnifier and compare.
+w: Air carries dust, pollen, soot and other particles. Some places have more pollution than others.
+x: Count particles in a square on each card.
+
+# Solar Still
+e=💧 a=9-13 d=Medium t=1 day
+m: large bowl; small cup; plastic wrap; pebble; salty water
+- Pour salty water in a bowl.
+- Put a cup in the middle.
+- Cover with plastic wrap.
+- Place a pebble in the center.
+- Leave in the sun.
+w: Sun evaporates water, leaving salt behind. Fresh water condenses on the wrap and drips into the cup.
+x: Taste the water (adult okay) to check that it's fresh.

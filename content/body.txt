@@ -1,0 +1,433 @@
+# Balloon Lung Model
+e=🫁 a=7-12 d=Medium t=40 min
+m: plastic bottle; 2 balloons; scissors; tape; rubber band; straw (optional)
+- An adult cuts off the bottom of a plastic bottle.
+- Push one balloon into the bottle neck and stretch its opening over the rim.
+- Cut the top off the second balloon and stretch it over the open bottom. Tape it.
+- Pull the bottom balloon down and watch the inside balloon fill.
+- Push it up and watch it empty.
+w: The bottom balloon works like your diaphragm muscle. When it moves down, it makes room for air to rush into your lungs.
+x: Add a Y-straw and two balloons to model both lungs.
+
+# Heart Rate and Exercise
+e=💓 a=7-13 d=Easy t=30 min
+m: stopwatch; notebook; space to move
+- Find your pulse on your wrist or neck.
+- Count beats for 15 seconds and multiply by 4.
+- Do jumping jacks for 1 minute.
+- Measure again right away.
+- Measure every minute until it returns to normal.
+w: Your muscles need more oxygen when you exercise, so your heart beats faster to pump more blood.
+x: Compare walking, running and dancing.
+
+# Fingerprint Detective
+e=🕵️ a=6-12 d=Easy t=30 min
+m: pencil; paper; clear tape; magnifier; cocoa powder; soft brush; glass
+- Rub pencil lead on paper to make a dark patch.
+- Rub your finger on it and press clear tape on your fingertip.
+- Stick the tape on white paper.
+- Identify your pattern: loop, whorl or arch.
+- Dust cocoa on a glass to find hidden prints.
+w: Everyone has unique fingerprints, even identical twins. Police use fingerprints to identify people.
+x: Collect your family's prints and compare.
+
+# Taste vs Smell
+e=👃 a=6-12 d=Easy t=20 min
+m: apple; potato; onion pieces; jelly beans; blindfold; nose clip
+- Blindfold a friend and have them pinch their nose.
+- Give them tiny pieces to taste.
+- Ask them to guess each one.
+- Try again without pinching their nose.
+w: Most of what we call "flavor" comes from smell. Without smell, apple and potato taste almost the same.
+x: Test with flavored jelly beans.
+s: Check for allergies first.
+
+# Reaction Time Ruler Drop
+e=📏 a=7-13 d=Easy t=20 min
+m: 30 cm ruler; friend; notebook
+- Have a friend hold a ruler vertically.
+- Place your fingers at the 0 mark without touching.
+- When they drop it, catch it as fast as you can.
+- Record the number where you caught it.
+- Try 5 times and average.
+w: Your eyes send a message to your brain, which tells your fingers to move. The shorter the distance, the faster your reaction.
+x: Test your other hand, or test after playing a video game.
+
+# Straw Hand Tendons
+e=✋ a=8-13 d=Medium t=45 min
+m: card stock; straws; string; tape; scissors
+- Trace your hand on card and cut it out.
+- Cut straws into short pieces and tape them along each finger.
+- Thread string through each finger's straws and tape it at the tip.
+- Pull the strings to bend the fingers.
+w: Tendons connect muscles to bones. When muscles in your arm pull on tendons, your fingers bend.
+x: Wiggle your fingers and watch the tendons on the back of your hand.
+
+# Digestive System in a Bag
+e=🍌 a=7-12 d=Easy t=30 min
+m: zip bag; crackers; banana; water; orange juice; old stocking; scissors; tray
+- Put crackers and banana in a bag (mouth).
+- Add water and squish (chewing and saliva).
+- Add orange juice (stomach acid) and squish more.
+- Pour into a stocking (intestines) and squeeze out liquid.
+w: Your body breaks food into tiny pieces and absorbs nutrients into the blood. Whatever's left becomes waste.
+x: Measure the length of a real intestine with string (about 7 m).
+
+# Make a Stethoscope
+e=🩺 a=6-11 d=Easy t=20 min
+m: plastic funnel; 50 cm tube; tape; balloon (optional)
+- Push the funnel into one end of the tube.
+- Tape it tightly.
+- Place the funnel on a friend's chest.
+- Put the other end near your ear and listen to their heart.
+w: The funnel collects sound and the tube carries it to your ear without it spreading out.
+x: Listen before and after exercise.
+
+# Find Your Blind Spot
+e=👁️ a=7-13 d=Easy t=10 min
+m: index card; marker
+- Draw an X on the left and a dot on the right, about 8 cm apart.
+- Close your left eye and stare at the X with your right eye.
+- Slowly move the card toward your face.
+- At one point, the dot disappears.
+w: There is a spot at the back of your eye where the optic nerve connects. It has no light sensors, so you can't see things there.
+x: Draw a line through the dot. Does your brain fill it in?
+
+# Two-Point Touch Test
+e=🖐️ a=8-13 d=Easy t=20 min
+m: 2 toothpicks; ruler; blindfold
+- Blindfold a friend.
+- Touch their skin with one or two toothpicks.
+- Ask how many points they feel.
+- Test fingertips, back of hand, arm and back.
+w: Some body parts have many more touch sensors than others. Fingertips can feel two points very close together.
+x: Map how sensitive each body part is.
+
+# Lung Capacity Test
+e=🌬️ a=8-13 d=Medium t=30 min
+m: large plastic bottle; tub of water; bendy tube; marker; measuring cup
+- Mark the bottle every 100 ml.
+- Fill it with water and flip it upside down in a tub.
+- Slide a tube into the bottle.
+- Take a deep breath and blow out through the tube.
+- Read how much water you pushed out.
+w: Your lungs hold air. The amount you breathe out in one big breath is your vital capacity.
+x: Compare different family members.
+s: Use a new clean tube for each person.
+
+# Tooth Decay Egg Test
+e=🦷 a=6-12 d=Easy t=3 days
+m: 4 hard-boiled eggs; cups; soda; juice; vinegar; water; toothbrush; toothpaste
+- Place one egg in each cup.
+- Cover with a different drink.
+- After 2 days, look at the shells.
+- Brush the stained eggs with toothpaste.
+w: Eggshells are made of calcium like tooth enamel. Sugar and acid stain and weaken it, just like they can harm teeth.
+x: Coat half an egg with fluoride toothpaste first.
+
+# Muscle Fatigue Clothespin Test
+e=💪 a=7-12 d=Easy t=20 min
+m: clothespin; stopwatch; notebook
+- Hold a clothespin between thumb and finger.
+- Count how many times you can squeeze it in 30 seconds.
+- Rest 30 seconds and repeat 5 times.
+- Graph the results.
+w: Muscles get tired when they use up energy faster than blood can deliver oxygen and remove waste.
+x: Compare your strong hand and weaker hand.
+
+# Balance Test
+e=🦩 a=5-12 d=Easy t=15 min
+m: stopwatch; soft floor
+- Stand on one foot with eyes open.
+- Time how long you can balance.
+- Try again with eyes closed.
+- Compare.
+w: Your eyes, inner ears and muscles work together to keep balance. Without vision, it's much harder.
+x: Try after spinning in a circle.
+
+# Which Side Are You?
+e=🔀 a=6-12 d=Easy t=15 min
+m: paper tube; ball; paper; pencil
+- Look through a tube. Which eye did you use?
+- Kick a ball. Which foot?
+- Write your name. Which hand?
+- Record and compare with family.
+w: Most people have a dominant side controlled by their brain. It may not be the same side for hands, feet and eyes.
+x: Survey your class.
+
+# Blood in a Jar
+e=🩸 a=7-12 d=Easy t=20 min
+m: jar; corn syrup; red hots or red candies; white marshmallows; sprinkles
+- Fill the jar halfway with corn syrup (plasma).
+- Add red candies (red blood cells).
+- Add a few marshmallows (white blood cells).
+- Add sprinkles (platelets).
+w: Blood is made of plasma, red blood cells that carry oxygen, white blood cells that fight germs, and platelets that help clotting.
+x: Compare the amounts of each part in real blood.
+
+# Pupil Light Response
+e=👀 a=6-11 d=Easy t=10 min
+m: hand mirror; desk lamp; dim room; friend
+- Sit in a dim room for 2 minutes with a friend.
+- Look closely at your friend's pupils, the black circles in the eyes.
+- Turn on a lamp beside them (not shining into the eyes).
+- Watch the pupils shrink within a second.
+- Turn it off and watch them grow again.
+w: The iris is a muscle that changes the pupil's size. In dim light it opens wide to let in more light, and in bright light it closes to protect the eye.
+x: Close one eye for a minute, then open it. Did both pupils change?
+s: Never shine bright lights directly into eyes.
+
+# How Far Does a Sneeze Spray?
+e=🤧 a=6-11 d=Easy t=20 min
+m: spray bottle with colored water; large paper; tape measure; tissue
+- Lay a long paper on the floor.
+- Spray the bottle like a sneeze.
+- Measure how far the droplets go.
+- Spray again with a tissue in front.
+w: Sneezes spray tiny droplets that carry germs. Covering sneezes helps stop germs spreading.
+x: Try covering with your elbow.
+
+# Cracker Saliva Test
+e=🍘 a=8-13 d=Easy t=10 min
+m: plain unsalted crackers; timer; glass of water
+- Put a cracker in your mouth and chew it a few times.
+- Don't swallow. Keep it in your mouth for 2 minutes.
+- Notice how the taste changes.
+- Rinse your mouth and try with a piece of apple.
+w: Saliva contains an enzyme called amylase that breaks starch into sugar. Digestion starts in your mouth.
+x: Compare bread, potato chip and rice cake.
+
+# Mystery Smell Jars
+e=🫙 a=5-10 d=Easy t=20 min
+m: 6 small jars; foil; toothpick; cotton balls; vanilla; lemon peel; cinnamon; coffee; mint; orange
+- Put a different scent on a cotton ball in each jar.
+- Cover with foil and poke small holes.
+- Number the jars and make an answer key.
+- Have friends sniff and guess.
+- Score who gets the most correct.
+w: Your nose has around 400 types of smell sensors that can work together to tell apart thousands of scents. Smells are also strongly linked to memories.
+x: Sniff one jar for a full minute. Does the smell fade?
+
+# Arm Span vs Height
+e=📐 a=6-12 d=Easy t=20 min
+m: tape measure; friends; chart paper
+- Measure your height.
+- Stretch your arms wide and measure fingertip to fingertip.
+- Compare both numbers.
+- Measure friends and family.
+w: For most people, arm span is almost equal to height. Leonardo da Vinci noticed this in his famous drawing.
+x: Graph all your results.
+
+# Teeth Imprints
+e=😁 a=6-11 d=Easy t=15 min
+m: foam plate or soft modeling clay; mirror; tooth chart
+- Fold a foam plate in half or flatten clay.
+- Bite down gently but firmly.
+- Look at your bite marks.
+- Count and identify incisors (front), canines (pointy) and molars (back).
+- Compare with a family member.
+w: Teeth have different shapes for different jobs: incisors cut, canines tear, and molars grind food.
+x: Compare your teeth with pictures of a cow's teeth and a lion's teeth.
+
+# Peripheral Vision Test
+e=👁️ a=8-13 d=Easy t=15 min
+m: protractor drawn on paper; colored cards; friend
+- Stare straight ahead.
+- Have a friend slowly move a card from behind your head.
+- Say when you see it, and say its color.
+- Record the angle.
+w: You can see movement at the edge of your vision, but colors are harder to tell there because your eye has fewer color sensors at the sides.
+x: Compare different colors.
+
+# Memory Tray Test
+e=🧠 a=5-12 d=Easy t=20 min
+m: tray; 15 small objects; cloth; timer
+- Arrange objects on a tray.
+- Look for 30 seconds.
+- Cover and write down everything you remember.
+- Try again using a memory trick like a story.
+w: Short-term memory can hold about 7 items. Tricks like grouping or stories help you remember more.
+x: Test memory in the morning vs evening.
+
+# Marshmallow Pulse Viewer
+e=💗 a=7-12 d=Easy t=10 min
+m: mini marshmallow; toothpick
+- Stick a toothpick in a marshmallow.
+- Rest it on your wrist where you feel your pulse.
+- Keep still and watch the toothpick tick.
+- Count ticks for 15 seconds.
+w: Each heartbeat pushes blood through your arteries, making a pulse you can see.
+x: Measure before and after exercise.
+
+# Brain Hat
+e=🧢 a=8-12 d=Easy t=45 min
+m: paper plate or swim cap; markers; brain map
+- Draw the four main brain lobes on a cap.
+- Label each part.
+- Write what each part does.
+- Wear your brain hat.
+w: Different parts of the brain do different jobs, like vision, movement and thinking.
+x: Act out what each lobe does.
+
+# Knee Reflex Test
+e=🦵 a=7-12 d=Easy t=10 min
+m: high chair or table to sit on; side of your hand or a rubber spatula
+- Sit with your legs dangling freely.
+- Find the soft spot just below your kneecap.
+- Tap it gently with the side of your hand.
+- Watch your leg kick.
+- Try while counting backward from 100.
+w: A reflex is automatic. The tap sends a message to your spinal cord, which sends one straight back to your leg muscle without waiting for your brain.
+x: Test the reflex while gripping your hands together. Is it stronger?
+
+# Why Do We Sweat?
+e=💦 a=7-12 d=Easy t=30 min
+m: 2 thermometers; cloth; water; rubber bands; fan
+- Wrap a wet cloth around one thermometer's bulb.
+- Leave the other one bare.
+- Place both in front of a fan.
+- Read both after 10 minutes.
+w: When water evaporates, it takes heat with it. Sweat cools your body the same way.
+x: Test without the fan. Does it cool as much?
+
+# Sugar in Drinks Lab
+e=🥤 a=8-13 d=Easy t=30 min
+m: drink labels; sugar; teaspoons; clear bags
+- Read the sugar grams on drink labels.
+- Divide by 4 to get teaspoons.
+- Measure that much sugar into a bag for each drink.
+- Line up the bags.
+w: Many drinks contain lots of hidden sugar. Too much sugar can harm teeth and health.
+x: Find the drink with the least sugar.
+
+# Taller in the Morning?
+e=📏 a=7-12 d=Easy t=2 days
+m: tape measure; wall; pencil; book; notebook
+- Right after waking, stand against the wall barefoot.
+- Place a book flat on your head and mark the wall.
+- Measure again before bed.
+- Repeat the next day.
+w: The soft discs between the bones of your spine get squeezed by gravity during the day and stretch out again at night.
+x: Measure for a week and find your average change.
+
+# Hearing Direction Test
+e=👂 a=6-11 d=Easy t=15 min
+m: blindfold; small bell or clicker; friends
+- Blindfold a friend.
+- Ring a bell from different places.
+- Have them point to the sound.
+- Try with one ear covered.
+w: Two ears help find sounds because sound reaches each ear at slightly different times.
+x: Test which directions are hardest to locate.
+
+# Hot, Cold and Warm Bowls
+e=🌡️ a=6-11 d=Easy t=10 min
+m: 3 bowls; cold water; lukewarm water; warm (not hot) water
+- Put one hand in cold water and one in warm water.
+- Wait 1 minute.
+- Put both hands in lukewarm water.
+- Notice how each hand feels.
+w: Your skin senses change in temperature, not exact temperature. One hand feels warm, the other cold, in the same water.
+x: Try with your feet.
+s: Make sure the warm water isn't hot.
+
+# Grip Strength Through the Day
+e=✊ a=8-13 d=Easy t=1 day
+m: bathroom scale; notebook
+- Squeeze a bathroom scale between your palm and fingers.
+- Record the highest number.
+- Repeat 3 times and average.
+- Test morning, afternoon and evening.
+w: Muscle strength depends on rest, food and how warmed-up you are. Many people are strongest in the late afternoon.
+x: Test before and after a snack.
+
+# Candy DNA Model
+e=🍬 a=8-13 d=Easy t=40 min
+m: licorice strips; colored gummy candies or marshmallows; toothpicks
+- Use licorice for the two backbones.
+- Pair candies with toothpicks: matching colors always pair the same way.
+- Connect them between the licorice.
+- Twist into a spiral.
+w: DNA is a twisted ladder called a double helix. Its rungs are pairs of bases that carry genetic instructions.
+x: Write your name in a DNA code.
+
+# Tongue Taste Map Myth
+e=👅 a=7-12 d=Easy t=20 min
+m: cotton swabs; sugar water; salt water; lemon juice; tonic water; cups of water for rinsing
+- Dip a swab in sugar water.
+- Touch it to the tip, sides and back of your tongue.
+- Rinse and repeat with salt, lemon and tonic water.
+- Record where you tasted each.
+w: Old books said each taste has a tongue zone. That's a myth. Taste buds all over the tongue can sense sweet, salty, sour, bitter and savory.
+x: Test friends to see if results match.
+
+# Breath Water Test
+e=😮‍💨 a=5-10 d=Easy t=10 min
+m: mirror chilled in the fridge; room-temperature mirror; zip bag
+- Breathe on a cold mirror.
+- Watch fog appear and disappear.
+- Breathe on a room-temperature mirror.
+- Breathe into a zip bag for a minute and look for drops.
+w: Your breath carries water vapor from your lungs. On cold surfaces, the vapor condenses into tiny drops.
+x: Why can you "see your breath" on a cold day?
+
+# Nutrition Label Detectives
+e=🏷️ a=8-13 d=Easy t=30 min
+m: food packages; chart paper; markers
+- Collect food packages.
+- Find calories, sugar, protein and fiber.
+- Make a chart comparing them.
+- Pick the healthiest snack.
+w: Nutrition labels tell us what's in our food so we can make healthy choices.
+x: Plan a balanced meal.
+
+# Cardboard Joint Models
+e=🦴 a=8-12 d=Medium t=45 min
+m: cardboard; brass fasteners; tape; ping pong ball; paper cup
+- Cut two cardboard strips and join them with one fastener to make a hinge joint like a knee.
+- Glue a ping pong ball to a stick and fit it into a cup to make a ball-and-socket joint like a shoulder.
+- Compare how each moves.
+- Find each type of joint in your own body.
+w: Joints connect bones. Hinge joints move one way like a door, and ball-and-socket joints move in many directions.
+x: Find a pivot joint (your neck) and model it.
+
+# Pasta Skeleton
+e=💀 a=6-11 d=Easy t=45 min
+m: different pasta shapes; black paper; glue; skeleton picture
+- Look at a skeleton picture.
+- Choose pasta for each bone.
+- Glue them on black paper.
+- Label the main bones.
+w: Your skeleton has 206 bones that support your body, protect organs and help you move.
+x: Find the smallest and largest bones.
+
+# Cheek Cell Microscope
+e=🔬 a=10-14 d=Medium t=30 min
+m: clean cotton swab; slide; cover slip; methylene blue or food coloring; microscope
+- Gently scrape the inside of your cheek with a swab.
+- Smear it on a slide.
+- Add a drop of stain.
+- Cover and look under the microscope.
+w: Your body is made of trillions of cells. Cheek cells are flat with a dark nucleus.
+x: Compare cheek cells and onion cells.
+s: Use your own swab only. Throw it away afterwards.
+
+# Is Yawning Contagious?
+e=🥱 a=8-13 d=Easy t=30 min
+m: video of people yawning; video of people smiling; 10 volunteers; tally sheet
+- Show half your volunteers the yawning video.
+- Show the other half the smiling video.
+- Count who yawns in the next 3 minutes.
+- Compare the groups.
+w: Seeing or hearing someone yawn often makes us yawn. Scientists think it may be linked to empathy and social bonding.
+x: Does reading about yawning make people yawn?
+
+# Sleep and Reaction Time
+e=😴 a=9-14 d=Easy t=1 week
+m: ruler; sleep diary; partner
+- Write down your hours of sleep each night.
+- Do the ruler drop test 5 times each morning and average it.
+- Record results for a week.
+- Graph sleep hours against reaction time.
+w: Sleep lets your brain recover. With less sleep, reactions are usually slower.
+x: Compare weekdays and weekends.

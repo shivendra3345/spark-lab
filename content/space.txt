@@ -1,0 +1,434 @@
+# Oreo Moon Phases
+e=🌙 a=5-10 d=Easy t=30 min
+m: 8 sandwich cookies; plastic knife; paper plate; moon phase chart
+- Twist apart each cookie so the cream stays on one side.
+- Scrape away cream to match each phase: new, crescent, quarter, gibbous, full.
+- Arrange them in a circle in order.
+- Label each phase.
+w: The Moon doesn't make its own light. We see different amounts of its sunlit side as it orbits Earth.
+x: Watch the real Moon for a month and compare.
+
+# Crater Impact Experiment
+e=☄️ a=6-12 d=Easy t=30 min
+m: baking pan; flour; cocoa powder; marbles and balls of different sizes; ruler
+- Fill a pan with flour and sprinkle cocoa on top.
+- Drop a marble from 30 cm.
+- Measure the crater width.
+- Try bigger balls and higher drops.
+w: Craters form when meteorites hit a surface. Bigger and faster objects make bigger craters.
+x: Look for rays of cocoa splashed around the crater.
+
+# Solar System Scale Walk
+e=🪐 a=8-13 d=Easy t=1 hour
+m: long sidewalk or field; 9 signs; tape measure; scale chart
+- Place the Sun sign at the start.
+- Walk scaled distances to place each planet.
+- For example, at a scale of 1 step = 10 million km, Earth is 15 steps.
+- Walk to Neptune and look back.
+w: Space is mostly empty. The planets are tiny compared with the huge distances between them.
+x: Calculate where the nearest star would be on your scale.
+
+# Constellation Viewer
+e=✨ a=5-10 d=Easy t=30 min
+m: cardboard tubes; black paper circles; push pin; rubber bands; white crayon; constellation chart; flashlight
+- Copy a constellation onto a black paper circle with white crayon dots.
+- Poke a hole through each dot with a push pin.
+- Cover one end of the tube with the circle and hold it with a rubber band.
+- Look through the open end toward a lamp or window.
+- In a dark room, shine a flashlight through it to project stars on the ceiling.
+w: Constellations are star patterns people have used for thousands of years to tell stories, mark seasons and find directions. The stars in a pattern can be very different distances from Earth.
+x: Make a set and challenge friends to name each one.
+
+# Make a Sundial
+e=🌞 a=7-12 d=Easy t=all day
+m: paper plate; straw or pencil; clay; marker; sunny day
+- Poke a straw through the center of a plate.
+- Place it in the sun.
+- Mark the shadow every hour.
+- Use it to tell time the next day.
+w: As Earth spins, the sun's position changes, moving shadows in a predictable way.
+x: Does your sundial still work after a month?
+
+# Hanging Solar System Mobile
+e=🌌 a=6-12 d=Medium t=1 hour
+m: foam balls in 4-5 sizes; acrylic paint; skewers; string; 2 sticks or a wire hanger; planet fact sheet
+- Choose ball sizes so Jupiter and Saturn are biggest and Mercury and Mars are smallest.
+- Paint each planet using real colors, like Mars red and Neptune deep blue.
+- Add a card ring around Saturn.
+- Tie each planet with string to the hanger, in order from the Sun.
+- Balance the mobile by sliding strings until it hangs level.
+w: There are 8 planets. The 4 inner ones are rocky, and the 4 outer ones are giants made mostly of gas or ice.
+x: Write one fact on a tag for each planet.
+
+# Pocket Solar System
+e=📏 a=8-13 d=Easy t=20 min
+m: strip of paper about 1 m long; markers; ruler
+- Write the Sun at one end and Neptune at the other.
+- Fold in half: mark Uranus at the fold.
+- Fold the Sun end to Uranus: mark Saturn. Fold the Sun to Saturn: mark Jupiter.
+- Fold the Sun to Jupiter: mark the asteroid belt. Then fold again and place Mars, Earth, Venus and Mercury close to the Sun.
+- Look at how crowded the inner planets are.
+w: The inner planets are bunched close to the Sun, while the giants are spread far apart. Models like this show distances in a way numbers can't.
+x: Add the dwarf planet Pluto beyond Neptune.
+
+# Lamp and Ball Moon Phases
+e=💡 a=6-11 d=Easy t=20 min
+m: lamp without shade; ball on a stick; dark room
+- Turn off the lights and turn on the lamp (the Sun).
+- Hold the ball (the Moon) out at arm's length.
+- Slowly turn in a circle.
+- Watch the lit part of the ball change.
+w: Moon phases depend on where the Moon is in its orbit and how much of its sunny side faces us.
+x: Find the position for a full moon.
+
+# Star Wheel Planisphere
+e=🧭 a=9-13 d=Medium t=45 min
+m: printable planisphere for your latitude (from a science museum website); card stock; brass fastener; scissors; red flashlight
+- Print the star map and the window overlay on card stock.
+- Cut them out and join them at the center with a fastener.
+- Turn the wheel so today's date lines up with the time you will observe.
+- Go outside, face north, and hold the map overhead.
+- Use a red flashlight to read it while you find constellations.
+w: A planisphere shows which stars are above the horizon at any date and time. As Earth turns, the sky seems to rotate around the North Star.
+x: Find the Big Dipper and use it to find Polaris.
+
+# Comet Model
+e=☄️ a=11-14 d=Hard t=30 min
+m: dry ice (adult); gloves; sand; water; corn syrup; dark soda; large bowl; trash bag
+- An adult lines a bowl with a trash bag.
+- Add water, sand, soda and corn syrup.
+- An adult adds crushed dry ice wearing gloves.
+- Shape it into a ball and watch it steam.
+w: Comets are dirty snowballs of ice, dust and rock. Near the Sun, ice turns to gas, creating a glowing tail.
+x: Blow on it with a fan to make a tail.
+s: Dry ice burns skin. Adults only, with thick gloves and good air flow.
+
+# Galaxy in a Jar
+e=🌌 a=5-11 d=Easy t=30 min
+m: clear jar; cotton balls; water; paint (purple, blue, pink); glitter
+- Fill the jar one third with cotton balls.
+- Add water and a few drops of paint.
+- Sprinkle glitter.
+- Repeat layers with different colors.
+w: Galaxies are huge groups of stars, gas and dust. Our galaxy is called the Milky Way.
+x: Shine a flashlight through it in the dark.
+
+# Expanding Universe Balloon
+e=🎈 a=9-13 d=Easy t=15 min
+m: balloon; marker; ruler
+- Blow up a balloon a little.
+- Draw dots as galaxies.
+- Measure distances between dots.
+- Blow it up more and measure again.
+w: The universe is expanding. Galaxies are moving apart as space stretches.
+x: Do far dots move apart faster?
+
+# Gravity Well
+e=🕳️ a=7-12 d=Medium t=30 min
+m: stretchy fabric; large bucket or hoop; heavy ball; marbles
+- Stretch fabric over a bucket.
+- Put a heavy ball in the center.
+- Roll marbles around it.
+- Watch them curve and orbit.
+w: Heavy objects bend space, creating gravity. Planets orbit the Sun because of this.
+x: Use two heavy balls.
+
+# Recycled Mars Rover
+e=🤖 a=8-13 d=Medium t=1 hour
+m: boxes; bottle caps; skewers; straws; foil; tape
+- Build a body from a box.
+- Add wheels with skewers and caps.
+- Add arms, cameras and solar panels.
+- Test it on a rocky path.
+w: Rovers explore Mars for scientists. They must handle rough ground and run on solar or nuclear power.
+x: Design tools for collecting rock samples.
+
+# Moon Journal
+e=📔 a=6-12 d=Easy t=1 month
+m: notebook; pencil; clear night sky
+- Look at the Moon every night.
+- Draw its shape.
+- Note the date and time.
+- After a month, find the pattern.
+w: The Moon goes through a full cycle of phases about every 29.5 days.
+x: Predict the next full moon.
+
+# Eclipse Model
+e=🌑 a=7-12 d=Easy t=20 min
+m: flashlight; large ball; small ball; dark room
+- Hold the flashlight as the Sun.
+- Place the large ball as Earth.
+- Move the small ball (Moon) between them.
+- Then move the Moon behind Earth.
+w: A solar eclipse happens when the Moon blocks the Sun. A lunar eclipse happens when Earth's shadow covers the Moon.
+x: Find the next eclipse date in your area.
+
+# Day and Night Globe
+e=🌍 a=5-10 d=Easy t=15 min
+m: globe or ball; flashlight; small sticker; dark room
+- Put a sticker on your home.
+- In a dark room, shine the flashlight on the globe as the Sun.
+- Slowly spin the globe from west to east.
+- Watch your sticker move into the light (sunrise) and out of it (sunset).
+- Find a country having night while you have day.
+w: Earth spins once every 24 hours. The side facing the Sun has day and the side facing away has night.
+x: Count how many hours of light your sticker gets as you spin.
+
+# Seasons Tilt Model
+e=🌸 a=9-13 d=Medium t=20 min
+m: lamp without shade; foam ball on a skewer tilted about 23 degrees; dark room; sticker
+- Place the lamp in the middle of a table.
+- Put a sticker on the ball where you live.
+- Walk the ball around the lamp, always tilting the skewer toward the same wall.
+- Stop at four points and see how direct the light is on your sticker.
+- Notice when your half leans toward and away from the lamp.
+w: Earth's axis is tilted. When your half leans toward the Sun, sunlight is more direct and days are longer, so it's summer. Leaning away gives winter.
+x: Explain why Australia has summer in December.
+
+# Astronaut Food Dehydration
+e=🍎 a=7-12 d=Easy t=1 day
+m: apple slices; banana slices; kitchen scale; baking tray; oven (adult)
+- Weigh fruit slices.
+- An adult dries them in a low oven for hours.
+- Weigh them again.
+- Add water to rehydrate.
+w: Astronauts eat dried foods because they weigh less and last longer.
+x: Calculate how much water was removed.
+s: Adults handle the oven.
+
+# Spacesuit Glove Challenge
+e=🧤 a=6-11 d=Easy t=20 min
+m: thick winter gloves or rubber gloves stacked; beads; nuts and bolts; coins; timer
+- With bare hands, time how long it takes to thread 5 beads and screw a nut onto a bolt.
+- Put on the thick gloves.
+- Do the same tasks and time them again.
+- Wear two pairs and try once more.
+w: Spacesuit gloves are thick and filled with air pressure to protect astronauts. That makes fingers stiff and tiring to use, so tools and tasks are specially designed.
+x: Design a tool that would make the task easier in gloves.
+
+# Fruit Planet Sizes
+e=🍉 a=5-10 d=Easy t=20 min
+m: peppercorn; pea; grape; blueberry; cherry tomato; grapefruit; orange; lemon; small melon
+- Choose: Mercury = peppercorn, Mars = pea, Venus and Earth = blueberries.
+- Jupiter = small melon, Saturn = grapefruit, Uranus and Neptune = lemons or oranges.
+- Line them up from the Sun.
+- Compare the tiny rocky planets with the giants.
+w: Planets vary hugely. Jupiter is about 11 times wider than Earth. On this scale the Sun would be about as big as a car tire.
+x: Find something at home the size of the Sun on this scale.
+
+# Meteor Shower Log
+e=🌠 a=8-14 d=Easy t=2 hours
+m: blanket or reclining chair; warm clothes; notebook; red flashlight; meteor shower calendar
+- Look up the next meteor shower date and peak night.
+- Go to the darkest place you can with an adult.
+- Let your eyes adjust for 20 minutes with no screens.
+- Count meteors every 15 minutes and note their brightness.
+- Graph your counts by time.
+w: Meteor showers happen when Earth passes through dust left by a comet. Tiny pieces burn up in our atmosphere as streaks of light.
+x: Compare counts before and after midnight.
+
+# Space Station Spotting
+e=🛰️ a=8-14 d=Easy t=30 min
+m: phone or computer; space station tracking website or app; clear sky; notebook
+- Look up when the International Space Station will pass over you.
+- Go outside 5 minutes early and face the direction it will rise.
+- Look for a bright, steady light moving across the sky (not blinking like a plane).
+- Time how long it is visible.
+- Note how bright it was and where it disappeared.
+w: The ISS orbits Earth about every 90 minutes at around 28,000 km per hour. You see it because it reflects sunlight, often just after sunset.
+x: Find out which astronauts are on board right now.
+
+# Moon Sand
+e=🌕 a=3-8 d=Easy t=15 min
+m: 4 cups flour; 1/2 cup vegetable oil or baby oil; bin or tray; marbles; toy astronauts
+- Mix flour and oil in a bin with your hands until it feels like damp sand.
+- Squeeze it to make shapes that hold together.
+- Flatten a surface and drop marbles to make craters.
+- Make footprints with a toy astronaut.
+w: The Moon is covered in fine powdery dust called regolith. Astronaut footprints from the 1960s and 70s are still there because the Moon has no wind or rain.
+x: Make a crater map of your moon landscape.
+
+# Star Brightness and Distance
+e=🔦 a=8-13 d=Easy t=20 min
+m: 2 identical flashlights; dark hallway; tape measure; a bigger brighter flashlight
+- Turn on two identical flashlights side by side and compare.
+- Have a friend walk one flashlight to the end of the hall.
+- Notice how much dimmer it looks.
+- Put a big bright flashlight far away and a small one close. Which looks brighter?
+w: A star's brightness in our sky depends on how much light it makes and how far away it is. A huge distant star can look dimmer than a small close one.
+x: Find how far the flashlight must go to look half as bright.
+
+# Why Stars Twinkle
+e=⭐ a=7-12 d=Easy t=15 min
+m: foil; flashlight; clear dish of water; spoon
+- Put foil with tiny holes on a flashlight.
+- Shine it through a dish of water onto the ceiling.
+- Stir the water gently.
+- Watch the stars twinkle.
+w: Stars twinkle because their light passes through moving air in our atmosphere.
+x: Why don't planets twinkle as much?
+
+# Pinhole Sun Measurement
+e=☀️ a=10-14 d=Medium t=30 min
+m: card with a clean pinhole; white paper on a clipboard; meter stick; calculator
+- Stand with your back to the Sun.
+- Hold the pinhole card so it projects a small circle (the Sun's image) onto the paper 1 m behind it.
+- Measure the diameter of the image in millimeters.
+- Divide image width by the distance from pinhole to paper.
+- Multiply by 150,000,000 km to estimate the Sun's diameter.
+w: The image and the Sun form similar triangles. Knowing the Sun's distance lets you calculate its size, about 1.4 million km across.
+x: How close did your answer get? What caused the error?
+s: Never look at the Sun directly.
+
+# Playdough Planets
+e=🪐 a=4-9 d=Easy t=30 min
+m: play dough in many colors; planet pictures; plastic knife
+- Look at planet pictures and pick colors.
+- Roll balls in different sizes.
+- Swirl colors for Jupiter's stripes and add a ring to Saturn.
+- Make Earth with layers: a red core, yellow middle, blue and green outside.
+- Cut Earth in half to see inside.
+w: Planets have different colors because of their gases, rocks and ices. Rocky planets have layers like a core and crust.
+x: Line them up in order and say a memory sentence for their names.
+
+# Falling Cup Zero Gravity
+e=🫗 a=8-12 d=Easy t=10 min
+m: paper cup; water; pencil; tray or outdoors
+- Poke two holes near the bottom of a cup.
+- Fill with water and watch it pour out.
+- Drop the cup from a height.
+- Watch the water stop pouring while it falls.
+w: When everything falls together, water doesn't pour. Astronauts feel weightless because they are always falling around Earth.
+x: Try with more holes.
+
+# Orbit on a String
+e=🌀 a=8-12 d=Easy t=10 min
+m: soft ball in a sock; string; open area outdoors
+- Tie the string to the sock with the ball inside.
+- Swing it in a flat circle above your head.
+- Notice you have to keep pulling inward.
+- Let go and watch which way it flies.
+w: The string pulls the ball inward, like the Sun's gravity pulls on planets. Without that pull, the ball flies off in a straight line, and so would a planet.
+x: Swing faster and slower. When do you need to pull harder?
+s: Swing in an open area away from people.
+
+# Distance to the Moon String
+e=🧵 a=9-13 d=Easy t=20 min
+m: ball about 12 cm wide (Earth); ball about 3 cm wide (Moon); 3.6 m of string; tape
+- Tape one end of the string to the Earth ball.
+- Tape the other end to the Moon ball.
+- Stretch it out.
+- Ask people to guess how far apart the balls should be before you show them.
+w: The Moon is about 384,000 km away, about 30 Earths lined up. Most people guess it's much closer.
+x: Calculate how long it would take to drive there at highway speed.
+
+# Space Station Model
+e=🚀 a=8-13 d=Medium t=1.5 hours
+m: boxes; paper towel tubes; foil; straws; card stock; tape; markers
+- Look at pictures of the International Space Station.
+- Build modules from boxes and connect them with tube tunnels.
+- Make large solar panel wings from card covered with foil.
+- Add a docking port and label each module (living area, lab, airlock).
+w: The ISS was built piece by piece in orbit. Solar panels power it, and astronauts live and work there doing science experiments.
+x: Plan a daily schedule for an astronaut on your station.
+
+# Exoplanet Transit
+e=🪐 a=10-14 d=Medium t=30 min
+m: lamp; small ball on a stick; phone with a light meter app; table
+- Set the phone facing the lamp and note the light reading.
+- Pass the small ball slowly in front of the lamp.
+- Watch the reading dip, then return.
+- Try a bigger ball and compare the dip.
+w: Astronomers find planets around other stars by watching for tiny dips in starlight when a planet passes in front. Bigger planets cause bigger dips.
+x: Record the readings and graph them as a "light curve".
+
+# Astronaut Balance Training
+e=🧑‍🚀 a=7-12 d=Easy t=20 min
+m: pillow or balance board; timer; tape line on floor; office chair (adult)
+- Stand on one foot on a pillow and time yourself.
+- Walk heel-to-toe along a tape line.
+- Spin slowly in a chair 5 times (with an adult) and then try walking the line.
+- Record each result.
+w: In space there is no "up", so astronauts' balance systems get confused. They train their balance and muscles before and after missions.
+x: Create an astronaut training course with stations.
+
+# Two-Stage Balloon Rocket
+e=🎈 a=9-13 d=Medium t=30 min
+m: 2 long balloons; paper cup ring; string; straws; tape
+- Thread string through two straws.
+- Inflate one balloon, then put the cup ring over its end.
+- Inflate the second balloon through the ring so it pinches the first.
+- Tape them to the straws and release.
+w: Real rockets use stages. When one stage runs out of fuel, it drops away.
+x: Measure distance compared with a single balloon.
+
+# Sunspot Projection
+e=🔭 a=11-14 d=Hard t=30 min
+m: binoculars; tripod; white card; cardboard shade
+- An adult sets binoculars on a tripod with one lens covered.
+- Point them at the Sun without looking.
+- Project the image onto white card.
+- Look for dark spots.
+w: Sunspots are cooler areas on the Sun's surface caused by magnetic activity.
+x: Track sunspots over a week.
+s: Never look through binoculars at the Sun. Adults only.
+
+# Weight on Other Planets
+e=⚖️ a=8-13 d=Easy t=20 min
+m: bathroom scale; calculator; gravity chart (Moon 0.17, Mars 0.38, Jupiter 2.53)
+- Weigh yourself.
+- Multiply by the Moon's gravity factor.
+- Multiply by Mars and Jupiter factors too.
+- Make a chart comparing your weights.
+w: Your mass stays the same everywhere, but your weight depends on gravity. Bigger planets pull harder.
+x: Measure how high you jump on Earth, then estimate it on the Moon.
+
+# Glow Constellation Map
+e=🌟 a=6-12 d=Easy t=45 min
+m: dark blue poster paper; glow-in-the-dark paint or star stickers; white pencil; constellation chart
+- Lightly draw constellation lines with a white pencil.
+- Place glow stickers or paint dots on each star.
+- Write each constellation's name and a story about it.
+- Charge under a lamp and turn off the lights.
+w: Different cultures saw different pictures in the same stars and told their own stories about them.
+x: Invent your own constellation and its legend.
+
+# Mapping Moon Craters
+e=🌕 a=9-14 d=Easy t=30 min
+m: binoculars; tripod or steady wall; moon map; notebook; pencil
+- On a clear night near first quarter, look at the Moon through binoculars.
+- Look along the line between light and dark, where craters cast long shadows.
+- Find the dark "seas" and big craters on your map.
+- Draw what you see and label it.
+w: The Moon's dark seas are old lava plains. Craters come from billions of years of impacts. Shadows near the light-dark line make craters easiest to see.
+x: Find the Sea of Tranquility, where Apollo 11 landed.
+
+# Light Pollution Star Count
+e=🏙️ a=8-14 d=Easy t=30 min
+m: paper towel tube; notebook; red flashlight; star chart
+- Pick a well-known constellation like Orion.
+- Look at it through the tube and count stars inside the circle.
+- Repeat in your yard, near a streetlight and somewhere darker.
+- Compare counts.
+w: Artificial light washes out faint stars. This light pollution also affects animals like birds and turtles.
+x: Join a citizen science star-counting project.
+
+# Umbrella Planetarium
+e=☂️ a=7-12 d=Medium t=1 hour
+m: black umbrella; white or glow-in-the-dark paint pen; star chart
+- Open the umbrella and mark the center as the North Star.
+- Copy nearby constellations outward from the center.
+- Paint brighter stars as bigger dots.
+- Hold it over your head and slowly turn it.
+w: As Earth spins, stars appear to circle around the North Star. Turning the umbrella shows how the sky moves through the night.
+x: Mark which constellations you see in each season.
+
+# Mission Patch Design
+e=🎖️ a=7-12 d=Easy t=45 min
+m: paper; markers; circle or shield template; examples of real mission patches
+- Choose a mission: Moon base, Mars rover or space telescope.
+- Decide the crew, goal and spacecraft.
+- Design a patch with symbols for each part of the mission.
+- Present it and explain each symbol.
+w: Every crewed space mission has a patch designed by the astronauts, often with symbols for the destination, spacecraft and crew.
+x: Write a mission plan with launch, journey and landing steps.

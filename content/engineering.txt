@@ -1,0 +1,459 @@
+# Spaghetti Marshmallow Tower
+e=🗼 a=6-13 d=Easy t=45 min
+m: 20 sticks of dry spaghetti; 1 m of tape; 1 m of string; 1 marshmallow; scissors; ruler
+- Work in teams with only these materials.
+- Build the tallest freestanding tower you can in 18 minutes.
+- The marshmallow must sit on the very top.
+- Measure from the table to the marshmallow.
+- Discuss what made the tallest towers work.
+w: Triangles are strong shapes that don't bend easily. Wide bases make towers stable.
+x: Try again and see if you can beat your first height.
+
+# Paper Bridge Strength
+e=🌉 a=6-12 d=Easy t=30 min
+m: printer paper; 2 equal stacks of books; pennies; small cup; tape; ruler
+- Make two book stacks 15 cm apart and lay one flat sheet of paper across the gap.
+- Set a small cup in the middle and add pennies one at a time until the bridge sags into the gap. Record the number.
+- Fold a new sheet into accordion pleats (like a fan) and test again.
+- Try a third sheet rolled into a tube, then one folded into a U-shaped channel.
+- Make a bar chart comparing how many pennies each shape held.
+w: A flat sheet bends easily. Folding the same paper into pleats or tubes makes it stiffer because the material is spread farther from the middle, so it resists bending. Real bridges use I-beams and corrugated steel for the same reason.
+x: Increase the gap to 25 cm. Which shape still works best?
+
+# Craft Stick Bridge
+e=🌁 a=9-14 d=Hard t=2 hours
+m: 100 craft sticks; wood glue; clamps or clothespins; weights
+- Sketch a truss bridge design with triangles.
+- Glue sticks to make two matching sides.
+- Connect the sides with cross pieces.
+- Let it dry overnight.
+- Test how much weight it holds.
+w: Truss bridges spread weight through triangles so no single piece takes too much force.
+x: Try different truss patterns.
+
+# Cardboard Arcade Game
+e=🕹️ a=7-13 d=Medium t=2 hours
+m: cardboard boxes; tape; paper tubes; ping pong balls; markers; scissors
+- Choose a game like skee-ball or a claw machine.
+- Plan and sketch it.
+- Build it from boxes.
+- Test and fix problems.
+- Invite friends to play.
+w: Engineers design, build, test and improve. This is called the engineering design process.
+x: Add a scoreboard.
+
+# Balloon-Powered Car
+e=🚗 a=7-12 d=Easy t=45 min
+m: cardboard or plastic bottle; 4 bottle caps; 2 straws; 2 skewers; balloon; tape
+- Tape two straws across the car body.
+- Push skewers through the straws and add caps as wheels.
+- Tape a balloon to a straw and attach it on top, pointing backwards.
+- Blow up the balloon through the straw, pinch it, set the car down and let go.
+w: Air rushing out of the balloon pushes the car forward (Newton's third law).
+x: Use two balloons and compare.
+
+# Pizza Box Solar Oven
+e=🍕 a=8-13 d=Medium t=2 hours
+m: pizza box; foil; plastic wrap; black paper; tape; stick; s'mores ingredients; sunny day
+- Cut a flap in the box lid.
+- Cover the inside of the flap with foil.
+- Cover the opening with plastic wrap.
+- Line the bottom with black paper.
+- Prop the flap to reflect sunlight in and cook s'mores.
+w: Foil reflects sunlight into the box. Black paper absorbs it, and plastic wrap traps the heat.
+x: Use a thermometer to compare angles of the flap.
+
+# Wind Turbine Model
+e=🌬️ a=9-13 d=Medium t=1.5 hours
+m: cardboard blades; dowel; cork; bottle; string; paper cup; fan
+- Cut blades and attach them to a cork.
+- Push a dowel through the cork as an axle.
+- Mount it on a bottle.
+- Tie a string with a small cup to the axle.
+- Use a fan to spin the blades and lift the cup.
+w: Wind turbines turn moving air into energy that can lift things or make electricity.
+x: Test 2, 3 and 4 blades.
+
+# Water Wheel
+e=💧 a=8-12 d=Medium t=1 hour
+m: paper plates; plastic spoons; pencil; tape; water
+- Tape spoons around the edge of a paper plate.
+- Push a pencil through the center.
+- Hold it under running water.
+- Watch it spin.
+w: Moving water pushes the spoons, turning the wheel. Water wheels have powered mills for centuries.
+x: Lift a small weight with your wheel.
+
+# Cardboard Tube Marble Wall
+e=🎯 a=6-12 d=Easy t=1 hour
+m: 10-15 cardboard tubes; scissors; painter's tape (safe for walls); marbles; cup for the finish
+- Cut some tubes in half lengthwise to make open chutes and leave some whole as tunnels.
+- Tape the first chute high on a wall or door at a gentle slope.
+- Add chutes below in a zigzag so each one catches the marble from the one above.
+- Drop a marble at the top and watch where it falls off. Adjust angles and gaps.
+- Finish with a cup at the bottom and time each run.
+w: Gravity pulls the marble down each slope. Steep chutes speed it up and gentle ones slow it down. Each turn needs a backstop because the marble's momentum wants to keep it going straight.
+x: Design a run that takes exactly 10 seconds.
+
+# Bristlebot
+e=🪥 a=8-13 d=Medium t=30 min
+m: toothbrush head; small vibrating motor; coin battery; tape
+- Cut the head off a toothbrush.
+- Tape a motor on top.
+- Connect the motor to a coin battery.
+- Set it down and watch it move.
+w: The motor vibrates, and the angled bristles turn the shaking into forward motion.
+x: Build an arena and race bristlebots.
+s: Coin batteries are dangerous if swallowed.
+
+# Scribble Art Bot
+e=🖍️ a=8-13 d=Medium t=45 min
+m: plastic cup; 3 markers; small motor; battery pack; cork or clay; tape
+- Tape markers to a cup as legs.
+- Attach a motor with an off-center weight.
+- Connect it to a battery.
+- Set it on paper and watch it draw.
+w: The off-center weight makes the motor wobble, moving the bot in patterns.
+x: Change the weight to change the drawings.
+
+# Hydraulic Syringe Arm
+e=🦾 a=10-14 d=Hard t=2 hours
+m: cardboard; syringes; plastic tubing; water; brass fasteners; tape
+- Build an arm from cardboard strips.
+- Connect syringes with tubing filled with water.
+- Attach one syringe to the arm.
+- Push the other syringe to move the arm.
+w: Hydraulics use liquid to transmit force. Construction machines use hydraulics.
+x: Add a gripper.
+
+# Cardboard Grabber Claw
+e=🦀 a=8-12 d=Medium t=45 min
+m: 8 cardboard strips (2 x 20 cm); 9 brass fasteners; hole punch; tape; 2 small cardboard "jaws"
+- Punch holes at both ends and in the middle of each strip.
+- Pair strips into X shapes, joining them at the middle hole with a fastener.
+- Link the X's end to end with fasteners to make a zigzag "lazy tongs" chain.
+- Tape cardboard jaws to the two tips at the far end.
+- Squeeze the two handles together and watch the claw shoot out and close. Practice picking up a cup or a sock.
+w: This is a scissor linkage. Each X turns a small movement at the handles into a bigger movement at the far end, so the claw extends quickly. Linkages like this are used in lifts and folding gates.
+x: Add more X sections. How does reach change, and does it get wobblier?
+
+# Earthquake-Proof Building
+e=🏢 a=9-13 d=Medium t=1.5 hours
+m: index cards; straws; toothpicks; mini marshmallows; tape; tray of firm gelatin (set overnight); small weights
+- Build a tower at least 30 cm tall on top of the gelatin "ground".
+- Place a small weight on the top floor to act like heavy rooftop equipment.
+- Shake the tray side to side for 15 seconds and note what fails.
+- Add cross-bracing (X shapes) on the walls and a wider base, then test again.
+- Try a "base isolation" design by putting the tower on a few marbles inside a lid.
+w: Earthquakes shake the ground sideways. Diagonal braces stop walls from folding into parallelograms, and wide bases resist tipping. Some real skyscrapers sit on rubber pads or sliding bearings so the ground moves under them.
+x: Compare a tall skinny tower and a short wide one built from the same materials.
+
+# Paper Chain Challenge
+e=🔗 a=6-12 d=Easy t=20 min
+m: 1 sheet of letter paper per team; scissors; 30 cm of tape; ruler
+- Plan before you cut: wide strips or thin strips? Short loops or long ones?
+- Cut strips from your single sheet.
+- Loop and tape them into a chain, linking each loop through the last.
+- Hang the chain and measure its total length.
+- Compare teams and discuss which plans worked best.
+w: Engineers often work with limited materials, so planning matters. Thinner strips give more loops but break more easily, so the best design balances length and strength.
+x: Try again where the chain must also hold a 50 g weight.
+
+# Index Card Tower
+e=🃏 a=7-12 d=Easy t=30 min
+m: 50 index cards; scissors (optional); ruler; timer
+- Without tape, try standing a single flat card up. Notice how it falls.
+- Fold cards into triangles, tubes or L-shapes and test which stand best.
+- Build a tower in 15 minutes using any folds and slots you like.
+- Measure the height and test stability by gently blowing on it.
+- Rebuild using what you learned and try to beat your height.
+w: A flat card is weak, but folding gives it a 3D shape that resists bending and buckling. Triangular prisms are especially strong and stable columns.
+x: Find out how many books a tower of folded cards can hold.
+
+# Newspaper Table
+e=📰 a=8-13 d=Medium t=45 min
+m: 10 sheets of newspaper; masking tape; thin dowel or pencil for rolling; hardcover book
+- Roll each sheet tightly around a pencil diagonally from corner to corner, then slide the pencil out and tape the tube.
+- Make 4 legs by bundling 3 tubes each with tape.
+- Join the tops of the legs with tubes to make a square frame.
+- Add diagonal tubes between legs as braces.
+- Place a book on top. Add more books until it collapses.
+w: Rolled paper makes surprisingly strong tubes because they resist squashing along their length. Bundling tubes and adding triangles stop the legs from bending sideways.
+x: Build a table that is at least 20 cm tall and holds the most books.
+
+# Archimedes Screw
+e=🌀 a=9-13 d=Medium t=45 min
+m: plastic bottle or cardboard tube; 1 m of clear flexible tubing; strong tape; bowl of water with food coloring; empty cup
+- Wrap the tubing in a spiral around the bottle, keeping the turns evenly spaced.
+- Tape it firmly in several places.
+- Hold the bottle at about a 45 degree angle with the bottom tube end dipped in the water.
+- Turn the bottle steadily in one direction.
+- Watch water climb the spiral and pour into the cup at the top.
+w: Each turn scoops a little water, which is then trapped in the low part of the spiral and carried upward as you rotate. This machine was described over 2,000 years ago and is still used to lift water and grain.
+x: Change the angle of the screw. Is there a best angle?
+
+# Mini Trebuchet
+e=🏰 a=11-14 d=Hard t=2 hours
+m: 20 craft sticks; wood glue or hot glue (adult); wooden skewer; small cup or bottle cap; string; paper clip; coins for the counterweight; mini marshmallows
+- Glue two triangles from craft sticks and join them with cross pieces to make a sturdy A-frame.
+- Push a skewer through the top as the pivot axle.
+- Attach a throwing arm with a short end and a long end. Hang a cup of coins from the short end.
+- Tie a string sling with a paper clip release to the long end.
+- Pull the long arm down, load a marshmallow, and let go.
+w: A trebuchet uses gravity. The falling counterweight swings the long arm fast, and the sling adds even more speed at the end, flinging the projectile.
+x: Change the counterweight and sling length and graph the distances.
+s: Use soft projectiles only and never aim at people or animals.
+
+# Cardboard Crane
+e=🏗️ a=8-13 d=Medium t=1 hour
+m: shoebox; cardboard; paper towel tube; pencil; thread spool; string; paper clip hook; small cup; coins; tape
+- Stand the tube upright on the shoebox as the tower and tape it firmly.
+- Tape a long cardboard strip across the top as the crane's arm (jib).
+- Push a pencil through a spool at the back as a winch with a handle.
+- Run string from the winch along the arm and down to a paper clip hook.
+- Hang a cup of coins and wind the handle to lift. Add a weight to the back end if the crane tips.
+w: The winch winds string to lift the load. A counterweight at the back balances the load on the arm so the crane doesn't topple, just like real tower cranes.
+x: Add a pulley at the arm tip and compare how easy it is to lift.
+
+# Rubber Band Paddle Boat
+e=🚤 a=7-12 d=Easy t=45 min
+m: foam tray or milk carton; 2 craft sticks; rubber band; plastic lid or card for paddle; tape; tub of water
+- Cut a boat shape from foam, or cut a milk carton in half lengthwise.
+- Tape two craft sticks to the back so they stick out like a frame.
+- Stretch a rubber band between the stick ends.
+- Slide a small plastic paddle through the rubber band.
+- Wind the paddle backward many times, set the boat in water and let go.
+w: Winding twists the rubber band and stores elastic energy. When released, it unwinds and spins the paddle, which pushes water backward and the boat forward.
+x: Test paddle sizes and number of winds to find the fastest boat.
+
+# Paper Roller Coaster
+e=🎢 a=10-14 d=Hard t=3 hours
+m: card stock; masking tape; scissors; ruler; cardboard base; marbles
+- Make L-shaped track pieces by folding card stock strips with walls on both sides.
+- Roll card stock into column supports of different heights.
+- Start with a tall first drop, then add a smaller hill, a turn and a loop.
+- Test with a marble after adding each new section.
+- Add a finish cup and give your coaster a name.
+w: The marble starts with stored energy at the top of the first hill. Each later hill must be lower because some energy is lost to friction and air. Loops need speed to keep the marble pressed against the track.
+x: Measure the shortest first drop that still makes it through the loop.
+
+# LEGO Car Ramp
+e=🧱 a=5-11 d=Easy t=45 min
+m: building bricks with wheels; long board or book ramp; tape measure; masking tape
+- Build a simple car and roll it down the ramp. Mark where it stops.
+- Add extra bricks to make it heavier and test again.
+- Change to bigger or smaller wheels and test.
+- Test a long, low car vs a short, tall car.
+- Record each result and choose your best design.
+w: Heavier cars keep moving longer because they have more momentum, but they also have more friction. Wheel size, wheel wobble and balance all change how far the car rolls.
+x: Build a car that stops exactly on a target line.
+
+# Cardboard Automaton
+e=⚙️ a=10-14 d=Hard t=2 hours
+m: shoebox; cardboard; wooden skewers; straws; hot glue (adult); card characters; compass or round lids to trace
+- Cut 4 cardboard circles and push a skewer through each slightly off-center. These are cams.
+- Push a long skewer across the box through straw bearings and glue the cams on it.
+- Cut holes in the box top above each cam and drop a straw with a flat foot down each hole so it rests on a cam.
+- Glue characters on top of the straws.
+- Turn a handle on the skewer and watch the figures bob.
+w: An off-center cam turns spinning motion into up-and-down motion. Different cam shapes make figures move at different times and heights. Old mechanical toys and car engines use cams.
+x: Make a snail-shaped cam that lifts slowly and drops suddenly.
+
+# Straw Geodesic Dome
+e=⚪ a=9-14 d=Medium t=1.5 hours
+m: 65 drinking straws; pipe cleaners cut into short pieces; scissors
+- Make 25 straws one length (long) and 40 a little shorter (about 90 percent).
+- Join straws at their ends by pushing pipe cleaner pieces into them.
+- Build a ring of 10 triangles as the base.
+- Keep adding triangles upward, joining 5 or 6 straws at each point.
+- Finish the top and test how much weight it can hold.
+w: Geodesic domes are made entirely of triangles, which share loads across the whole structure. They are strong and light, enclosing a lot of space with little material.
+x: Cover your dome with paper to make a mini planetarium or greenhouse.
+
+# Kite Building
+e=🪁 a=8-13 d=Medium t=1 hour
+m: 2 thin dowels or bamboo sticks (60 and 50 cm); plastic bag or tissue paper; strong tape; string; ribbon for the tail
+- Cross the sticks a quarter of the way down the long one and tie them tightly.
+- Run string around the four tips to make a diamond frame.
+- Lay the frame on plastic, cut around it with a 2 cm border, and fold and tape the edges over the string.
+- Tie a bridle string from top to bottom and attach the flying line to it.
+- Add a long tail and fly it in a steady breeze.
+w: Wind pushes against the tilted kite face, creating lift and drag. The tail adds drag at the bottom, keeping the kite pointed into the wind so it stays steady.
+x: Test different tail lengths and see which flies most steadily.
+s: Fly away from power lines and roads.
+
+# Foam Tray Glider
+e=🛩️ a=8-13 d=Medium t=45 min
+m: clean foam food tray; scissors; pencil; ruler; paper clips; tape
+- Draw and cut out a long body (fuselage), a wide wing and a small tail wing.
+- Cut slots in the body and slide in the wing and tail.
+- Add a paper clip to the nose.
+- Throw gently and level. If it dives, move the clip back. If it stalls upward, move it forward.
+- Bend the back edge of the tail slightly to make it turn or loop.
+w: Wings create lift as air flows over them. The balance point must be slightly in front of the wing's middle or the glider will stall.
+x: Make a wider wing and a narrow wing. Which glides farther?
+
+# Gumdrop Shapes Strength
+e=🔺 a=6-11 d=Easy t=30 min
+m: gumdrops or mini marshmallows; toothpicks; small book
+- Build a square and a triangle with toothpicks and gumdrops.
+- Gently press on a corner of each. Which one changes shape?
+- Build a cube and a pyramid.
+- Rest a small book on each and see which holds.
+- Add diagonal toothpicks inside the cube and test again.
+w: A square can squash into a diamond, but a triangle cannot change shape without breaking a side. That's why bridges, towers and roofs are full of triangles.
+x: Build the tallest tower you can with 30 toothpicks.
+
+# Rube Goldberg Machine
+e=🔄 a=9-14 d=Hard t=3 hours
+m: dominoes; ramps; balls; cups; string; household items
+- Pick a simple task like ringing a bell.
+- Plan a chain of steps.
+- Build and test each step.
+- Connect them.
+w: Energy is transferred from one object to another in a chain reaction.
+x: Add more steps.
+
+# Cardboard Marble Maze
+e=🌀 a=6-12 d=Easy t=1 hour
+m: shallow box lid; straws or cardboard strips; glue; marble; markers; craft knife (adult)
+- Draw a maze path with a start and finish in the lid.
+- Glue straws along the lines to make walls.
+- An adult cuts a few marble-sized holes as traps.
+- Let the glue dry.
+- Tilt the lid to guide the marble to the finish without falling into a trap.
+w: Tilting the lid makes gravity pull the marble downhill. Small angle changes give fine control, which is a skill engineers use in balancing robots.
+x: Time players and make a harder level.
+
+# Shoebox Pinball Machine
+e=🎰 a=9-13 d=Medium t=2 hours
+m: shoebox; craft sticks; brass fasteners; rubber bands; cardboard; marble; markers; tape
+- Prop the shoebox up at one end to make a slope.
+- Make two flippers from craft sticks attached with fasteners near the bottom.
+- Add rubber band bumpers stretched between fasteners.
+- Make a spring launcher from a rubber band along one side.
+- Add scoring zones and play.
+w: Pinball combines gravity (the slope), levers (the flippers) and stored elastic energy (the launcher and bumpers).
+x: Add a ramp or tunnel worth bonus points.
+
+# Ice Cube Keeper
+e=🧊 a=8-13 d=Medium t=1-2 hours
+m: identical ice cubes; paper cups; foil; cotton balls; bubble wrap; fabric; newspaper; tape; timer; kitchen scale
+- Design a container to keep an ice cube frozen as long as possible.
+- Build it using any of the materials, keeping all designs the same size limit.
+- Weigh each ice cube and place it inside.
+- After one hour, open each container and weigh the leftover ice.
+- Compare how much melted in each design.
+w: Heat moves from warm areas into the cold ice. Insulators like trapped air, cotton and foam slow this heat flow. Foil reflects heat radiation.
+x: Combine your two best materials and see if they work better together.
+
+# Pop-Pop Steam Boat
+e=🛥️ a=11-14 d=Hard t=1.5 hours
+m: thin metal from a soda can (adult cuts); 2 bendy straws; tea light candle; foam tray for hull; epoxy or putty; tub of water
+- An adult folds and seals a small flat metal boiler with two straw tubes coming out the back.
+- Fit the boiler into a foam boat with the straws pointing into the water.
+- Fill the straws and boiler with water using a dropper.
+- An adult lights the tea light under the boiler.
+- Watch the boat putt-putt forward.
+w: The flame turns water into steam, which pushes water out of the tubes. Then the steam cools and sucks water back in. Pushing out is stronger than pulling in, so the boat moves forward.
+x: Measure how far it travels in one minute.
+s: Adults handle cutting metal and lighting the flame.
+
+# Rubber Band Helicopter
+e=🚁 a=9-13 d=Medium t=1 hour
+m: plastic propeller (from a hobby store or a toy); balsa stick or straw; rubber band; paper clip; bead; tape
+- Attach the propeller to a bent paper clip with a bead under it as a bearing.
+- Push the clip into one end of a straw or stick.
+- Hook a rubber band from the clip to a hook at the bottom of the stick.
+- Wind the propeller 50 times.
+- Hold it upright and let go.
+w: Twisted rubber stores energy. As it unwinds, the propeller pushes air down, and the helicopter goes up.
+x: Count winds vs flight time and make a graph.
+
+# Cardboard Chair Challenge
+e=🪑 a=10-14 d=Hard t=3 hours
+m: large cardboard boxes; ruler; box cutter (adult); white glue; tape
+- Sketch designs that use folded columns, triangles or honeycomb layers.
+- Build a small paper model first to test the idea.
+- Cut and fold full-size parts. Stack layers with alternating corrugation directions for strength.
+- Glue and let it dry overnight.
+- Carefully test by sitting down slowly with an adult spotting.
+w: Corrugated cardboard is strong along its flutes. Folding it into tubes or triangles and gluing layers crossways makes it strong enough to hold a person.
+x: Use as little cardboard as possible while still holding your weight.
+s: Adults do the cutting.
+
+# Water Clock
+e=⏳ a=8-12 d=Medium t=1 hour
+m: 2 plastic cups; pin or thumbtack; tall clear jar; water; marker; stopwatch
+- Poke one small hole in the bottom of a cup.
+- Stand the cup above a clear jar.
+- Fill the cup with water and start a stopwatch.
+- Mark the water level in the jar every minute.
+- Empty and refill, then use your marks to time an activity.
+w: Water drips at a fairly steady rate, so the level in the jar measures time. Ancient Egyptians and Greeks used water clocks. The drip slows a little as the top cup empties, so marks get closer together.
+x: Make the drip more even by keeping the top cup full.
+
+# Solar-Powered Car
+e=☀️ a=11-14 d=Hard t=2 hours
+m: small solar panel (3-6 V); small DC motor; 4 wheels; 2 axles; straws; gear or rubber band belt; corrugated plastic or cardboard base
+- Fix straws to the base as axle holders and insert axles with wheels.
+- Mount the motor so it drives a back axle with a gear or rubber band.
+- Attach the solar panel on top.
+- Connect the panel wires to the motor.
+- Test in bright sunlight and adjust until it runs smoothly.
+w: The solar panel turns light into electricity, which runs the motor. Gears let the motor's fast spin turn wheels slower but with more force.
+x: Tilt the panel toward the sun and see if it goes faster.
+
+# Mini Golf Course Design
+e=⛳ a=7-12 d=Easy t=2 hours
+m: cardboard; tubes; plastic cups (holes); books for ramps; tape; golf ball or ping pong ball; stick or ruler as a club
+- Plan a 5-hole course on paper with obstacles like ramps, tunnels and bumpers.
+- Build each hole with recycled materials.
+- Play it and record how many strokes each hole takes.
+- Make holes easier or harder until each takes 2 to 4 strokes.
+- Invite friends to play.
+w: Engineers design for users. Testing with real players shows which parts are too hard or too easy, and you improve your design each round.
+x: Add a moving obstacle like a spinning windmill.
+
+# Cotton Reel Tank
+e=🧵 a=8-12 d=Easy t=30 min
+m: empty thread spool; rubber band; half a matchstick or toothpick; washer or bead; pencil; tape
+- Thread the rubber band through the spool's hole.
+- Hold one end with a short stick taped to the spool.
+- On the other end, slide on a washer and then a pencil through the loop.
+- Turn the pencil around and around to wind the band.
+- Set it on the floor and let go.
+w: The twisted rubber band stores energy that slowly turns the spool, rolling it forward like a tank. The washer reduces friction so it unwinds smoothly.
+x: Add rubber band "tracks" around the spool for grip and test it on carpet.
+
+# Strongest Paper Column
+e=🏛️ a=8-12 d=Easy t=30 min
+m: 3 sheets of paper; tape; light books of similar size
+- Make three columns the same height: one round tube, one triangle prism, one square prism.
+- Stand each column upright.
+- Carefully stack books on each one until it crumples.
+- Record how many books each held.
+w: Round columns spread the weight evenly around the whole wall, so no corner gets all the stress. That's why many buildings have round pillars.
+x: Make the walls double thickness and test again.
+
+# Cardboard Robot with Moving Joints
+e=🤖 a=8-13 d=Medium t=1.5 hours
+m: cardboard; brass fasteners; string; straws; tape; markers
+- Cut out a body, head, upper and lower arms and legs.
+- Join them at shoulders, elbows, hips and knees with fasteners.
+- Tape straw pieces along the back of each limb.
+- Thread strings through the straws and tie them to the lower limb.
+- Pull the strings to make the robot wave and walk.
+w: Strings act like muscles and the straws act like tendons. Robots and puppets use cables and joints to move limbs the way our bodies do.
+x: Add a small motor and switch to make the arm wave on its own.
+
+# Newspaper Tower Challenge
+e=🗞️ a=8-13 d=Easy t=45 min
+m: 10 sheets of newspaper; 1 m of masking tape; ruler; desk fan
+- Roll tight tubes from the newspaper.
+- Design a base that is wide and has triangles.
+- Build upward as high as you can in 20 minutes.
+- Measure the height.
+- Test with a fan on low for 30 seconds. Does it stand?
+w: Tall towers must resist both gravity and wind. A wide, triangulated base and a light top keep a tower stable.
+x: Try building one that holds a tennis ball at the top.

@@ -1,0 +1,482 @@
+## FORMAT GUIDE (lines starting with ## are comments)
+## Each project starts with "# Title"
+## Next line: e=emoji a=ages d=Easy|Medium|Hard t=time   (optional: v=YouTubeVideoID  i=images/photo.jpg)
+## m: materials separated by ;
+## - one line per step
+## w: the science behind it      x: try this next      s: safety note (optional)
+
+# Classic Baking Soda Volcano
+e=🌋 a=4-10 d=Easy t=20 min
+m: small plastic bottle; modeling clay or play dough; tray; 2 tbsp baking soda; 1/2 cup vinegar; dish soap; red food coloring
+- Stand the bottle on a tray and build a clay mountain around it, leaving the opening clear.
+- Add the baking soda, a squirt of dish soap and a few drops of red food coloring into the bottle.
+- Pour the vinegar in quickly and step back.
+- Watch the foamy lava bubble out and flow down the sides.
+- Wipe out the bottle and try again with different amounts.
+w: Vinegar (an acid) reacts with baking soda (a base) to make carbon dioxide gas. The gas gets trapped in the soapy liquid, making foam that rushes out of the bottle.
+x: Measure how far the lava flows using 1, 2 and 3 spoons of baking soda.
+
+# Lava Lamp in a Bottle
+e=🫧 a=5-11 d=Easy t=20 min
+m: clear plastic bottle; water; vegetable oil; food coloring; fizzy antacid tablet
+- Fill the bottle about one quarter full with water.
+- Fill almost to the top with vegetable oil and wait for the layers to settle.
+- Add 8 to 10 drops of food coloring and watch the drops sink through the oil.
+- Break a fizzy tablet into pieces and drop one piece in.
+- Watch colored blobs rise and fall. Add another piece when it stops.
+w: Oil is lighter (less dense) than water, and the two do not mix. The tablet releases gas bubbles that carry colored water up; at the top the gas escapes and the heavier water sinks again.
+x: Shine a flashlight under the bottle in a dark room for a glowing lamp.
+s: Adults should handle the tablets. Do not drink the mixture.
+
+# Kid-Safe Elephant Toothpaste
+e=🐘 a=6-12 d=Medium t=25 min
+m: clean plastic bottle; 1/2 cup 3% hydrogen peroxide; 1 tbsp dry yeast; 3 tbsp warm water; dish soap; food coloring; tray; safety goggles
+- Put on goggles and stand the bottle in a big tray.
+- Pour the hydrogen peroxide into the bottle with a big squirt of dish soap and some food coloring.
+- In a cup, mix the yeast with warm water for 30 seconds.
+- Pour the yeast mixture into the bottle and step back.
+- Touch the outside of the bottle after the foam erupts. It feels warm!
+w: Yeast contains an enzyme called catalase that breaks hydrogen peroxide into water and oxygen very quickly. The oxygen gets trapped by the soap, making a huge column of foam. The bottle warms because the reaction gives off heat.
+x: Compare tall thin bottles with short wide ones to see which makes the tallest foam.
+s: Wear goggles. Use only 3% drugstore hydrogen peroxide and have an adult pour it.
+
+# Red Cabbage pH Indicator
+e=🥬 a=7-13 d=Medium t=40 min
+m: 1/4 red cabbage; hot water; blender or knife; strainer; clear cups; lemon juice; vinegar; baking soda; soap; milk
+- Ask an adult to chop the cabbage and soak it in hot water for 15 minutes.
+- Strain the purple liquid into a jug. This is your indicator.
+- Pour a little indicator into several clear cups.
+- Add a different household liquid to each cup and watch the color change.
+- Sort the cups from pink (acid) to purple (neutral) to green and yellow (base).
+w: Red cabbage contains a pigment called anthocyanin that changes color depending on how acidic or basic a liquid is. Acids turn it pink and red, bases turn it green or yellow.
+x: Soak strips of paper towel in the juice and dry them to make your own pH test strips.
+s: An adult should handle the hot water and the knife.
+
+# Stretchy Slime (No Borax)
+e=🟢 a=5-12 d=Easy t=15 min
+m: 1/2 cup white school glue; 1/2 tbsp baking soda; 1 tbsp contact lens saline (with boric acid); food coloring; bowl; spoon
+- Pour the glue into a bowl and stir in food coloring.
+- Mix in the baking soda until smooth.
+- Add the contact lens solution and stir. The slime will start pulling away from the bowl.
+- Knead it with your hands for 2 minutes until it is no longer sticky.
+- Store in a sealed bag so it stays stretchy.
+w: Glue contains long chain molecules called polymers. The boric acid in the saline links those chains together like a net, turning runny glue into a stretchy solid.
+x: Test which slime stretches farthest: one with more saline or less.
+s: Wash hands after playing. Not for children who still put things in their mouth.
+
+# Oobleck: Solid or Liquid?
+e=🥣 a=3-10 d=Easy t=15 min
+m: 1 cup cornstarch; 1/2 cup water; bowl; food coloring (optional); tray
+- Pour the cornstarch into a bowl.
+- Slowly stir in water a little at a time until the mixture is thick.
+- Punch the surface quickly. It feels hard!
+- Now slowly dip your fingers in. They sink like it is a liquid.
+- Roll some into a ball, then stop rolling and watch it melt.
+w: Oobleck is a non-Newtonian fluid. When you push hard, the cornstarch grains jam together and act like a solid. When you move slowly, they slide past each other and flow like a liquid.
+x: Put oobleck on a speaker cone wrapped in plastic and play bass music to see it dance.
+s: Throw oobleck in the trash, not down the sink. It can clog drains.
+
+# Growing Salt Crystals
+e=🧂 a=6-12 d=Easy t=3-7 days
+m: hot water; table salt or Epsom salt; jar; string; pencil; paper clip; dark paper
+- Ask an adult for a cup of very hot tap water in a jar.
+- Stir in salt one spoon at a time until no more dissolves.
+- Tie a string to a pencil with a paper clip on the other end and hang it into the jar.
+- Leave the jar somewhere still and check it every day.
+- Use a magnifier to look at the shapes of your crystals.
+w: Hot water can hold more dissolved salt than cold water. As the water cools and slowly evaporates, the salt comes out of the solution and stacks into neat cube-shaped crystals.
+x: Compare table salt, Epsom salt and sugar crystals side by side.
+s: Adults handle hot water.
+
+# Borax Crystal Snowflakes
+e=❄️ a=8-13 d=Medium t=overnight
+m: pipe cleaners; string; pencil; wide-mouth jar; boiling water; 3 tbsp borax per cup of water; food coloring
+- Twist pipe cleaners into a snowflake shape that fits inside the jar.
+- Tie the snowflake to a pencil with string.
+- An adult mixes borax into boiling water in the jar until it stops dissolving.
+- Add food coloring, then hang the snowflake in the liquid without touching the sides.
+- Leave it overnight and lift it out in the morning.
+w: The hot water holds lots of dissolved borax. As it cools, the water can hold less, so borax crystals grow on the fuzzy pipe cleaner, which gives them lots of places to start.
+x: Try shapes like stars, hearts and your initials.
+s: Borax is not safe to eat. An adult should mix it, and everyone washes hands afterwards.
+
+# Rock Candy on a Stick
+e=🍭 a=7-13 d=Medium t=7 days
+m: 2 cups sugar; 1 cup water; saucepan; tall glass jar; wooden skewer; clothespin; food coloring
+- Wet the skewer, roll it in sugar and let it dry. These seed crystals help growth start.
+- An adult heats the water and stirs in sugar until it all dissolves, then lets it cool for 20 minutes.
+- Pour the syrup into the jar and add a drop of coloring.
+- Clip the skewer with a clothespin so it hangs in the syrup without touching the bottom.
+- Wait a week, checking each day as crystals build up.
+w: The syrup is supersaturated, holding more sugar than it normally could. Sugar molecules slowly leave the liquid and join the seed crystals on the stick, building large candy crystals.
+x: Weigh your stick every day and make a growth graph.
+s: Hot sugar syrup burns. Adults only at the stove.
+
+# Magic Milk Color Burst
+e=🥛 a=3-9 d=Easy t=10 min
+m: shallow dish; whole milk; food coloring; dish soap; cotton swab
+- Pour milk into the dish until the bottom is covered.
+- Add drops of different food coloring near the middle.
+- Dip a cotton swab in dish soap.
+- Touch the swab to the center of the milk and hold it still.
+- Watch the colors swirl and explode outward.
+w: Soap breaks the surface tension of milk and grabs onto the fat in it. As the soap molecules race around attaching to fat, they push the colors into swirling patterns.
+x: Compare whole milk, skim milk and cream. Which makes the biggest burst?
+
+# The Naked Egg
+e=🥚 a=6-12 d=Easy t=2-3 days
+m: raw egg; clear jar; white vinegar; spoon; flashlight
+- Gently place a raw egg in a jar and cover it with vinegar.
+- Watch tiny bubbles form on the shell.
+- After 24 hours, carefully pour off the vinegar and add fresh vinegar.
+- After 48 hours, lift the egg out and rinse it gently.
+- Shine a flashlight through your bouncy, shell-free egg.
+w: Eggshells are made of calcium carbonate. Vinegar is an acid that reacts with it, making carbon dioxide bubbles and dissolving the shell. A thin rubbery membrane is left holding the egg together.
+x: Put the naked egg in corn syrup overnight and watch it shrink, then in water and watch it grow.
+s: Wash hands after touching raw egg.
+
+# Lemon Juice Invisible Ink
+e=🍋 a=5-11 d=Easy t=20 min
+m: lemon juice; cotton swab or paintbrush; white paper; lamp or hair dryer
+- Squeeze some lemon juice into a small bowl.
+- Dip a cotton swab in and write a secret message on paper.
+- Let the paper dry completely. The message disappears.
+- Have an adult warm the paper near a light bulb or with a hair dryer.
+- Watch your message turn brown and appear.
+w: Lemon juice contains carbon compounds that oxidize and turn brown when heated, much faster than the paper itself.
+x: Test milk, apple juice and sugar water. Which makes the darkest ink?
+s: Adults handle heat. Never hold paper near an open flame.
+
+# Shiny Penny Challenge
+e=🪙 a=6-12 d=Easy t=30 min
+m: dull copper pennies; small cups; vinegar; salt; lemon juice; ketchup; soda; water; paper towels
+- Put two dull pennies in each cup.
+- Cover each pair with a different liquid. Add a spoon of salt to the vinegar cup.
+- Wait 5 minutes, then take out one penny from each cup and rinse it.
+- Wait another 10 minutes and remove the rest.
+- Line them up and rank which liquid cleaned best.
+w: Pennies get dull from copper oxide. Acids like vinegar and lemon juice, especially mixed with salt, dissolve that oxide layer and reveal bright copper underneath.
+x: Leave a cleaned penny on a vinegar-soaked paper towel without rinsing and see it turn green.
+
+# Green Statue of Liberty Pennies
+e=🗽 a=7-12 d=Easy t=1-2 days
+m: copper pennies; paper towel; vinegar; salt; plastic plate; magnifying glass
+- Fold a paper towel and lay it on a plate.
+- Soak it with vinegar and sprinkle on a little salt.
+- Place pennies on the towel.
+- Check after a few hours and again the next day.
+- Look at the blue-green crust with a magnifier.
+w: Copper reacts with oxygen, salt and acid to make a blue-green coating called patina. This is the same reaction that turned the copper Statue of Liberty green.
+x: Find green copper on old roofs, statues or pipes in your town.
+
+# Self-Inflating Balloon
+e=🎈 a=5-11 d=Easy t=15 min
+m: balloon; small bottle; funnel; 2 tsp baking soda; 1/3 cup vinegar
+- Use the funnel to put baking soda inside the balloon.
+- Pour vinegar into the bottle.
+- Stretch the balloon over the bottle opening without spilling the powder.
+- Lift the balloon so the baking soda falls into the vinegar.
+- Watch the balloon blow itself up.
+w: Baking soda and vinegar react to make carbon dioxide gas. The gas has nowhere to go but into the balloon, stretching it.
+x: Measure the balloon with a string for different amounts of baking soda.
+
+# Fizzy Tablet Rockets
+e=🚀 a=7-13 d=Medium t=20 min
+m: plastic film canister or small snap-lid tube; fizzy antacid tablets; water; paper for decorating; safety goggles
+- Decorate a paper rocket body around the canister with the lid end at the bottom.
+- Go outside and put on goggles.
+- Fill the canister one third with water.
+- Drop in half a tablet, snap the lid on fast, and set it lid-down on the ground.
+- Step back and watch it pop into the air.
+w: The tablet makes carbon dioxide gas. Pressure builds up inside the sealed canister until it pushes the lid off and the canister launches upward.
+x: Test warm water vs cold water. Which launches sooner?
+s: Goggles on, never look over the canister while waiting.
+
+# Shake-a-Jar Butter
+e=🧈 a=4-10 d=Easy t=20 min
+m: small jar with tight lid; heavy whipping cream; pinch of salt; marble (optional); crackers
+- Fill the jar half full of cold heavy cream and add a pinch of salt.
+- Screw the lid on tight.
+- Shake, shake, shake! Take turns with friends.
+- After about 10 minutes you will hear a lump sloshing.
+- Pour off the buttermilk and spread your butter on crackers.
+w: Cream has tiny droplets of fat. Shaking smashes them together until they stick into clumps of butter, leaving the liquid buttermilk behind.
+x: Time how long it takes with warm cream vs cold cream.
+
+# Ice Cream in a Bag
+e=🍦 a=5-12 d=Easy t=20 min
+m: 1/2 cup milk; 1 tbsp sugar; 1/4 tsp vanilla; small zip bag; large zip bag; ice; 1/3 cup rock salt; gloves or towel
+- Put milk, sugar and vanilla in the small bag and seal it tightly.
+- Fill the large bag halfway with ice and add the salt.
+- Place the small bag inside the large bag and seal it.
+- Shake for 5 to 10 minutes, wearing gloves because it gets very cold.
+- Rinse the salt off the small bag and enjoy your ice cream.
+w: Salt lowers the temperature at which ice melts. The melting ice soaks up heat from the milk so fast that the milk freezes into ice cream.
+x: Try it without salt and compare the results.
+
+# Dancing Raisins
+e=🍇 a=3-8 d=Easy t=10 min
+m: clear glass; clear soda or sparkling water; raisins
+- Fill a clear glass with fresh soda.
+- Drop in 5 or 6 raisins.
+- Watch them sink, then rise, then sink again.
+- Count how many times one raisin goes up and down.
+w: Gas bubbles stick to the wrinkly raisins and lift them like tiny life jackets. At the top the bubbles pop, and the raisins sink again.
+x: Try corn kernels, pasta pieces and peanuts. Which dance best?
+
+# Skittles Rainbow Diffusion
+e=🌈 a=3-9 d=Easy t=10 min
+m: white plate; colorful coated candies; warm water
+- Arrange the candies in a circle around the edge of a white plate.
+- Gently pour warm water into the middle until it touches the candies.
+- Watch the colors spread toward the center.
+- Notice that the colors do not mix right away.
+w: The colored sugar coating dissolves and spreads out through the water, moving from where there is a lot of it to where there is less. This is called diffusion.
+x: Compare cold, warm and hot water. Which spreads fastest?
+
+# Walking Water Rainbow
+e=💧 a=4-10 d=Easy t=1-2 hours
+m: 6 clear cups; paper towels; water; red, yellow and blue food coloring
+- Line up 6 cups in a circle. Fill every other cup with water.
+- Color the water red, yellow and blue.
+- Fold paper towels into strips and bridge each full cup to the empty cup beside it.
+- Wait and watch the water climb up and over.
+- Check after an hour to see new colors mixing in the empty cups.
+w: Water travels up the tiny gaps in paper towels through capillary action. When two colors meet in an empty cup, they mix to make new colors.
+x: Try different brands of paper towel. Which walks fastest?
+
+# Chromatography Butterflies
+e=🦋 a=5-11 d=Easy t=30 min
+m: coffee filters; washable markers; cups of water; pipe cleaners
+- Draw a thick circle of marker dots around the middle of a coffee filter.
+- Fold the filter into a cone and dip the tip into a little water.
+- Watch the colors spread and separate as the water climbs.
+- Let the filter dry flat.
+- Pinch the middle and twist a pipe cleaner around it to make a butterfly.
+w: Marker ink is made of several dyes mixed together. As water moves through the paper, the dyes travel at different speeds and separate into bands of color.
+x: Test a black marker. How many hidden colors does it contain?
+
+# Fizzy Bath Bombs
+e=🛁 a=8-13 d=Medium t=40 min
+m: 1 cup baking soda; 1/2 cup citric acid; 1/2 cup cornstarch; 2 tbsp oil; water in spray bottle; food coloring; molds or muffin tray
+- Mix the baking soda, citric acid and cornstarch in a bowl.
+- Add the oil and a few drops of coloring, then mix.
+- Spritz with water a little at a time until it holds together like damp sand.
+- Pack it tightly into molds and let them dry for a day.
+- Drop one in water and watch it fizz.
+w: Citric acid and baking soda do not react when dry. Once they touch water, they react and make carbon dioxide bubbles.
+x: Compare bath bombs in warm vs cold water.
+s: Keep away from eyes. Do not eat.
+
+# Science of Homemade Play Dough
+e=🎨 a=4-10 d=Easy t=25 min
+m: 1 cup flour; 1/2 cup salt; 2 tsp cream of tartar; 1 cup water; 1 tbsp oil; food coloring; saucepan
+- Mix the flour, salt and cream of tartar in a pan.
+- Add water, oil and coloring and stir.
+- An adult cooks it over medium heat while stirring until it forms a ball.
+- Let it cool, then knead it smooth.
+- Store it in an airtight container.
+w: Heat makes the flour starch absorb water and swell. Salt keeps mold away, and cream of tartar makes the dough stretchy and smooth.
+x: Make one batch without cream of tartar and compare the feel.
+s: Adults handle the stove.
+
+# Eggshell Crystal Geodes
+e=💎 a=8-13 d=Medium t=overnight
+m: eggshell halves (washed); alum powder (spice aisle); white glue; paintbrush; hot water; food coloring; cups
+- Clean the inside of the eggshell halves and let them dry.
+- Brush glue inside the shells and sprinkle on alum powder. Let dry.
+- An adult stirs alum into hot water until no more dissolves, then adds food coloring.
+- Place a shell into the cup so it is fully covered.
+- Leave overnight, then lift out your sparkling geode.
+w: Alum crystals form as the hot, saturated solution cools. The alum powder in the shells gives new crystals a place to start growing.
+x: Compare geodes left 12 hours with ones left 24 hours.
+s: Do not eat alum. Adults handle hot water.
+
+# Fizzing Sidewalk Paint
+e=🖌️ a=3-9 d=Easy t=30 min
+m: 1 cup baking soda; 1/2 cup cornstarch; water; food coloring; muffin tin; spray bottle of vinegar; brushes
+- Mix baking soda and cornstarch, then add water until it is like paint.
+- Divide into a muffin tin and color each cup.
+- Paint pictures on the sidewalk.
+- Spray your art with vinegar and watch it fizz.
+w: The vinegar reacts with baking soda in the paint, making carbon dioxide bubbles that fizz on the pavement.
+x: Let some paint dry for an hour before spraying. Does it still fizz?
+
+# Disappearing Packing Peanuts
+e=🥜 a=5-11 d=Easy t=15 min
+m: cornstarch packing peanuts; foam (polystyrene) packing peanuts; two bowls of water
+- Look at both kinds of peanuts and predict what will happen in water.
+- Drop a cornstarch peanut into one bowl.
+- Drop a foam peanut into the other bowl.
+- Stir both and watch for 2 minutes.
+w: Cornstarch peanuts are made from plants and dissolve in water. Foam peanuts are plastic and do not, which is why they last for hundreds of years in the environment.
+x: Use damp cornstarch peanuts as building glue to make sculptures.
+
+# Sugar Density Rainbow
+e=🧪 a=8-13 d=Medium t=30 min
+m: 5 cups; warm water; sugar; food coloring; tall clear glass; syringe or spoon
+- Line up 5 cups with 3 tbsp of warm water each.
+- Add 0, 1, 2, 3 and 4 tbsp of sugar to the cups and stir until dissolved.
+- Color each cup differently.
+- Pour the sweetest one into the glass first.
+- Very slowly add the others in order, trickling them down the side over a spoon.
+w: More sugar makes water heavier (denser). Denser layers sink and lighter ones float on top, so the colors stack in stripes.
+x: Try salt instead of sugar.
+
+# Liquid Density Tower
+e=🗼 a=6-12 d=Easy t=20 min
+m: tall clear glass; honey; corn syrup; dish soap; water; vegetable oil; rubbing alcohol (adult); food coloring; small objects
+- Pour honey into the bottom of the glass.
+- Slowly add corn syrup, then dish soap, then colored water.
+- Pour vegetable oil gently down the side.
+- Have an adult add a little colored rubbing alcohol on top.
+- Drop in small objects like a grape, a coin and a bead and see where they stop.
+w: Each liquid has a different density. Heavier liquids sink below lighter ones. Objects stop at the layer that matches their own density.
+x: Draw your tower and label each layer from heaviest to lightest.
+s: Rubbing alcohol is flammable and poisonous. Adults only.
+
+# Rusting Race
+e=🔩 a=8-13 d=Easy t=3-5 days
+m: steel wool pads or iron nails; 4 jars; tap water; salt water; vinegar; oil
+- Place a nail or piece of steel wool in each jar.
+- Cover them with water, salt water, vinegar and oil.
+- Leave one dry jar for comparison.
+- Check each day and record what you see.
+- Rank which liquid made the most rust.
+w: Rust forms when iron reacts with oxygen and water. Salt and acid speed it up. Oil blocks water and air, so it protects the metal.
+x: Paint one nail with nail polish and test if it stays rust-free.
+
+# Why Do Apples Turn Brown?
+e=🍎 a=5-11 d=Easy t=1 hour
+m: apple; knife (adult); plates; lemon juice; salt water; plain water; plastic wrap
+- An adult cuts the apple into equal slices.
+- Dip one slice in lemon juice, one in salt water and one in plain water.
+- Wrap one slice in plastic and leave one slice untouched.
+- Check every 15 minutes for one hour.
+- Rank the slices from whitest to brownest.
+w: When apple flesh meets air, an enzyme reacts with oxygen and turns it brown. Lemon juice is acidic and slows the enzyme. Plastic wrap keeps the air away.
+x: Test other fruits like bananas, pears and avocados.
+
+# Make Plastic from Milk
+e=🥛 a=8-13 d=Medium t=40 min
+m: 1 cup milk; 4 tsp white vinegar; saucepan or microwave mug; strainer; paper towels; cookie cutters
+- An adult warms the milk until it is hot but not boiling.
+- Stir in the vinegar and watch lumps form.
+- Pour through a strainer and let it cool.
+- Squeeze the lumps in paper towels to dry them.
+- Knead and press into cookie cutters. Let it dry for 2 days.
+w: Vinegar makes a protein in milk called casein clump together. Casein forms long chains, a natural polymer, that can be molded and hardened like plastic.
+x: Paint your dried shapes and make a necklace.
+s: Adults handle hot milk.
+
+# Instant Hot Ice
+e=🧊 a=10-14 d=Hard t=1 hour
+m: 1 liter vinegar; 4 tbsp baking soda; large pot; clean jar; spoon; dish
+- In a large pot, slowly add baking soda to vinegar. It will fizz a lot.
+- An adult boils the liquid gently until a crust starts forming on top (about an hour).
+- Pour the liquid into a clean jar, cover, and cool it in the fridge without disturbing it.
+- Touch the surface with one tiny crystal from the pot, or pour it slowly onto a crystal on a dish.
+- Watch it freeze into towers instantly, and feel that it is warm.
+w: The liquid is supersaturated sodium acetate. A single crystal triggers all the dissolved molecules to snap into a solid, releasing heat.
+x: Build ice sculptures by pouring slowly onto a pile of crystals.
+s: Long boiling job for adults only. Keep the kitchen ventilated.
+
+# Bouncy Polymer Balls
+e=🏀 a=8-13 d=Medium t=20 min
+m: 2 tbsp warm water; 1/2 tsp borax; 1 tbsp white glue; 1/2 tbsp cornstarch; food coloring; two cups
+- An adult dissolves borax in warm water in one cup.
+- In the other cup mix glue, cornstarch and coloring.
+- Pour in half of the borax solution. Wait 15 seconds, then stir.
+- When it gets hard to stir, take it out and roll it into a ball.
+- Bounce it and measure how high it goes.
+w: Borax links the long polymer chains in glue together, and cornstarch makes the ball firmer and bouncier.
+x: Change the cornstarch amount and find the bounciest recipe.
+s: Do not eat. Wash hands afterwards.
+
+# Turmeric Magic Paper
+e=📜 a=6-12 d=Easy t=30 min
+m: 1 tbsp turmeric; rubbing alcohol or water; white paper; brush; baking soda; water; cotton swab
+- Mix turmeric with a little liquid to make yellow paint.
+- Paint paper all over and let it dry.
+- Mix baking soda with water.
+- Use a cotton swab to draw with the baking soda water on the yellow paper.
+- Watch your drawing turn red.
+w: Turmeric contains curcumin, a natural indicator that turns red when touched by a base like baking soda.
+x: Try soap water, lemon juice and toothpaste. Which ones turn red?
+s: Turmeric stains clothes and skin. Wear old clothes.
+
+# Potato Peroxide Bubbles
+e=🥔 a=8-13 d=Easy t=20 min
+m: raw potato; cooked potato; 3% hydrogen peroxide; small cups; knife (adult)
+- An adult cuts small cubes of raw and cooked potato.
+- Place each in its own cup.
+- Pour a little hydrogen peroxide over each.
+- Compare how many bubbles form.
+w: Raw potato contains catalase, an enzyme that breaks hydrogen peroxide into water and oxygen bubbles. Cooking destroys the enzyme, so cooked potato barely bubbles.
+x: Test apple, liver (with an adult) and carrot to compare enzyme strength.
+s: Hydrogen peroxide can irritate eyes. Adults pour it.
+
+# Homemade Sherbet Fizz
+e=🍬 a=6-12 d=Easy t=10 min
+m: 1 tsp citric acid; 1 tsp baking soda; 3 tbsp powdered sugar; flavored drink powder; bowl; small bag
+- Mix all the powders in a bowl.
+- Spoon into a small bag or cup.
+- Dip a wet finger in and taste a tiny bit.
+- Feel the fizz on your tongue.
+w: When citric acid and baking soda get wet on your tongue, they react and make carbon dioxide bubbles, the same tingle you get from soda.
+x: Change the amount of citric acid. How does the taste and fizz change?
+s: Eat only small amounts.
+
+# Gummy Bear Osmosis
+e=🐻 a=6-12 d=Easy t=overnight
+m: gummy bears; 4 clear cups; water; salt water; vinegar; sugar water; ruler
+- Measure the length and width of 4 gummy bears.
+- Place one gummy bear in each cup.
+- Cover each with a different liquid.
+- Leave overnight.
+- Measure again and compare.
+w: Water moves into or out of the gummy bear through osmosis, going toward where there is more dissolved stuff. In plain water the bear swells; in salty water it changes much less.
+x: Weigh the bears on a kitchen scale before and after.
+
+# Salt vs Ice Melting Race
+e=🧊 a=5-11 d=Easy t=30 min
+m: ice cubes; plates; salt; sugar; sand; timer
+- Put an ice cube on each of 4 plates.
+- Sprinkle one with salt, one with sugar, one with sand and leave one plain.
+- Start the timer.
+- Check every 5 minutes and see which melts fastest.
+w: Salt dissolves in the thin layer of water on ice and lowers its freezing point, so the ice melts even when it is cold. That is why roads are salted in winter.
+x: Lay a string on an ice cube, sprinkle salt, and lift the cube with the string after a minute.
+
+# Fizzy Lemonade Science
+e=🍹 a=5-11 d=Easy t=10 min
+m: lemon juice; water; sugar; 1/2 tsp baking soda; glass; spoon
+- Make lemonade with lemon juice, water and sugar.
+- Taste it and notice how sour it is.
+- Stir in a small amount of baking soda.
+- Watch it fizz and taste again.
+w: Lemon juice is acidic. Baking soda is a base that reacts with the acid, making bubbles and making the drink less sour.
+x: Add baking soda bit by bit and record how the taste changes.
+
+# Copper-Plated Nail
+e=📌 a=9-13 d=Medium t=1 hour
+m: 20 dull copper pennies; 1/4 cup vinegar; 1 tsp salt; clean steel nail; cup; sandpaper
+- Put pennies in vinegar with salt and wait 10 minutes until they shine.
+- Scrub the nail with sandpaper so it is very clean.
+- Drop the nail into the liquid with the pennies.
+- Wait an hour, then lift it out.
+- Look for a coppery coating on the nail.
+w: The vinegar and salt dissolve some copper from the pennies. Iron in the nail swaps places with the copper, so copper coats the nail.
+x: Leave half the nail out of the liquid to see the difference.
+
+# Glow Stick Temperature Test
+e=💡 a=6-12 d=Easy t=20 min
+m: 3 glow sticks of the same color; cups of ice water, room-temperature water and hot tap water; dark room
+- Snap all three glow sticks.
+- Put one in each cup.
+- Wait 2 minutes and turn off the lights.
+- Compare which glows brightest.
+- Leave them overnight and see which lasts longest.
+w: Glow sticks shine because of a chemical reaction. Heat speeds the reaction up, so the stick is brighter but runs out sooner. Cold slows it down.
+x: Put a glow stick in the freezer overnight. Does it still glow the next day?
+s: Never cut open a glow stick.

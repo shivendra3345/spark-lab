@@ -1,0 +1,446 @@
+# Growing Bacteria in Petri Dishes
+e=🦠 a=9-14 d=Medium t=3-5 days
+m: pre-made agar petri dishes; cotton swabs; tape; marker; warm dark place
+- Label each dish with what you will test (doorknob, phone, hands, keyboard).
+- Rub a swab on each surface, then gently zigzag it across the agar.
+- Tape the lids closed and store the dishes upside down somewhere warm.
+- Check every day and draw what grows.
+- When done, an adult throws the sealed dishes away without opening them.
+w: Bacteria and mold are everywhere but too small to see. On agar, each microbe multiplies into millions, forming a colony big enough to see.
+x: Swab a hand before and after washing to see how well soap works.
+s: Never open dishes after growth. Seal them in a bag and throw them away.
+
+# Strawberry DNA Extraction
+e=🍓 a=8-14 d=Medium t=30 min
+m: 3 strawberries; zip bag; 2 tsp dish soap; 1/2 tsp salt; 1/2 cup water; coffee filter; clear cup; ice-cold rubbing alcohol (adult); wooden skewer
+- Mash the strawberries in the bag for 2 minutes.
+- Mix water, soap and salt, add 2 spoons to the bag and mash gently for 1 more minute.
+- Pour through a coffee filter into a clear cup.
+- An adult slowly pours cold rubbing alcohol down the side to make a layer on top.
+- Watch white strands rise. Twirl them out with a skewer.
+w: Soap breaks open the cells, and salt helps DNA clump together. DNA does not dissolve in alcohol, so it floats up as white strands you can see.
+x: Try bananas, kiwis and spinach.
+s: Rubbing alcohol is flammable and poisonous. Adults only.
+
+# Yeast Balloon Fermentation
+e=🎈 a=7-12 d=Easy t=45 min
+m: packet of dry yeast; warm water; sugar; plastic bottle; balloon
+- Pour 1 cup warm water into the bottle.
+- Add the yeast and 2 tsp sugar and swirl.
+- Stretch the balloon over the top.
+- Wait 20 to 40 minutes and watch it inflate.
+w: Yeast is a living fungus. It eats sugar and gives off carbon dioxide gas, which fills the balloon. This is why bread rises.
+x: Try no sugar, cold water and hot water. Which works best?
+
+# Moldy Bread Experiment
+e=🍞 a=7-12 d=Easy t=1-2 weeks
+m: slices of bread; zip bags; water; marker; magnifying glass
+- Put one slice in each bag.
+- Make one dry, one damp and one touched by unwashed hands.
+- Keep one in the fridge and the rest in a dark cupboard.
+- Check every day without opening the bags.
+- Draw and compare the mold.
+w: Mold spores float in the air. They grow fastest where it is warm, damp and dark.
+x: Compare homemade bread with store-bought bread.
+s: Do not open the bags or smell the mold. Throw the bags away sealed.
+
+# Ant Observation Farm
+e=🐜 a=6-12 d=Medium t=2 weeks
+m: large clear jar; smaller jar inside; sandy soil; cotton ball; honey; crumbs; black paper; cloth and rubber band
+- Put the small jar inside the big one so ants tunnel near the glass.
+- Fill the gap with loose damp soil.
+- Gently collect a few ants from one nest outdoors.
+- Cover with cloth, add a damp cotton ball and a drop of honey.
+- Wrap black paper around the jar and lift it daily to see the tunnels.
+w: Ants work as a team, building tunnels and sharing food. Darkness encourages them to dig near the glass.
+x: Draw a map of the tunnels each day.
+s: Avoid fire ants and biting ants. Release the ants where you found them after two weeks.
+
+# Worm Farm
+e=🪱 a=5-12 d=Easy t=2-3 weeks
+m: clear plastic bottle or jar; soil; sand; dead leaves; vegetable scraps; worms from the garden; black paper
+- Layer soil and sand in the jar.
+- Add a few worms and some leaves and veggie scraps on top.
+- Spray with water to keep it damp.
+- Wrap the jar in black paper.
+- Check every few days to see the layers mixing.
+w: Worms tunnel and eat dead plants, mixing soil and turning waste into rich compost that helps plants grow.
+x: Count how many days it takes for a piece of lettuce to disappear.
+s: Return worms to the garden after the project.
+
+# Raising Butterflies
+e=🦋 a=5-12 d=Medium t=3-4 weeks
+m: butterfly larva kit or caterpillars found on their food plant; mesh habitat; fresh leaves from the same plant; spray bottle
+- Place caterpillars in the habitat with their food plant.
+- Add fresh leaves every day and clean out droppings.
+- Watch them grow and form a chrysalis.
+- Wait about 10 days for butterflies to emerge.
+- Release them on a warm, sunny day.
+w: Butterflies go through complete metamorphosis: egg, caterpillar, chrysalis and adult.
+x: Keep a photo diary of each stage.
+
+# Bird Feeder and Bird Count
+e=🐦 a=4-12 d=Easy t=1 week
+m: pinecone; peanut butter or vegetable shortening; birdseed; string; notebook; bird guide
+- Tie string to a pinecone.
+- Spread peanut butter on it and roll it in birdseed.
+- Hang it outside where you can see it from a window.
+- Count and identify birds for 15 minutes each day.
+w: Different birds have different beaks and eat different foods. Watching them helps scientists track bird populations.
+x: Share your counts with a citizen science bird project.
+s: Use shortening instead of peanut butter if anyone has nut allergies.
+
+# Pond Water Safari
+e=🔬 a=8-14 d=Medium t=1 hour
+m: jar of pond water; dropper; microscope or strong magnifier; slides; cover slips
+- Collect pond water with some plant bits from the edge.
+- Place one drop on a slide with a cover slip.
+- Look under the microscope starting with low power.
+- Draw anything that moves.
+w: A single drop of pond water is full of tiny living things like algae, amoebas and water fleas.
+x: Compare water from a puddle, a pond and a fish tank.
+s: Wash hands after touching pond water.
+
+# Onion Skin Cells
+e=🧅 a=9-14 d=Medium t=30 min
+m: onion; tweezers; microscope; slide; cover slip; iodine or food coloring
+- Peel the thin skin from inside an onion layer.
+- Lay it flat on a slide.
+- Add a drop of iodine or food coloring.
+- Place a cover slip on top.
+- Look at it under the microscope.
+w: All living things are made of cells. Onion cells look like bricks with a dark nucleus inside each one.
+x: Compare onion cells with leaf cells.
+s: Iodine stains. Adults handle it.
+
+# Owl Pellet Dissection
+e=🦉 a=8-14 d=Medium t=1 hour
+m: sterilized owl pellet (from a science supplier); tweezers; toothpicks; paper plate; gloves; bone chart
+- Put on gloves and place the pellet on a plate.
+- Gently pull it apart with toothpicks.
+- Separate bones from fur.
+- Match bones to the chart.
+- Glue the bones together to make a skeleton.
+w: Owls swallow prey whole and cough up the parts they can't digest. Pellets tell us what owls eat.
+x: Count how many animals were in one pellet.
+s: Use only sterilized pellets. Wash hands afterwards.
+
+# Blubber Glove
+e=🐋 a=5-11 d=Easy t=20 min
+m: vegetable shortening; zip bags; tape; bowl of ice water; timer
+- Fill one zip bag with shortening.
+- Put another bag inside it and tape the edges to make a "blubber glove".
+- Put one hand in the glove and the other bare hand into ice water.
+- Time how long each hand can stay in.
+w: Whales, seals and polar bears have a thick layer of fat called blubber that keeps them warm in icy water.
+x: Compare blubber with feathers, cotton and fur.
+
+# Camouflage Hunt
+e=🦎 a=4-10 d=Easy t=30 min
+m: colored paper or pipe cleaners cut into worm pieces; garden; timer
+- Cut 20 worms of each color: green, brown, red and yellow.
+- Scatter them in a grassy area.
+- Give players 1 minute to collect as many as they can.
+- Count which colors were found most.
+w: Animals that blend in with their surroundings are harder for predators to find. Bright colors are found first.
+x: Repeat on a sidewalk. Which colors win now?
+
+# Bird Beak Adaptation
+e=🦜 a=6-12 d=Easy t=30 min
+m: tweezers; spoons; clothespins; chopsticks; seeds; rice; gummy worms; water; marbles; cups
+- Set out foods representing what birds eat.
+- Give each player a different "beak" tool.
+- Collect as much food as you can in 30 seconds.
+- Switch tools and compare.
+w: Bird beaks have different shapes for different foods. A hummingbird sips nectar while a hawk tears meat.
+x: Match your tools to real bird species.
+
+# Snail Habitat
+e=🐌 a=5-11 d=Easy t=2 weeks
+m: clear tub with air holes; soil; leaves; lettuce; cucumber; spray bottle; garden snails
+- Make a damp habitat with soil and leaves.
+- Add a few snails.
+- Feed them lettuce and cucumber.
+- Watch how they move and eat with a magnifier.
+w: Snails move on a layer of slime and eat with a tongue covered in tiny teeth called a radula.
+x: Place a snail on clear plastic and watch it move from below.
+s: Wash hands after handling. Return snails outside.
+
+# Pill Bug Choice Chamber
+e=🐛 a=6-12 d=Easy t=30 min
+m: shoebox; damp paper towel; dry paper towel; pill bugs (roly-polies); timer
+- Cover half of the box with damp towel and half with dry.
+- Place 10 pill bugs in the middle.
+- Wait 10 minutes.
+- Count how many are on each side.
+w: Pill bugs are not insects. They are crustaceans that breathe through gills, so they prefer damp places.
+x: Test light vs dark next.
+s: Return pill bugs outdoors.
+
+# Glitter Germ Handwashing
+e=🧼 a=4-9 d=Easy t=15 min
+m: glitter; lotion; soap; water; towel
+- Rub lotion on hands and sprinkle on glitter. These are your "germs".
+- Shake hands with a friend and see glitter spread.
+- Wash with water only.
+- Wash again with soap for 20 seconds.
+w: Germs spread by touch. Soap breaks up oils on your skin and helps wash germs away.
+x: Find the spots that are hardest to clean.
+
+# Build a Bug Hotel
+e=🏨 a=5-12 d=Easy t=1 hour
+m: wooden box or plastic bottle; sticks; pinecones; bamboo canes; bark; straw; dry leaves
+- Cut a bottle in half or use a box.
+- Fill it tightly with natural materials.
+- Hang it or place it in a quiet garden spot.
+- Check weekly to see who moves in.
+w: Many helpful insects need safe places to hide and lay eggs. Bug hotels support pollinators and garden helpers.
+x: Keep a log of all the insects you find.
+
+# Mealworm Life Cycle
+e=🪲 a=6-12 d=Easy t=4-6 weeks
+m: mealworms from a pet store; container; oats; slices of carrot or apple; magnifier
+- Fill a container with oats.
+- Add a few mealworms and a carrot slice.
+- Check every few days.
+- Watch them become pupae and then beetles.
+w: Mealworms are the larvae of darkling beetles. They go through complete metamorphosis.
+x: Measure their length every week.
+
+# Hatching Brine Shrimp
+e=🦐 a=6-12 d=Easy t=1-2 weeks
+m: brine shrimp eggs; jar; non-iodized salt; water; light; magnifier
+- Mix 1 tbsp salt in 2 cups water.
+- Sprinkle in a pinch of eggs.
+- Keep the jar warm and lit.
+- Watch for tiny swimmers in 1 to 2 days.
+w: Brine shrimp eggs can stay dormant for years until they reach salty water. Then they hatch.
+x: Shine a flashlight on one side and see if they swim toward light.
+
+# Oil Spill and Feathers
+e=🪶 a=7-12 d=Easy t=30 min
+m: feathers; vegetable oil; cocoa powder; bowl of water; dish soap; cotton balls
+- Mix oil and cocoa to make fake crude oil.
+- Dip a feather in water and notice it repels water.
+- Dip it in the oily water.
+- Try cleaning it with cotton balls, then soap.
+w: Oil clogs feathers so birds lose their waterproofing and warmth. Cleaning up oil spills is very difficult.
+x: Try sponges, spoons and fabric to clean the water.
+
+# Decomposition in a Bottle
+e=♻️ a=7-12 d=Easy t=4 weeks
+m: clear bottle; soil; banana peel; leaf; paper; plastic; foil; water
+- Layer soil and objects in a bottle.
+- Keep it damp.
+- Check each week.
+- Record which items break down.
+w: Microbes and fungi break down natural materials. Plastic and foil don't break down, which is why they cause waste problems.
+x: Try a corn-based fork and a regular plastic fork.
+
+# Animal Track Casts
+e=🐾 a=6-12 d=Medium t=1 hour
+m: plaster of Paris; water; cardboard strip; paper clip; bucket; brush
+- Find a clear track in mud or sand.
+- Put a cardboard ring around it.
+- Mix plaster and pour it into the ring.
+- Wait 30 minutes, then lift it out.
+- Brush it clean and identify the animal.
+w: Animal footprints show how they walk and what they are. Scientists use tracks to study animals they rarely see.
+x: Make a track guide of animals near your home.
+s: Wear a dust mask when mixing plaster.
+
+# Spider Web Sketching
+e=🕸️ a=6-12 d=Easy t=30 min
+m: notebook; pencil; spray bottle with water; magnifier
+- Find spider webs outside in the morning.
+- Lightly mist a web so it shows up better.
+- Sketch the shape.
+- Note where the spider sits.
+w: Spiders spin silk that is stronger than steel for its weight. Different spiders make different types of webs.
+x: Count the spokes and rings of an orb web.
+s: Observe but don't touch.
+
+# What Food Does Yeast Like Best?
+e=🍞 a=8-13 d=Medium t=1 hour
+m: 4 bottles; 4 balloons; yeast; warm water; sugar; honey; salt; flour
+- Add warm water and yeast to each bottle.
+- Add sugar, honey, salt or flour.
+- Put a balloon on each bottle.
+- Measure each balloon after 30 minutes.
+w: Yeast eats sugars to make carbon dioxide. Some foods are easier for yeast to use than others.
+x: Graph your results.
+
+# Bendy Chicken Bone
+e=🍗 a=8-13 d=Easy t=3-5 days
+m: clean chicken leg bone; jar; vinegar
+- Bend the clean bone gently. Notice how hard it is.
+- Put it in a jar covered with vinegar.
+- Leave it for 3 days.
+- Rinse and bend it again.
+w: Vinegar dissolves calcium that makes bones hard. Without calcium, bones become bendy. That's why we need calcium.
+x: Compare bones soaked for 1, 3 and 7 days.
+
+# Food Chain Mobile
+e=🦊 a=6-11 d=Easy t=45 min
+m: paper plates; string; hanger; markers; scissors
+- Draw a sun, plants, plant eaters and meat eaters.
+- Cut them out.
+- Hang them in order from the hanger.
+- Explain how energy passes up the chain.
+w: Energy starts with the sun, goes to plants, then to animals that eat plants, then to animals that eat other animals.
+x: Make a food web showing many connections.
+
+# Bat Echolocation Game
+e=🦇 a=6-11 d=Easy t=20 min
+m: blindfold; open space; group of friends
+- One player is the bat and wears a blindfold.
+- Other players are moths.
+- The bat calls "Bat!" and the moths answer "Moth!".
+- The bat uses the sounds to find and tag the moths.
+w: Bats send out sounds and listen for echoes to find insects in the dark. This is called echolocation.
+x: Add tree players who answer "Tree!" to make it harder.
+
+# Sweep Net Bug Collection
+e=🦗 a=6-12 d=Easy t=45 min
+m: sweep net; white sheet or tray; magnifier; jars; insect guide
+- Sweep the net through tall grass.
+- Empty it gently onto a white sheet.
+- Use a magnifier to observe.
+- Identify and count types of insects.
+- Release them back.
+w: Insects are the most common animals on Earth. Counting them helps scientists check the health of ecosystems.
+x: Compare a grassy area with a lawn.
+
+# Jello Cell Model
+e=🟢 a=8-13 d=Easy t=1 hour
+m: light-colored gelatin; zip bag; candies and fruit; container
+- Make gelatin and let it cool slightly.
+- Pour it into a zip bag inside a container.
+- Add items for each cell part: grape for nucleus, sprinkles for ribosomes.
+- Chill until set.
+- Label each part.
+w: Cells have parts called organelles that each do a job, like the nucleus which holds DNA.
+x: Make a plant cell model with a box for the cell wall.
+
+# Vertebrate or Invertebrate?
+e=🐟 a=5-10 d=Easy t=20 min
+m: animal picture cards; two hoops or boxes
+- Look at each animal picture.
+- Decide if it has a backbone.
+- Sort into vertebrates and invertebrates.
+- Check your answers.
+w: Vertebrates have backbones, like fish and mammals. Invertebrates don't, like worms, insects and jellyfish.
+x: Sort vertebrates into mammals, birds, reptiles, amphibians and fish.
+
+# Earthworm Light Test
+e=🪱 a=7-12 d=Easy t=20 min
+m: earthworms; tray; damp paper towel; flashlight; dark cloth
+- Lay worms on damp paper towel in a tray.
+- Cover half the tray with a dark cloth.
+- Shine a light on the other half.
+- Watch where they go after 10 minutes.
+w: Earthworms have no eyes, but their skin senses light. They move away from light to stay damp and safe.
+x: Test warm vs cool.
+s: Keep worms damp and return them to the garden.
+
+# Lichen Air Quality Survey
+e=🌿 a=8-13 d=Easy t=1 hour
+m: magnifier; notebook; camera; lichen guide; small square frame
+- Find trees in a busy area and a quiet park.
+- Hold a square frame on the bark at the same height.
+- Count lichen patches and note their types: flat, leafy or bushy.
+- Compare the two places.
+w: Lichens are partnerships between fungi and algae. Bushy lichens need very clean air, so more lichen usually means cleaner air.
+x: Make a lichen map of your neighborhood.
+
+# Fruit Fly Life Cycle
+e=🪰 a=7-12 d=Easy t=2 weeks
+m: jar; ripe banana; paper funnel; magnifier; mesh or cloth
+- Put banana in a jar.
+- Leave it open outdoors for a day to catch flies.
+- Cover with mesh.
+- Watch eggs, larvae and adults appear.
+w: Fruit flies go from egg to adult in about 10 days, so scientists use them to study how traits pass to young.
+x: Count how many flies hatch each day.
+
+# Homemade Yogurt
+e=🥄 a=7-12 d=Medium t=overnight
+m: 2 cups milk; 2 tbsp plain yogurt with live cultures; saucepan; thermometer; jar; towel
+- An adult heats milk until steaming and lets it cool until warm (about 43°C).
+- Stir in the yogurt.
+- Pour into a jar and wrap it in a towel.
+- Keep it warm for 8 hours.
+- Refrigerate and enjoy.
+w: Helpful bacteria eat the sugar in milk and make acid, which thickens it into yogurt.
+x: Compare fermenting for 6 hours and 12 hours.
+s: Adults handle hot milk.
+
+# Invent a Creature
+e=🐲 a=6-12 d=Easy t=45 min
+m: paper; markers; habitat cards (desert, ocean, arctic, rainforest)
+- Choose a habitat card.
+- Design an animal that could survive there.
+- Label its special features, like fur or webbed feet.
+- Present your creature and explain its adaptations.
+w: Animals have adaptations that help them survive in their habitats, like camels storing fat or penguins having thick feathers.
+x: Build your creature with clay.
+
+# Penguin Huddle Experiment
+e=🐧 a=7-12 d=Easy t=40 min
+m: 7 small jars; warm water; thermometer; rubber bands; tray
+- Fill 7 jars with warm water of the same temperature.
+- Bundle 6 jars around 1 in the middle with rubber bands.
+- Keep one separate jar alone.
+- Measure the temperature of the middle jar and the alone jar every 10 minutes.
+w: Penguins huddle to share warmth and block cold wind. The middle of the huddle stays much warmer.
+x: Put the jars in the fridge to make it harder.
+
+# Shark Liver Buoyancy
+e=🦈 a=8-12 d=Easy t=20 min
+m: 2 identical small bottles with lids; vegetable oil; water; tub of water; coins; tape
+- Fill one bottle with oil and the other with water.
+- Put both in a tub of water.
+- See which floats higher.
+- Tape coins to each until it sinks.
+w: Most fish have an air-filled swim bladder, but sharks have a huge oily liver. Oil is lighter than water, so it helps sharks stay afloat.
+x: Find how many coins the oil bottle can hold up.
+
+# Life Cycle Spinner Wheel
+e=🐸 a=5-10 d=Easy t=30 min
+m: 2 paper plates; brass fastener; markers; scissors
+- Divide one plate into 4 sections.
+- Draw the life stages of a frog in each.
+- Cut a window in the second plate.
+- Join them with a fastener and spin to see each stage.
+w: Frogs go through metamorphosis: egg, tadpole, froglet and adult frog.
+x: Make spinners for a chicken, ladybug and plant.
+
+# Square Meter Biodiversity
+e=🔲 a=7-13 d=Easy t=45 min
+m: string; 4 sticks; magnifier; notebook; field guide
+- Mark a 1 m square with sticks and string.
+- Count all plants and animals inside.
+- Record each kind.
+- Compare different areas.
+w: Biodiversity means the variety of life in an area. Healthy ecosystems usually have many different species.
+x: Compare a lawn, a garden bed and a forest floor.
+
+# Cricket Chirp Thermometer
+e=🦗 a=9-13 d=Easy t=20 min
+m: evening outdoors; stopwatch; thermometer
+- Listen for a single cricket chirping.
+- Count chirps for 14 seconds.
+- Add 40 to get the temperature in °F.
+- Check against a thermometer.
+w: Crickets are cold-blooded. Their muscles work faster when it's warm, so they chirp faster.
+x: Track chirps over a week and graph them against temperature.
+
+# Seashell Classification
+e=🐚 a=5-11 d=Easy t=30 min
+m: collection of seashells; magnifier; shell guide; egg carton
+- Sort shells by shape, color and size.
+- Separate one-piece (gastropod) shells and two-piece (bivalve) shells.
+- Identify some with a guide.
+- Store them in an egg carton with labels.
+w: Shells are made by soft-bodied animals called mollusks. They build shells from calcium carbonate.
+x: Drop one shell in vinegar and watch what happens.
