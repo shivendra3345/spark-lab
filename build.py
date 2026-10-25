@@ -39,7 +39,7 @@ ADSENSE_SLOT = ""
 # child-directed (no interest-based ads), which COPPA requires for kids' sites.
 ADS_CHILD_DIRECTED = True
 # Shown on the privacy page so visitors can reach you.
-CONTACT_EMAIL = "your-email@example.com"
+CONTACT_EMAIL = "hello@spsolutions.tech"
 
 ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
