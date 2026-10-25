@@ -32,9 +32,18 @@ GOOGLE_SITE_VERIFICATION = ""
 # ---- Google AdSense ----
 # Your publisher ID from AdSense, e.g. "ca-pub-1234567890123456". Leave empty for no ads.
 ADSENSE_CLIENT = ""
-# Optional: an ad unit slot ID (from AdSense > Ads > By ad unit) to show one ad on each
-# project page, below "What's going on?". Leave empty to rely on Auto ads only.
-ADSENSE_SLOT = ""
+# Ad unit slot IDs (AdSense > Ads > By ad unit > Display ads). Create one unit per
+# spot so AdSense can report which spot earns most. Leave a spot empty to skip it.
+ADSENSE_SLOTS = {
+    "project_content": "",   # project page, after "What's going on?"   (best performer)
+    "project_side":    "",   # project page, right column under the video (desktop)
+    "project_bottom":  "",   # project page, above "More ... projects"
+    "home":            "",   # home page, between "Classics" and "Done in 15 minutes"
+    "browse":          "",   # All projects page, below the results
+}
+# True = draw dashed "Ad space" boxes where ads will go, so you can preview the layout
+# before AdSense approves you. Set back to False before publishing.
+ADS_PREVIEW = True
 # This site is made for children. Keeping this True asks Google to treat ads as
 # child-directed (no interest-based ads), which COPPA requires for kids' sites.
 ADS_CHILD_DIRECTED = True
@@ -179,14 +188,28 @@ def head_extras(path):
         out.append(f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={e(ADSENSE_CLIENT)}" crossorigin="anonymous"></script>')
     return "\n".join(out)
 
-def ad_unit():
-    if not (ADSENSE_CLIENT and ADSENSE_SLOT):
+AD_LABELS = {
+    "project_content": "After the science explanation",
+    "project_side": "Right column, under the video",
+    "project_bottom": "Above related projects",
+    "home": "Between home page sections",
+    "browse": "Below the project list",
+}
+
+def ad_unit(spot, extra_class=""):
+    slot = ADSENSE_SLOTS.get(spot, "")
+    cls = f"ad-slot ad-{spot} no-print {extra_class}".strip()
+    if ADS_PREVIEW:
+        return (f'<div class="{cls} ad-preview" aria-hidden="true"><p class="small">Advertisement</p>'
+                f'<div class="ad-box"><strong>Ad space</strong><span>{e(AD_LABELS.get(spot, spot))}</span>'
+                f'<code>{e(spot)}</code></div></div>')
+    if not (ADSENSE_CLIENT and slot):
         return ""
     age = ' data-tag-for-age-treatment="1"' if ADS_CHILD_DIRECTED else ""
-    return (f'<div class="ad-slot no-print"><p class="small">Advertisement</p>'
+    return (f'<div class="{cls}"><p class="small">Advertisement</p>'
             f'<ins class="adsbygoogle" style="display:block" data-ad-client="{e(ADSENSE_CLIENT)}" '
-            f'data-ad-slot="{e(ADSENSE_SLOT)}" data-ad-format="auto" data-full-width-responsive="true"{age}></ins>'
-            f'<script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>')
+            f'data-ad-slot="{e(slot)}" data-ad-format="auto" data-full-width-responsive="true"{age}></ins>'
+            f'<script>(function(s){{if(s.parentNode.offsetWidth>0)(adsbygoogle=window.adsbygoogle||[]).push({{}});}})(document.currentScript);</script></div>')
 
 def page(title, body, base="", desc=TAGLINE, active="", body_class="", extra_head="", path=None):
     nav = "".join(
@@ -240,6 +263,7 @@ def page(title, body, base="", desc=TAGLINE, active="", body_class="", extra_hea
       <a href="{base}grown-ups.html">Teachers &amp; parents</a>
       <a href="{base}grown-ups.html#safety">Safety rules</a>
       <a href="{base}about.html">About</a>
+      <a href="{base}contact.html">Contact</a>
       <a href="{base}privacy.html">Privacy policy</a>
     </div>
   </div>
@@ -335,6 +359,8 @@ def build_home(projects, counts):
   {row([by[s] for s in classics if s in by])}
 </section>
 
+<div class="wrap">{ad_unit('home')}</div>
+
 <section class="section wrap">
   <div class="section-head"><h2>Done in 15 minutes</h2><a href="projects.html?time=quick">More quick projects</a></div>
   {row(quick)}
@@ -413,6 +439,7 @@ def build_browse(projects):
       <button type="button" class="btn" data-clear>Clear all filters</button>
     </div>
     <button type="button" class="btn btn-ghost more" id="more" hidden>Show more projects</button>
+    {ad_unit('browse', 'ad-browse')}
   </section>
 </div>
 """
@@ -502,7 +529,7 @@ def build_project(p, projects, idx_in_cat, cat_list):
           <h2>What's going on?</h2>
           <p>{e(p['why'])}</p>
         </section>
-        {ad_unit()}
+        {ad_unit('project_content')}
         {f'<section class="tryit"><h2>Try this next</h2><p>{e(p["tryit"])}</p></section>' if p['tryit'] else ''}
         <section class="journal no-screen">
           <h2>My lab notes</h2>
@@ -519,10 +546,12 @@ def build_project(p, projects, idx_in_cat, cat_list):
           <h2>Video</h2>
           {video}
         </section>
+        {ad_unit('project_side', 'ad-side')}
       </aside>
     </div>
 
     {pn}
+    {ad_unit('project_bottom')}
     <section class="related no-print">
       <h2>More {e(c['name'].lower())} projects</h2>
       <div class="grid">{''.join(card(r, base) for r in related)}</div>
@@ -581,6 +610,7 @@ def main():
     (OUT / "favorites.html").write_text(build_static_page("favorites.html", "My favorites", "favorites.html"), encoding="utf-8")
     (OUT / "about.html").write_text(build_static_page("about.html", "About", ""), encoding="utf-8")
     (OUT / "privacy.html").write_text(build_static_page("privacy.html", "Privacy policy", ""), encoding="utf-8")
+    (OUT / "contact.html").write_text(build_static_page("contact.html", "Contact", ""), encoding="utf-8")
     if ADSENSE_CLIENT:
         pub = ADSENSE_CLIENT.replace("ca-", "")
         (OUT / "ads.txt").write_text(f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n")
@@ -593,7 +623,7 @@ def main():
 
     if SITE_URL:
         u = SITE_URL.rstrip("/")
-        urls = ["", "projects.html", "topics.html", "grown-ups.html", "about.html", "privacy.html"] + [f"projects/{p['slug']}.html" for p in projects]
+        urls = ["", "projects.html", "topics.html", "grown-ups.html", "about.html", "privacy.html", "contact.html"] + [f"projects/{p['slug']}.html" for p in projects]
         (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
             + "\n".join(f"  <url><loc>{u}/{x}</loc></url>" for x in urls) + "\n</urlset>\n", encoding="utf-8")
         (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {u}/sitemap.xml\n")

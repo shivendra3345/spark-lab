@@ -118,7 +118,8 @@ All settings are at the top of `build.py`:
 | `SITE_URL` | your live address, e.g. `https://www.sparklab.com` (adds sitemap, robots.txt and canonical links) |
 | `GOOGLE_SITE_VERIFICATION` | the code from Search Console's "HTML tag" verification method |
 | `ADSENSE_CLIENT` | your AdSense publisher ID, e.g. `ca-pub-1234567890123456` (adds the AdSense script and `ads.txt`) |
-| `ADSENSE_SLOT` | optional ad unit ID, to show one ad on each project page |
+| `ADSENSE_SLOTS` | one ad unit ID per spot: project_content, project_side, project_bottom, home, browse |
+| `ADS_PREVIEW` | `True` shows dashed "Ad space" boxes so you can preview placement; set `False` before publishing |
 | `ADS_CHILD_DIRECTED` | keep `True`: this is a kids' site, so ads are requested as child-directed |
 | `CONTACT_EMAIL` | your email, shown on the privacy policy page |
 
