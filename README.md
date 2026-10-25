@@ -125,6 +125,27 @@ All settings are at the top of `build.py`:
 
 Rebuild with `python3 build.py`, then commit and push.
 
+### Turning ads on and off
+
+In `build.py`:
+- `ADS_ENABLED = False` turns every ad off.
+- `ADS_SPOTS_ON` turns each spot on or off (`True` / `False`).
+- `ADS_OFF_TOPICS = ["body"]` removes ads from a whole topic.
+- `ADS_OFF_PROJECTS = ["lemon-battery"]` removes ads from single project pages.
+
+Or use options for one build without editing the file:
+
+```
+python3 build.py --preview                         # dashed boxes show where ads go
+python3 build.py --no-ads                          # no ads anywhere
+python3 build.py --only project_content,home       # ads only in these spots
+python3 build.py --disable project_side,browse     # turn these spots off
+python3 build.py --enable browse                   # turn a spot back on
+```
+
+Spots: `project_content`, `project_side`, `project_bottom`, `home`, `browse`.
+Each build prints which spots are on. What you push is what goes live.
+
 ### Sitemap for Google
 
 Open `build.py`, set `SITE_URL` to your live address (e.g. `https://yourname.github.io/spark-lab`),

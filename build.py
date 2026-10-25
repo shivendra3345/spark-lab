@@ -8,7 +8,7 @@ Reads every content/*.txt file and writes a complete static website into ./docs
 Usage:  python3 build.py
 No extra packages needed (Python 3.8+).
 """
-import html, json, os, re, shutil, urllib.parse
+import argparse, html, json, os, re, shutil, urllib.parse
 from pathlib import Path
 
 # ---------------------------------------------------------------- settings
@@ -43,7 +43,25 @@ ADSENSE_SLOTS = {
 }
 # True = draw dashed "Ad space" boxes where ads will go, so you can preview the layout
 # before AdSense approves you. Set back to False before publishing.
-ADS_PREVIEW = True
+ADS_PREVIEW = False
+
+# ---- Ad on/off switches ----
+# Master switch: False turns every ad off (the AdSense script is removed too).
+ADS_ENABLED = True
+# Turn individual spots on (True) or off (False). A spot shows an ad only when it is
+# True here AND has a slot ID in ADSENSE_SLOTS above (or ADS_PREVIEW is on).
+ADS_SPOTS_ON = {
+    "project_content": True,
+    "project_side":    True,
+    "project_bottom":  True,
+    "home":            True,
+    "browse":          True,
+}
+# Topics with no ads at all (use topic slugs, e.g. ["body", "biology"]).
+ADS_OFF_TOPICS = []
+# Individual projects with no ads (use the page name without .html,
+# e.g. ["lemon-battery", "classic-baking-soda-volcano"]).
+ADS_OFF_PROJECTS = []
 # This site is made for children. Keeping this True asks Google to treat ads as
 # child-directed (no interest-based ads), which COPPA requires for kids' sites.
 ADS_CHILD_DIRECTED = True
@@ -184,7 +202,7 @@ def head_extras(path):
     out.append(f'<meta property="og:site_name" content="{e(SITE_NAME)}">')
     if GOATCOUNTER_CODE:
         out.append(f'<script data-goatcounter="https://{e(GOATCOUNTER_CODE)}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>')
-    if ADSENSE_CLIENT:
+    if ADSENSE_CLIENT and ADS_ENABLED and not ADS_PREVIEW:
         out.append(f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={e(ADSENSE_CLIENT)}" crossorigin="anonymous"></script>')
     return "\n".join(out)
 
@@ -196,7 +214,11 @@ AD_LABELS = {
     "browse": "Below the project list",
 }
 
-def ad_unit(spot, extra_class=""):
+def ad_unit(spot, extra_class="", project=None):
+    if not ADS_ENABLED or not ADS_SPOTS_ON.get(spot, False):
+        return ""
+    if project and (project["cat"] in ADS_OFF_TOPICS or project["slug"] in ADS_OFF_PROJECTS):
+        return ""
     slot = ADSENSE_SLOTS.get(spot, "")
     cls = f"ad-slot ad-{spot} no-print {extra_class}".strip()
     if ADS_PREVIEW:
@@ -529,7 +551,7 @@ def build_project(p, projects, idx_in_cat, cat_list):
           <h2>What's going on?</h2>
           <p>{e(p['why'])}</p>
         </section>
-        {ad_unit('project_content')}
+        {ad_unit('project_content', project=p)}
         {f'<section class="tryit"><h2>Try this next</h2><p>{e(p["tryit"])}</p></section>' if p['tryit'] else ''}
         <section class="journal no-screen">
           <h2>My lab notes</h2>
@@ -546,12 +568,12 @@ def build_project(p, projects, idx_in_cat, cat_list):
           <h2>Video</h2>
           {video}
         </section>
-        {ad_unit('project_side', 'ad-side')}
+        {ad_unit('project_side', 'ad-side', project=p)}
       </aside>
     </div>
 
     {pn}
-    {ad_unit('project_bottom')}
+    {ad_unit('project_bottom', project=p)}
     <section class="related no-print">
       <h2>More {e(c['name'].lower())} projects</h2>
       <div class="grid">{''.join(card(r, base) for r in related)}</div>
@@ -581,7 +603,44 @@ ADS_PRIVACY = """<section>
   </section>"""
 
 # ---------------------------------------------------------------- main
+def parse_args():
+    global ADS_ENABLED, ADS_PREVIEW
+    spots = list(ADS_SPOTS_ON)
+    ap = argparse.ArgumentParser(description="Build the Spark Lab website into ./docs")
+    ap.add_argument("--no-ads", action="store_true", help="turn every ad off for this build")
+    ap.add_argument("--preview", action="store_true", help="show dashed 'Ad space' boxes instead of real ads")
+    ap.add_argument("--only", metavar="SPOTS", help="comma list: show ads ONLY in these spots, e.g. --only project_content,home")
+    ap.add_argument("--disable", metavar="SPOTS", help="comma list: turn these spots off, e.g. --disable project_side,browse")
+    ap.add_argument("--enable", metavar="SPOTS", help="comma list: turn these spots on")
+    a = ap.parse_args()
+    def lst(v):
+        out = [x.strip() for x in (v or "").split(",") if x.strip()]
+        bad = [x for x in out if x not in spots]
+        if bad:
+            ap.error(f"unknown spot(s): {', '.join(bad)}. Valid spots: {', '.join(spots)}")
+        return out
+    if a.no_ads: ADS_ENABLED = False
+    if a.preview: ADS_PREVIEW = True
+    if a.only is not None:
+        keep = lst(a.only)
+        for k in spots: ADS_SPOTS_ON[k] = k in keep
+    for k in lst(a.disable): ADS_SPOTS_ON[k] = False
+    for k in lst(a.enable): ADS_SPOTS_ON[k] = True
+
+def ad_report():
+    if not ADS_ENABLED:
+        return "  Ads: OFF (master switch)"
+    mode = "PREVIEW boxes" if ADS_PREVIEW else ("live" if ADSENSE_CLIENT else "no publisher ID yet, nothing shown")
+    lines = [f"  Ads: {mode}"]
+    for k, on in ADS_SPOTS_ON.items():
+        state = "off" if not on else ("on" if (ADS_PREVIEW or ADSENSE_SLOTS.get(k)) else "on, but no slot ID")
+        lines.append(f"    {k:<16} {state}")
+    if ADS_OFF_TOPICS: lines.append(f"    no ads in topics: {', '.join(ADS_OFF_TOPICS)}")
+    if ADS_OFF_PROJECTS: lines.append(f"    no ads on {len(ADS_OFF_PROJECTS)} project page(s)")
+    return "\n".join(lines)
+
 def main():
+    parse_args()
     projects = load()
     counts = {s: sum(1 for p in projects if p["cat"] == s) for s in CAT}
     if OUT.exists():
@@ -631,6 +690,7 @@ def main():
     print(f"Built {len(projects)} projects into {OUT}")
     for s in CAT:
         print(f"  {CAT[s]['name']:<24} {counts[s]}")
+    print(ad_report())
 
 if __name__ == "__main__":
     main()
